@@ -5,30 +5,30 @@ This is a book covering many of the topics related to live visual performance.
 
 ## Contents
 
-0. About this book
+0. [About this book](00/)
 
 1. Getting started
-	* What are live visuals?
-	* Playing with video
-	* Video standards
-	* Resources and communities
+	* [What are live visuals?](01/)
+	* [Playing with video](02/)
+	* [Video standards](03/)
+	* [Resources and communities](04/)
 	
 2. Cinematic technique
-	* The cut
-	* Time
-	* Rhythmic sequence
-	* Montage
+	* [The cut](05/)
+	* [Time](06/)
+	* [Rhythmic sequence](07/)
+	* [Montage](08/)
 
 3. Input to output
-	* Video sources
-	* Image processing
-	* Final output
-	* Video feedback
+	* [Video sources](09/)
+	* [Image processing](10/)
+	* [Final output](11/)
+	* [Video feedback](12/)
 
 4. Motion design
-	* Animation
-	* Emergent behavior
-	* Visual choreography
+	* [Animation](13/)
+	* [Emergent behavior](14/)
+	* [Visual choreography](15/)
 
 5. Responsiveness
 	* Live visuals
