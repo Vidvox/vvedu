@@ -1,4 +1,4 @@
-# Time
+# Measuring Time
 
 A brief introduction to the different ways we measure time.
 
