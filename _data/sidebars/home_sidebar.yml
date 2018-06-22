@@ -72,7 +72,7 @@ entries:
       output: web, pdf
 
     - title: Handout 2
-      url: /handout_1.html
+      url: /handout_2.html
       output: web, pdf
 
     - title: Handout 3
