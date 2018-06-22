@@ -1,0 +1,24 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Syllabus
+      url: /course_syllabus.html
+    - title: Schedule
+      url: /course_schedule.html
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Handouts
+      folderitems:
+        - title: Handout 1
+          url: handout_1.html
+        - title: Handout 2
+          url: handout_2.html
+        - title: Handout 3
+          url: handout_3.html
+        - title: Handout 4
+          url: handout_4.html

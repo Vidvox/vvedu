@@ -1,0 +1,129 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Video 101
+  product: Video Classes
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction
+    output: web, pdf
+    folderitems:
+    - title: About This Course
+      url: /index.html
+      output: web
+
+    - title: Syllabus
+      url: /course_syllabus.html
+      output: web, pdf
+
+    - title: Course Requirements
+      url: /course_requirements.html
+      output: web, pdf
+
+    - title: Course Schedule
+      url: /course_schedule.html
+      output: web, pdf
+
+  - title: The Book
+    output: web, pdf
+
+    folderitems:
+    - title: Table of Contents
+      url: /book_chapters_index.html
+      output: web, pdf
+
+    - title: Chapter 1
+      url: /book_chapters_1.html
+      output: web, pdf
+
+    - title: Chapter 2
+      url: /book_chapters_1.html
+      output: web, pdf
+
+    - title: Chapter 3
+      url: /book_chapters_3.html
+      output: web, pdf
+
+    - title: Chapter 4
+      url: /book_chapters_4.html
+      output: web, pdf
+      
+  - title: Handouts
+    output: web, pdf
+
+    folderitems:
+    - title: Handout 1
+      url: /handout_1.html
+      output: web, pdf
+
+    - title: Handout 2
+      url: /handout_1.html
+      output: web, pdf
+
+    - title: Handout 3
+      url: /handout_3.html
+      output: web, pdf
+
+    - title: Handout 4
+      url: /handout_4.html
+      output: web, pdf
+      
+  - title: Reference
+    output: web, pdf
+
+    folderitems:
+    - title: Downloads
+      url: /ref_downloads.html
+      output: web, pdf
+    
+    - title: Glossary
+      url: /ref_glossary.html
+      output: web, pdf
+
+    - title: Bibliography
+      url: /ref_bibliography.html
+      output: web, pdf
+      
+    - title: Examples Library
+      url: /ref_examples.html
+      output: web, pdf
+
+  - title: Teaching Materials
+    output: web, pdf
+
+    folderitems:
+    - title: Read Me For Teachers
+      url: /teaching_index.html
+      output: web, pdf
+    
+    - title: Lesson Plan 1
+      url: /teaching_lesson_plan_1.html
+      output: web, pdf
+
+    - title: Lesson Plan 2
+      url: /teaching_lesson_plan_2.html
+      output: web, pdf
+
+    - title: Lesson Plan 3
+      url: /teaching_lesson_plan_3.html
+      output: web, pdf
+
+    - title: Lesson Plan 4
+      url: /teaching_lesson_plan_4.html
+      output: web, pdf
+      
