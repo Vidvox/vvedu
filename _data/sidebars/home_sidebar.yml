@@ -84,18 +84,18 @@ entries:
       output: web, pdf
     
     - title: Lesson Plan 1
-      url: /teaching_lesson_plan_1.html
+      url: /teaching_module_1.html
       output: web, pdf
 
     - title: Lesson Plan 2
-      url: /teaching_lesson_plan_2.html
+      url: /teaching_module_2.html
       output: web, pdf
 
     - title: Lesson Plan 3
-      url: /teaching_lesson_plan_3.html
+      url: /teaching_module_3.html
       output: web, pdf
 
     - title: Lesson Plan 4
-      url: /teaching_lesson_plan_4.html
+      url: /teaching_module_4.html
       output: web, pdf
       
