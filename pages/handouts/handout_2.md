@@ -19,20 +19,12 @@ We’re creating rhythm almost immediately after we begin performing -- it’s i
 * Progressive rhythm: The duration of images are changed over a progression, getting faster towards the end (2 sec, 1 sec, ½ sec, and so on)
 * Flowing (organic) rhythm: Occurs when the images or intervals are organic, used to create a feeling of visual polyphony.
 
+## Homework (Due Week 3)
+
 ## Lesson Overview
-
-### Demonstrations:
-
-### Exercises:
-
-
-### Discussion:
-
 
 ## Reference Links
 
 ## Resources
 
 ## Related Tutorials
-
-## Homework (Due Week 3)

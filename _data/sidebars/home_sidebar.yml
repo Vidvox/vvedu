@@ -38,30 +38,6 @@ entries:
     - title: Course Schedule
       url: /course_schedule.html
       output: web, pdf
-
-  - title: The Book
-    output: web, pdf
-
-    folderitems:
-    - title: Table of Contents
-      url: /book_chapters_index.html
-      output: web, pdf
-
-    - title: Chapter 1
-      url: /book_chapters_1.html
-      output: web, pdf
-
-    - title: Chapter 2
-      url: /book_chapters_1.html
-      output: web, pdf
-
-    - title: Chapter 3
-      url: /book_chapters_3.html
-      output: web, pdf
-
-    - title: Chapter 4
-      url: /book_chapters_4.html
-      output: web, pdf
       
   - title: Handouts
     output: web, pdf
@@ -97,10 +73,6 @@ entries:
 
     - title: Bibliography
       url: /ref_bibliography.html
-      output: web, pdf
-      
-    - title: Examples Library
-      url: /ref_examples.html
       output: web, pdf
 
   - title: Teaching Materials
