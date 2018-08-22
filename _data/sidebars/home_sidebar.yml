@@ -43,27 +43,27 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Handout 1
+    - title: Handout 1 - Live Visuals
       url: /handout_module_1.html
       output: web, pdf
 
-    - title: Handout 2
+    - title: Handout 2 - Montage
       url: /handout_module_2.html
       output: web, pdf
 
-    - title: Handout 3
+    - title: Handout 3 - Intro to Motion Design
       url: /handout_module_3.html
       output: web, pdf
 
-    - title: Handout 4
+    - title: Handout 4 - Visual Music
       url: /handout_module_4.html
       output: web, pdf
 
-    - title: Handout 5
+    - title: Handout 5 - Aesthetic Overview
       url: /handout_module_5.html
       output: web, pdf
 
-    - title: Handout 6
+    - title: Handout 6 - Show Production
       url: /handout_module_6.html
       output: web, pdf
 

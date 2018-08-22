@@ -1,15 +1,15 @@
 ---
-title: Final Project / Performance
+title: Show Production
 keywords: 
 last_updated: August 22, 2018
 tags: [handouts]
-summary: "Handout for Final Project / Performance"
+summary: "Handout for Show Production"
 sidebar: home_sidebar
 permalink: handout_module_6.html
 folder: handouts
 ---
 
-# Show Production: Final Project / Performance
+# Show Production
 
 It’s showtime! 
 

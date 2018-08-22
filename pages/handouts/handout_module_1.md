@@ -15,7 +15,7 @@ VJ’ing stems from “[Projection Design](https://www.svenortel.com/projection-
 
 The input and output of your images will have a great influence on content, context, aesthetics, and meaning. It is also a great way to play with “practical” effects, by having the materiality of the “screen” and/or the inherent aesthetics of the input device help further define your art. 
 
-## Lesson 1: Single and Multi-Channel Input / Output
+## Lesson 1: Video Input and Output
 
 Multi-channel output can add a physical, spatial element to your images, which is a great way to present split screen content, creating an immersive, spatial presentation of imagery. In the event of custom screens or architectural projection, a VJ can use mapping tools to crop and transform the imagery to fit seamlessly into the environment.
 
