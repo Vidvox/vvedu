@@ -15,7 +15,7 @@ VJ’ing stems from “[Projection Design](https://www.svenortel.com/projection-
 
 The input and output of your images will have a great influence on content, context, aesthetics, and meaning. It is also a great way to play with “practical” effects, by having the materiality of the “screen” and/or the inherent aesthetics of the input device help further define your art. 
 
-# Lesson 1: Single and Multi-Channel Input / Output
+## Lesson 1: Single and Multi-Channel Input / Output
 
 Multi-channel output can add a physical, spatial element to your images, which is a great way to present split screen content, creating an immersive, spatial presentation of imagery. In the event of custom screens or architectural projection, a VJ can use mapping tools to crop and transform the imagery to fit seamlessly into the environment.
 
@@ -27,7 +27,7 @@ This week, we will experiment with the addition of live-camera feeds into your p
 
 We will then explore multiple outputs from VDMX, and how the context and relationship of the imagery changes when seen from multiple perspectives. 
 
-## Lesson Overview
+### Lesson Overview
 
 Inputs
 * Cameras
@@ -48,14 +48,14 @@ Outputs
 * System Preferences Displays
 * Color calibration
 
-## Reference Links
+### Reference Links
 
 * [The AVF Batch Exporter](https://docs.vidvox.net/freebies_avf_batch_exporter.html)
 * [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/)
 * [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md)
 * [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md)
 
-## Related Tutorials
+### Related Tutorials
 
 * [Using the Simple Player template](https://vdmx.vidvox.net/tutorials/using-the-simple-player-template)
 * [Recording movies in VDMX](https://vdmx.vidvox.net/tutorials/recording-movies-to-disk)
@@ -67,17 +67,17 @@ Outputs
 * [Creating video feedback loops in VDMX](https://vdmx.vidvox.net/tutorials/creating-video-feedback-loops-on-a-mac-with-vdmx)
 * [Converting media files to HAP](http://hap.video/using-hap.html)
 
-## Case Studies
+### Case Studies
 
 * [Using Lumen and VDMX together with Syphon with guest Wiley Wiggins](https://vdmx.vidvox.net/tutorials/wiley-wiggins-lumen-and-vdmx)
 * [DMX Controlled Shobaleader One Face Masks](https://vdmx.vidvox.net/blog/shobaleader-one-masks)
 
-## Homework
+### Homework
 
 * Record 5 clips using a live web-cam with different sets of FX applied.
 * Connect to an external display (such as a projector, TV or monitor) using an HDMI, DVI, VGA or similar connection.
 
-# Lesson 2: Responsiveness
+## Lesson 2: Responsiveness
 
 VJ’ing design is a [cybernetic](https://en.wikipedia.org/wiki/Cybernetics) art form; we are essentially creating a visual instrument. The goal of many visual performers is to have a close and immediate interface with computers, to make them expressive. Their goal is to use these machines to emote, thereby making the computer's presence invisible. 
 
@@ -89,7 +89,7 @@ The presence of real-time effects and audio-responsive imagery increases the syn
 
 This week, we will explore interactive concepts that extend the moving image beyond the timeline to real-time interactive expression, using data mappings from physical interfaces such as keyboards, MIDI, OSC and DMX lighting boards.
 
-## Lesson Overview
+### Lesson Overview
 
 * Linking layer and FX controls to Audio Analysis 
 * MIDI and OSC instruments / controllers
@@ -97,12 +97,12 @@ This week, we will explore interactive concepts that extend the moving image bey
 * Add audio reactivity to FX and layer parameters
 * Add MIDI (or OSC) control to FX and layer parameters
 
-## Reference Links
+### Reference Links
 
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 * MIDI Controllers discussion thread on forums
 
-## Related Tutorials
+### Related Tutorials
 
 * [4 Layer Korg nanoKontrol Template](https://vdmx.vidvox.net/tutorials/4-layer-korg-nanokontrol2-template)
 * [Enabling MIDI and OSC Echo Mode](https://vdmx.vidvox.net/tutorials/using-echo-mode-for-easy-setup-midi-and-osc-talkback-in-vdmx)
@@ -110,11 +110,11 @@ This week, we will explore interactive concepts that extend the moving image bey
 * [Automatic BPM Detection in VDMX](https://vdmx.vidvox.net/tutorials/how-to-build-the-waveclock-example-template)
 * [Using game controllers in VDMX](https://vdmx.vidvox.net/tutorials/using-video-game-controllers-with-vdmx)
 
-## Case Studies
+### Case Studies
 
 * [The ECLECTIC METHOD REMIX, Part Two - Jamming](https://vdmx.vidvox.net/tutorials/the-eclectic-method-remix-part-two-jamming)
 * [PZYK SKAN – EEG Controlled Sound and Visuals](https://vdmx.vidvox.net/blog/pzyk-skan-eeg-controlled-visuals)
 
-## Homework
+### Homework
 
 * Record 5 clips, using any single source type (eg live web-cam), with different sets of FX applied while using audio analysis, MIDI or OSC to control the parameters.

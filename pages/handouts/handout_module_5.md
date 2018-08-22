@@ -19,7 +19,7 @@ Paintings or other, more 'worked,' visual forms, provide a second meaning to the
 
 Regardless of treatment, consider how the aesthetics influence the mood and meaning of the imagery, the tone and themes in the music, and your desired intent. 
 
-# Lesson 1: Mood board / storyboarding
+## Lesson 1: Mood board / storyboarding
 
 A visual performer will need to plan out the theme, setting, and mood for a performance or a production before any editing, composing or programming begins. They will also want to plan out, or “[storyboard](https://en.wikipedia.org/wiki/Storyboard)” a script for choreographing various forms to music.
 
@@ -27,7 +27,7 @@ Start by creating a primer, or “[mood board](http://www.gomoodboard.com/),” 
 
 Next, storyboard the desired sequence for your music. In the animation industry, storyboards are comprised of “extremes and in-betweens.” Extremes are moments that set the exact mood, emotion, or key image in a sequence. In-betweens are the transitional frames that move from one extreme to the next. 
 
-## Lesson Overview
+### Lesson Overview
 
 * Using VDMX as a sketchpad to work out ideas, create demos.
 * Screen grab or image capture stills 
@@ -35,27 +35,27 @@ Next, storyboard the desired sequence for your music. In the animation industry,
 * Creating “mood boards” to define style and general aesthetics 
 * Storyboarding for pacing and spacing of visual events and transitions, i.e., “extremes and in-betweens”
 
-## Reference Links
+### Reference Links
 
-## Resources
+### Resources
 
 * Storyboard template and examples
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * [Show Production: From Mood Boards to Technical Riders](https://vdmx.vidvox.net/tutorials/from-mood-boards-to-technical-riders)
 
-## Homework
+### Homework
 
 * Using selected music, create a mood board and 24-frame storyboard for final project.
 
 https://en.wikipedia.org/wiki/Storyboard
 
-# Lesson 2: Styling Your Look
+## Lesson 2: Styling Your Look
 
 We should consider how effects and digital manipulation influences the interpretation of our imagery. They will have their own connotations and history. For instance, effects that simulate an old VHS tape or an analogue synth may tie it to a certain era, e.g., the “Stranger Things” opening title.
 
-## Lesson Overview
+### Lesson Overview
 
 * Styling with LUTs
 * Minimalism
@@ -63,11 +63,11 @@ We should consider how effects and digital manipulation influences the interpret
 * Glitch
 * 3D Graphics
 
-## Reference Links
+### Reference Links
 
-## Resources
+### Resources
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * Using LUT based FX in VDMX
 * VDMX Visual FX Overview
@@ -75,7 +75,7 @@ We should consider how effects and digital manipulation influences the interpret
 * CandyStations live visuals for Sufjan Stevens Age of Adz
 * Creating a Retro Halloween style in VDMX
 
-## Homework
+### Homework
 
 * Create an mix that uses at least three different styles as a sketch for your final project.
 

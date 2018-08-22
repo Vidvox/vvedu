@@ -44,21 +44,29 @@ entries:
 
     folderitems:
     - title: Handout 1
-      url: /handout_1.html
+      url: /handout_module_1.html
       output: web, pdf
 
     - title: Handout 2
-      url: /handout_2.html
+      url: /handout_module_2.html
       output: web, pdf
 
     - title: Handout 3
-      url: /handout_3.html
+      url: /handout_module_3.html
       output: web, pdf
 
     - title: Handout 4
-      url: /handout_4.html
+      url: /handout_module_4.html
       output: web, pdf
-      
+
+    - title: Handout 5
+      url: /handout_module_5.html
+      output: web, pdf
+
+    - title: Handout 6
+      url: /handout_module_6.html
+      output: web, pdf
+
   - title: Reference
     output: web, pdf
 

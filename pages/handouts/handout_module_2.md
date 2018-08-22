@@ -20,13 +20,13 @@ A central technique of VJ’ing is the remix, a collection of cuts. In cinema, w
 In our first module, Montage, you will learn a range of basic editing and layering principles, developing their timing skills as they develop sensitivity to successiveness, temporal order, and simultaneity. These will be used to contrast clock-time with subjective time, duration, temporal continuity, the feelings of anticipation and expectation, and the shifting of temporal perspectives as it relates to content.
 
 
-# Lesson 1: The Cut
+## Lesson 1: The Cut
 
 One of the oldest examples of montage editing is called the “Kuleshov Effect.” This experiment demonstrated cinema’s unique capacity as an art form to conjure emotional reactions from the relationship between indexical images. 
 
 You will use this cornerstone of editing as your first VJ’ing exercise, eliciting different responses and correlations by strategically ordering content. Finally, you will experiment with different ‘soundtracks’ to greater influence emotion and meaning.
 
-## Lesson Overview
+### Lesson Overview
 
 * Using templates in VDMX
 * Using the Kuleshov example project
@@ -36,22 +36,22 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 * Uploading recordings to Vimeo / Youtube
 * Discussion: Silence vs Music
 
-## Reference Links
+### Reference Links
 
 * [The Kuleshov Effect](https://en.wikipedia.org/wiki/Kuleshov_effect)
 * [Hitchcock explains montage and Kuleshov](https://www.youtube.com/watch?v=NG0V7EVFZt4)
 
-## Resources
+### Resources
 
 * Kuleshov Sample Clips and Project
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * [Using the Simple Player template](https://vdmx.vidvox.net/tutorials/using-the-simple-player-template)
 * [Case study: The ECLECTIC METHOD REMIX, Part One - Making Loops](https://vdmx.vidvox.net/tutorials/the-eclectic-method-remix-part-one-making-loops)
 
-## Homework
+### Homework
 
 * Record a set of 5-second Kuleshov-esque clips using your iPhone or prefered camera. The subject (face) should remain neutral, while the objects of its gaze should vary in content, to achieve three distinct, emotive responses. For instance:
 * * Flower (beauty/awe)
@@ -66,7 +66,7 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 * * Soundtrack 1 (dramatic)
 * * Soundtrack 2 (silly)
 
-# Lesson 2: Rhythmic Sequence
+## Lesson 2: Rhythmic Sequence
 
 Eisenstein's montage theories are based on the idea that montage originates in the "collision" between different shots in an illustration of the idea of thesis and antithesis. His collisions of shots were based on conflicts of scale, volume, rhythm, motion (speed, as well as direction of movement within the frame), as well as more conceptual values such as class.
 
@@ -78,7 +78,7 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 * Progressive rhythm: The duration of images are changed over a progression, getting faster towards the end (2 sec, 1 sec, ½ sec, and so on)
 * Flowing (organic) rhythm: Occurs when the images or intervals are organic, used to create a feeling of visual polyphony. Think VJ’ing to wind chimes.
 
-## Lesson Overview
+### Lesson Overview
 
 * Sequencing content using Media Bins, Layer Controls, and Data Sources
 * * Linear and non-linear playback
@@ -91,7 +91,7 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 * Create the three primary rhythmic sequences using provided video clips 
 * Record edits with provided audio samples, experimenting with different tempos and structures (beats per minute, seconds, etc)
 
-## Reference Links
+### Reference Links
 
 * [Montage theory](https://en.wikipedia.org/wiki/Soviet_montage_theory)
 * [Sergei Eisenstein](https://en.wikipedia.org/wiki/Sergei_Eisenstein)
@@ -100,20 +100,20 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 * [Chaka Khan “Like Sugar”](https://www.youtube.com/watch?v=RecY5iZn6B0)
 * [Talked About Scene: Episode 207: Better Call Saul: Inflatable](https://www.youtube.com/watch?v=6j6K6zWT-Nc)
 
-## Resources
+### Resources
 
 * [Freesound.org](Freesound.org)
 * [YouTube Royalty Free Library](https://www.youtube.com/audiolibrary/music)
 Sample template for sequencing clips
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * [Using VDMX to create online profile pictures](https://vdmx.vidvox.net/tutorials/creating-an-online-profile-pic)
 * [Using a Step Sequencer to trigger media clips](https://vdmx.vidvox.net/tutorials/using-a-step-sequencer-to-trigger-media-clips)
 * [Loops – Performance, Production, and Progression](https://vdmx.vidvox.net/tutorials/loops-performance-production-and-progression)
 * [Automatic BPM Detection in VDMX](https://vdmx.vidvox.net/tutorials/enabling-automatic-bpm-detection-in-vdmx-clock-plugin-using-waveclock)
 
-## Homework
+### Homework
 
 * Record and import three, 30-second clips using your preferred camera
 * Create three rhythmic sequences with corresponding audio tracks:
@@ -122,7 +122,7 @@ Sample template for sequencing clips
 * * Flowing (Organic)
 * Record sequences that are 6-30 seconds in length
 
-# Lesson 3: Cinéma Pur
+## Lesson 3: Cinéma Pur
 
 From the 1930s to the 1950s, montage sequences often combined numerous short shots with special optical effects (fades, dissolves, split screens, double and triple exposures) dance and music. 
 
@@ -130,7 +130,7 @@ The [Cinéma Pur](https://en.wikipedia.org/wiki/Cin%C3%A9ma_pur) movement was to
 
 For this exercise, you will experiment with the layering of indexical material to create new visual associations and meanings using a select range of optical effects. Experiment superimposing contrasting imagery — abstract and realistic, light and dark, graphic and photographic, fast and slow, human and machine. Be prepared to discuss the emergence of this third image with a statement of intent.
 
-## Lesson Overview
+### Lesson Overview
 
 * Two-Channel Mixer
 * * Layer Modes (Add, et al)
@@ -149,7 +149,7 @@ For this exercise, you will experiment with the layering of indexical material t
 * Using longer clips as a backing track and mixing in elements over it.
 * Using clips with high motion vs slow motion, motion in different directions.
 
-## Reference Links
+### Reference Links
 
 * [Cinéma Pur](https://en.wikipedia.org/wiki/Cin%C3%A9ma_pur)
 * [Man With A Movie Camera](https://www.youtube.com/watch?v=z97Pa0ICpn8)
@@ -157,19 +157,19 @@ For this exercise, you will experiment with the layering of indexical material t
 * [‘Recent Arts’ from Valentina Berthelon and Tobias Freund](https://www.xlr8r.com/reviews/tobias-freund-valentina-berthelon-recent-arts)
 * [HERMAN KOLGEN / SEISMIK](https://vdmx.vidvox.net/blog/herman-kolgen-seismik)
 
-## Resources
+### Resources
 
 * Mixer, chroma mask and layer mask templates
 * Sample hi-con, motion graphics
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * [Luma Key Techniques for Layer Composition](https://vdmx.vidvox.net/tutorials/masking-techniques-for-layer-composition)
 * [The Layer Mask FX](https://vdmx.vidvox.net/tutorials/applying-a-mask-to-a-layer)
 * [Chroma Key Basics](https://vdmx.vidvox.net/tutorials/chromakey-basics)
 * [How to apply an FX to only part of a layer](https://vdmx.vidvox.net/tutorials/using-a-mask-to-apply-an-fx-to-only-part-of-a-layer)
 
-## Homework
+### Homework
 
 * Record and import three, 30-second clips using your preferred camera. 
 * Find or create three hi-con images

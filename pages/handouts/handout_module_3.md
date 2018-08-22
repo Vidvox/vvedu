@@ -19,7 +19,7 @@ The fundamentals of [motion design](https://en.wikipedia.org/wiki/Motion_graphic
 
 In this module, you will learn a range of basic compositional and motion design principles, developing their timing skills as they develop sensitivity to successiveness, temporal order, and simultaneity. This will include using techniques such as contrasting clock-time with subjective time, duration, continuity, and the feelings of anticipation and expectation and the shifting of temporal perspectives.
 
-# Lesson 1: Stills to Motion
+## Lesson 1: Stills to Motion
 
 [Gestalt](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm), a psychology term meaning “unified whole,” contains laws of visual perception developed by German psychologists in the 1920s. Its principles explain how we can perceive a succession of stills images as fluid reality.
 
@@ -29,7 +29,7 @@ According to the [laws of similarity and proximity](https://www.interaction-desi
 
 We will then explore the [law of continuation](https://www.interaction-design.org/literature/article/laws-of-proximity-uniform-connectedness-and-continuation-gestalt-principles-2), by first applying the same linear movement to each shape, then by influencing its arc of motion in a relational way. 
 
-## Lesson Overview
+### Lesson Overview
 
 * Animating basic shapes
 * * ISF Shape Layers
@@ -43,26 +43,26 @@ We will then explore the [law of continuation](https://www.interaction-design.or
 * * Implement the same linear motion for each circle (position, zoom, et al)
 * * Apply LFO’s/Num FX to create a phased continuation (delay, etc)
 
-## Reference Links
+### Reference Links
 
 * [Variations on a Circle](https://www.youtube.com/watch?v=TnU88XWYjEs&index=22&t=65s&list=PL9C7F0FD297628D28)
 
-## Resources
+### Resources
 
 * ISF shape generator examples
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * [Animating Properties of GLSL Shaders in VDMX](https://vdmx.vidvox.net/tutorials/animating-properties-of-glsl-shaders-in-vdmx)
 * [Pixel Spirit Deck](https://vdmx.vidvox.net/blog/pixel-spirit-deck-table)
 
-## Homework
+### Homework
 
 * Create and record three black and white shape-based sequences using variations of the Gestalt principles
 * * ~10 seconds without music
 * * ~10 seconds with music, adjusting timing for tempo
 
-# Lesson 2: Color and Choreography
+## Lesson 2: Color and Choreography
 
 To create a more complex visual, a VJ will conceptualize and compose the choreography of various elements temporally (timing) and spatially (arrangement). By manipulating the basic shapes’ attributes over time and space using controlled animation, we can extend the motion design fundamentals into dynamic, [synaesthetic](https://www.dictionary.com/browse/synaesthetic) compositions. 
 
@@ -76,7 +76,7 @@ We will then augment the color relationships by experimenting with layer modes (
 
 Finally, refine the timing of your final composition to music by syncing the motion to the clock (BPM), step sequencers, and/or the cue list for optimal control.
 
-## Lesson Overview
+### Lesson Overview
 
 * Animating shapes using control plugins
 * “Zooming” 
@@ -90,36 +90,36 @@ Finally, refine the timing of your final composition to music by syncing the mot
 * RGB circles using position/rotation LFO’s
 * Refine timing to music using step sequencer and cue list
 
-## Reference Links
+### Reference Links
 
 * [Busby Berkeley clip](https://www.youtube.com/watch?v=kIO9y1xMPIA)
 * [The Dot and The Line](https://www.youtube.com/watch?v=hgqUya0kGPA)
 * [How Saul Bass Changed Film and TV Forever](https://www.wired.com/2016/10/design-legend-saul-bass-changed-film-tv-forever/)
 * [Death Cab for Cutie - You Are A Tourist, Official Video](https://www.youtube.com/watch?v=qkk5wViJo-I)
 
-## Resources
+### Resources
 
 * Bouncing out of phase RGB circles driven by LFOs 
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * [Step Sequencer Color Tracks](https://vdmx.vidvox.net/tutorials/step-sequencer-color-tracks)
 * [Mixing, Adjusting and Generating Complementary Color Data-Sources in VDMX](https://vdmx.vidvox.net/tutorials/generating-complementary-colors-in-vdmx-with-qc)
 
-## Homework
+### Homework
 
 * Create three RGB circle comps with background layer
 * * Concentric “Zooming”
 * * Position / rotation using LFOs 
 * * Step Sequencer to music
 
-# Lesson 3: Collaborating with Musicians
+## Lesson 3: Collaborating with Musicians
 
 In the case where visuals and lighting are being performed live along with music, there is the possibility for both sides to respond and react, in the way the members of a band can improvise or riff off each other, or create an informal jam session to try out new ideas.
 
 When collaborating with musicians directly on the creation of new work, visual artists have an opportunity to influence the way that the sound and imagery are connected in time and feeling. For live performances this also allows for the possibility of sharing timecode and other control information between systems for an added level of synchronization.
 
-## Lesson Overview
+### Lesson Overview
 
 * The Control Surface plugin
 * MIDI software
@@ -135,18 +135,18 @@ When collaborating with musicians directly on the creation of new work, visual a
 * * OSCQuery Client plugin
 * * Using OSCQuery Helper and MIDI OSCQuery Helper
 
-## Reference Links
+### Reference Links
 
 * History of MIDI
 * About OSCQuery
 
-## Resources
+### Resources
 
 * [MIDI OSCQuery Helper](https://docs.vidvox.net/freebies_midi_oscquery_helper.html)
 * [OSCQuery Helper](https://docs.vidvox.net/freebies_oscquery_helper.html)
 * Ableton Live sample project
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * [The ECLECTIC METHOD REMIX, Part Three - Working with Ableton Live](https://vdmx.vidvox.net/tutorials/the-eclectic-method-remix-part-three-working-with-ableton-live)
 * [Using Ableton Link with VDMX](https://vdmx.vidvox.net/tutorials/ableton-link-in-vdmx)
@@ -156,6 +156,6 @@ When collaborating with musicians directly on the creation of new work, visual a
 * [More fun audio analysis techniques](https://vdmx.vidvox.net/tutorials/more-fun-audio-analysis-techniques)
 * [How to Turn an Old Building into an Interactive Driving Range ](https://vdmx.vidvox.net/tutorials/how-to-turn-an-old-building-into-an-interactive-driving-range-by-lumenal-code)
 
-## Homework
+### Homework
 
 * Create a 5 minute improvised piece using three different shapes and a background choreographed to music using audio reactivity and MIDI/OSC control.

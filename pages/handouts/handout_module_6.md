@@ -26,13 +26,13 @@ Students can work on their own, or in a small group for this project by request 
 
 As we get ready for the final project and performance we will also begin to have a more in depth look at the world of show production and how to prepare for your first big events.
 
-# Lesson 1: Pre-Production
+## Lesson 1: Pre-Production
 
 Using our prepared mood boards and storyboards as a starting points we begin to gather and create the individual elements for the final project / performance. This can take the form of media files such as movies, still images, animated gifs and interactive generators, custom FX, as well as any physical portions that will be needed, such as projection surfaces.
 
 During the pre-production phase it can often be useful to work with other artists and technicians; this can help with filling in knowledge gaps and for being able to accomplish more tasks before a deadline.
 
-## Lesson Overview
+### Lesson Overview
 
 * Preparing cues
 * * Using the Cue List plugin in VDMX
@@ -41,7 +41,7 @@ During the pre-production phase it can often be useful to work with other artist
 * * What is fair use?
 * * Work for hire
 
-## Reference Links
+### Reference Links
 
 * [Fair Use in the Visual Arts](http://collegeart.org/pdf/fair-use/best-practice-fair-use-infographic.pdf)
 * [Fair Use FAQ](http://cmsimpact.org/resource/fair-use-frequently-asked-questions/)
@@ -49,9 +49,9 @@ During the pre-production phase it can often be useful to work with other artist
 * [Copyright and Fair Use Guidelines for Teachers](https://www.xavier.edu/library/about/documents/Copyright_9-23-08.pdf)
 * [Fiverr.com](https://www.fiverr.com/)
 
-## Resources
+### Resources
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * [Introduction to the Cue List plugin](https://vdmx.vidvox.net/tutorials/introduction-to-the-cue-list-plugin)
 * [Charles Atlas, Tesseract](https://vdmx.vidvox.net/blog/charles-atlas-tesseract)
@@ -59,11 +59,11 @@ During the pre-production phase it can often be useful to work with other artist
 * [Lucy Benson: Beautiful Worlds](https://vdmx.vidvox.net/blog/lucy-benson)
 * [Behind the scenes of DATA by Wolfshirt](https://vdmx.vidvox.net/blog/behind-the-scenes-of-data-by-wolfshirt)
 
-## Homework
+### Homework
 
 * Continue development of media resources and other elements for the final performance.
 
-# Lesson 2: Technical Riders and Contracts
+## Lesson 2: Technical Riders and Contracts
 
 When preparing to perform a show two of the most important documents an artist might prepare are the technical riders and contracts, which can be used to help define the working relationships with other people involved in the project.
 
@@ -73,7 +73,7 @@ Contracts can come into play to help specify the scope of a working relationship
 
 Another detail we will look at in this lesson are the various jobs that are crucial to the lifetime of a show production beyond the artists and performers themselves. In particular, visual artists and VJs may find themselves working closely with, or assuming the role of, the lighting designer (the LD) for a show. The LD also deals with light, color, themes, feelings and time, with many of the same intentions as the video side of a performance, and there are an enumerable number of ways to use the two techniques together to reach the level of epic event production.
 
-## Lesson Overview
+### Lesson Overview
 
 * What jobs are involved in a large show production?
 * What is a technical rider?
@@ -105,20 +105,20 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * * MTC, LTC and OSC sync
 * * Time markers
 
-## Reference Links
+### Reference Links
 
 * [Iggy Pop and the Stooges Rider](http://www.iggypop.org/stoogesrider.html)
 * [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/)
 * [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md)
 * [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md)
 
-## Resources
+### Resources
 
 * Technical rider starter template
 * Artist contract template
 * Work for hire contract template
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
 * [Show Production: From Mood Boards to Technical Riders](https://vdmx.vidvox.net/tutorials/from-mood-boards-to-technical-riders)
 * [Setting up VDMX as a DMX Controlled Media Server](https://vdmx.vidvox.net/tutorials/setting-up-vdmx-as-a-dmx-controlled-media-server)
@@ -127,7 +127,7 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * [Introduction to the Timecode plugin](https://vdmx.vidvox.net/tutorials/introduction-to-timecode)
 * [Rocking Visuals From Mike St Jean](https://vdmx.vidvox.net/blog/mike-st-jean)
 
-## Homework
+### Homework
 
 * Create an example technical rider for your dream setup / tour that includes:
 * * Contact information.
@@ -138,9 +138,9 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * * Hospitality / green room requirements.
 * Continue development of media resources and other elements for the final performance.
 
-# Lesson 3: Getting gig ready, Rehearsals and Performances
+## Lesson 3: Getting gig ready, Rehearsals and Performances
 
-## Lesson Overview
+### Lesson Overview
 
 * Rehearsals
 * Preparing a rig for travel
@@ -159,7 +159,7 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * * Introduction to iMovie / ScreenFlow and basic non-linear editing
 * * Creating a demo reel
 
-## Reference Links
+### Reference Links
 
 * [Harbor Freight](https://www.harborfreight.com/)
 * [Pelican Cases](https://www.thepelicanstore.com/)
@@ -167,13 +167,13 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * [GitHub](https://github.com/)
 * [Backblaze](https://www.backblaze.com/)
 
-## Resources
+### Resources
 
 * Packing checklist template
 
-## Related Tutorials and Case Studies
+### Related Tutorials and Case Studies
 
-## Homework
+### Homework
 
 * Make a packing checklist template that covers all of gear and other potential needs.
 * Make a back-up of all of your show production files using a USB drive and / or online storage.
