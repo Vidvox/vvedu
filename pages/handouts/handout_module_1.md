@@ -15,60 +15,79 @@ VJ’ing stems from “[Projection Design](https://www.svenortel.com/projection-
 
 The input and output of your images will have a great influence on content, context, aesthetics, and meaning. It is also a great way to play with “practical” effects, by having the materiality of the “screen” and/or the inherent aesthetics of the input device help further define your art. 
 
-## Lesson 1: Video Input and Output
+## Lesson 1: Input To Output
 
-Multi-channel output can add a physical, spatial element to your images, which is a great way to present split screen content, creating an immersive, spatial presentation of imagery. In the event of custom screens or architectural projection, a VJ can use mapping tools to crop and transform the imagery to fit seamlessly into the environment.
+In this lesson we will explore the three most basic parts of our VJ toolkit – inputs, filters and outputs.
 
-In addition to multiple outputs, a VJ might incorporate live-camera feeds into their performance. This adds an additional element of presence for both the performer and the audience, allowing a more intimate window into the processes onstage, making the performer a character in the visual narrative. 
+The inputs, or sources, are the materials that contain the content of our work, whether they be pre-rendered files, live feeds or real-time computer generated visuals.
 
-Multiple cameras can present different views of the performer at the same time, also called multiple perspective, [simultaneity](https://en.wikipedia.org/wiki/Simultaneity) or multiplicity. This allows an otherwise impossible, holistic viewing experience for every member of the audience, regardless of where they stand.
+This imagery is then processed by “filters” also commonly known as effects or FX, which modify the stream of pictures to change the aesthetics and overall feeling associated with them.
 
-This week, we will experiment with the addition of live-camera feeds into your project. Consider how the live presence of your face/body influences the meaning of your imagery. You are now part of the subject matter, so consider your relationship to the pre-existing forms. 
+Finally the result is sent to a place where it can be viewed, output to a screen, projector, a movie file on a hard drive or streamed to the Internet.
 
-We will then explore multiple outputs from VDMX, and how the context and relationship of the imagery changes when seen from multiple perspectives. 
+One of the most powerful aspects of working with “live” video is the ability to experiment with the addition of live-camera feeds into your project. Consider how the live presence of your face/body influences the meaning of your imagery. You are now part of the subject matter, so consider your relationship to the pre-existing forms.
 
 ### Lesson Overview
 
-Inputs
-* Cameras
-* Media files
-* Capture devices (blackmagic)
-* NDI
-* Syphon
-* Screen / window capture
-* Internal feedback loops
+Inputs / Sources
+* Pre-rendered files
+* * Movies
+* * Still images / animated gifs
+* * PDFs
+* Interactive generators
+* * ISF
+* * Quartz Composer
+* * CoreImage
+* * Vuo
+* * Custom apps (connected by Syphon)
+* Live feeds
+* * Cameras
+* * Capture devices (blackmagic)
+* * NDI® (network streaming)
+* * Syphon (share video between apps)
+* * Screen / window capture
+* * Internal feedback loops
 FX
 * Adding filters between input and output
 * Cropping
 Outputs
 * Fullscreen output
 * Recording movies
+* * Capture to h.264 for uploads to YouTube, Vimeo
+* * Capture to PhotoJPEG / HAP for live remixing
 * Perspective correction
 * Using projectors / displays
-* System Preferences Displays
+* System Preferences: Displays
 * Color calibration
 
 ### Reference Links
 
-* [The AVF Batch Exporter](https://docs.vidvox.net/freebies_avf_batch_exporter.html)
-* [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/)
+* [Recommended video codecs for VDMX](https://docs.vidvox.net/vdmx_video_codecs.html)
+* [Converting media files to HAP](http://hap.video/using-hap.html)
+* [Video codec usage comparisons and benchmarks](http://hap.video/benchmarks.html)
+* [InteractiveShaderFormat.com](https://www.interactiveshaderformat.com/)
 * [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md)
 * [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md)
+* [YouTube.com](https://www.youtube.com/)
+* [Vimeo.com](https://www.vimeo.com/)
 
-### Related Tutorials
+### Resources
 
+* [The AVF Batch Exporter](https://docs.vidvox.net/freebies_avf_batch_exporter.html)
+* [VDMX Sample Media files](https://docs.vidvox.net/vdmx_sample_media.html)
+* [Project Milk Syphon](https://docs.vidvox.net/freebies_project_milk_syphon.html)
+
+### Related Tutorials and Case Studies
+
+* [Video Fundamentals: Media Types](https://vdmx.vidvox.net/tutorials/video-fundamentals-taught-with-vdmx-part-2)
 * [Using the Simple Player template](https://vdmx.vidvox.net/tutorials/using-the-simple-player-template)
+* [Video Input Basics](https://vdmx.vidvox.net/tutorials/video-inputs-basics)
 * [Recording movies in VDMX](https://vdmx.vidvox.net/tutorials/recording-movies-to-disk)
 * [Recording movies from cameras in VDMX](https://vdmx.vidvox.net/tutorials/multi-channel-live-camera-video-sampler)
 * [Fullscreen output](https://vdmx.vidvox.net/tutorials/outputing-in-fullscreen-mode)
-* [Video Input Basics](https://vdmx.vidvox.net/tutorials/video-inputs-basics)
-* [Multi-channel Live Camera Video Sampler](https://vdmx.vidvox.net/tutorials/multi-channel-live-camera-video-sampler)
-* [Multi-screen output from VDMX](https://vdmx.vidvox.net/tutorials/multi-display-video-mixing-with-vdmx-on-a-retina-macbook-pro)
+* [Recording movies for upload](https://vdmx.vidvox.net/tutorials/recording-a-demo-reel-to-share-online)
+* [Using an iOS Device as a Live Camera Source in VDMX](https://vdmx.vidvox.net/tutorials/ios-device-as-live-input-for-vdmx)
 * [Creating video feedback loops in VDMX](https://vdmx.vidvox.net/tutorials/creating-video-feedback-loops-on-a-mac-with-vdmx)
-* [Converting media files to HAP](http://hap.video/using-hap.html)
-
-### Case Studies
-
 * [Using Lumen and VDMX together with Syphon with guest Wiley Wiggins](https://vdmx.vidvox.net/tutorials/wiley-wiggins-lumen-and-vdmx)
 * [DMX Controlled Shobaleader One Face Masks](https://vdmx.vidvox.net/blog/shobaleader-one-masks)
 
@@ -92,26 +111,32 @@ This week, we will explore interactive concepts that extend the moving image bey
 ### Lesson Overview
 
 * Linking layer and FX controls to Audio Analysis 
-* MIDI and OSC instruments / controllers
+* What are MIDI, DMX and OSC? In what ways are they different?
+* Using MIDI and OSC instruments / controllers
+* Using the Control Surface plugin to create a virtual instrument
 
 * Add audio reactivity to FX and layer parameters
-* Add MIDI (or OSC) control to FX and layer parameters
+* Add MIDI control to FX and layer parameters
+* Add OSC control to FX and layer parameters
+* Media bin setup
+* * Keyboard / MIDI / OSC triggers
+* * Enabling media preloading
+* Control surface plugin
+* * Adding UI items
+* * Custom layouts
+* * Control from webpage
 
 ### Reference Links
 
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 * MIDI Controllers discussion thread on forums
 
-### Related Tutorials
+### Related Tutorials and Case Studies
 
 * [4 Layer Korg nanoKontrol Template](https://vdmx.vidvox.net/tutorials/4-layer-korg-nanokontrol2-template)
 * [Enabling MIDI and OSC Echo Mode](https://vdmx.vidvox.net/tutorials/using-echo-mode-for-easy-setup-midi-and-osc-talkback-in-vdmx)
 [Setting up MIDI Bin sync with the APC20](https://vdmx.vidvox.net/tutorials/setting-up-media-bin-ui-sync-with-the-apc20-apc40)
-* [Automatic BPM Detection in VDMX](https://vdmx.vidvox.net/tutorials/how-to-build-the-waveclock-example-template)
 * [Using game controllers in VDMX](https://vdmx.vidvox.net/tutorials/using-video-game-controllers-with-vdmx)
-
-### Case Studies
-
 * [The ECLECTIC METHOD REMIX, Part Two - Jamming](https://vdmx.vidvox.net/tutorials/the-eclectic-method-remix-part-two-jamming)
 * [PZYK SKAN – EEG Controlled Sound and Visuals](https://vdmx.vidvox.net/blog/pzyk-skan-eeg-controlled-visuals)
 

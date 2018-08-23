@@ -39,7 +39,7 @@ entries:
       url: /course_schedule.html
       output: web, pdf
       
-  - title: Handouts
+  - title: Student Handouts
     output: web, pdf
 
     folderitems:
@@ -91,19 +91,26 @@ entries:
       url: /teaching_index.html
       output: web, pdf
     
-    - title: Lesson Plan 1
+    - title: Lesson Plans Module 1
       url: /teaching_module_1.html
       output: web, pdf
 
-    - title: Lesson Plan 2
+    - title: Lesson Plans Module 2
       url: /teaching_module_2.html
       output: web, pdf
 
-    - title: Lesson Plan 3
+    - title: Lesson Plans Module 3
       url: /teaching_module_3.html
       output: web, pdf
 
-    - title: Lesson Plan 4
+    - title: Lesson Plans Module 4
       url: /teaching_module_4.html
       output: web, pdf
+
+    - title: Lesson Plans Module 5
+      url: /teaching_module_5.html
+      output: web, pdf
       
+    - title: Lesson Plans Module 6
+      url: /teaching_module_6.html
+      output: web, pdf

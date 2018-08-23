@@ -26,33 +26,53 @@ Students can work on their own, or in a small group for this project by request 
 
 As we get ready for the final project and performance we will also begin to have a more in depth look at the world of show production and how to prepare for your first big events.
 
-## Lesson 1: Pre-Production
+## Lesson 1: Pre-Production and Show Design
 
 Using our prepared mood boards and storyboards as a starting points we begin to gather and create the individual elements for the final project / performance. This can take the form of media files such as movies, still images, animated gifs and interactive generators, custom FX, as well as any physical portions that will be needed, such as projection surfaces.
 
 During the pre-production phase it can often be useful to work with other artists and technicians; this can help with filling in knowledge gaps and for being able to accomplish more tasks before a deadline.
 
+In some cases the materials prepared for a show may be arranged in advanced using a system of cues running from timecode, and in other cases the event may be intended to be performed entirely live. Most of the time for event you'll have a mix of the two, with some parts improvised and other pre-scripted.
+
+As part of planning a show design for events, multi-channel output can add a physical, spatial element to your images, which is a great way to present split screen content, creating an immersive, spatial presentation of imagery. In the event of custom screens or architectural projection, a VJ can use mapping tools to crop and transform the imagery to fit seamlessly into the environment.
+
+In addition to multiple outputs, a VJ might incorporate live-camera feeds into their performance. This adds an additional element of presence for both the performer and the audience, allowing a more intimate window into the processes onstage, making the performer a character in the visual narrative. 
+
+Multiple cameras can present different views of the performer at the same time, also called multiple perspective, [simultaneity](https://en.wikipedia.org/wiki/Simultaneity) or multiplicity. This allows an otherwise impossible, holistic viewing experience for every member of the audience, regardless of where they stand.
+
 ### Lesson Overview
 
+* Multiple Inputs / Outputs in VDMX
+* Timecode plugin
+* * MTC, LTC and OSC sync
+* * Time markers
 * Preparing cues
 * * Using the Cue List plugin in VDMX
-* Using materials from other sources
-* * Creative commons
+* Using materials from other people
+* * Creative Commons: Share, Collaborate, Remix, Reuse
 * * What is fair use?
-* * Work for hire
+* * Works for hire
 
 ### Reference Links
 
+* [Creative Commons](https://creativecommons.org/)
 * [Fair Use in the Visual Arts](http://collegeart.org/pdf/fair-use/best-practice-fair-use-infographic.pdf)
 * [Fair Use FAQ](http://cmsimpact.org/resource/fair-use-frequently-asked-questions/)
 * [Fair Use or Infringement?](https://www.graphicartistsguild.org/tools_resources/fair-use-or-infringement)
 * [Copyright and Fair Use Guidelines for Teachers](https://www.xavier.edu/library/about/documents/Copyright_9-23-08.pdf)
 * [Fiverr.com](https://www.fiverr.com/)
+* [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/)
+* [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md)
+* [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md
 
 ### Resources
 
 ### Related Tutorials and Case Studies
 
+* [Using an iOS Device as a Live Camera Source in VDMX](https://vdmx.vidvox.net/tutorials/ios-device-as-live-input-for-vdmx)
+* [Multi-channel Live Camera Video Sampler](https://vdmx.vidvox.net/tutorials/multi-channel-live-camera-video-sampler)
+* [Multi-screen output from VDMX](https://vdmx.vidvox.net/tutorials/multi-display-video-mixing-with-vdmx-on-a-retina-macbook-pro)
+* [Introduction to the Timecode plugin](https://vdmx.vidvox.net/tutorials/introduction-to-timecode)
 * [Introduction to the Cue List plugin](https://vdmx.vidvox.net/tutorials/introduction-to-the-cue-list-plugin)
 * [Charles Atlas, Tesseract](https://vdmx.vidvox.net/blog/charles-atlas-tesseract)
 * [How to create a generative stargate in VDMX](https://vdmx.vidvox.net/tutorials/create-a-generative-stargate)
@@ -101,16 +121,11 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * * Design considerations; when can light / video elements work together, when do they work better alone?
 * * Using VDMX as a DMX controlled media server
 * * Sending DMX from VDMX
-* Timecode plugin
-* * MTC, LTC and OSC sync
-* * Time markers
 
 ### Reference Links
 
 * [Iggy Pop and the Stooges Rider](http://www.iggypop.org/stoogesrider.html)
-* [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/)
-* [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md)
-* [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md)
+* History of DMX / ArtNet
 
 ### Resources
 
@@ -124,7 +139,6 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * [Setting up VDMX as a DMX Controlled Media Server](https://vdmx.vidvox.net/tutorials/setting-up-vdmx-as-a-dmx-controlled-media-server)
 * [Using VDMX as a Two Channel DMX Controlled Media Server](https://vdmx.vidvox.net/tutorials/the-two-channel-dmx-controlled-video-mixer)
 * [Sending DMX From a VDMX Color Picker](https://vdmx.vidvox.net/tutorials/sending-dmx-values-from-a-vdmx-color-picker)
-* [Introduction to the Timecode plugin](https://vdmx.vidvox.net/tutorials/introduction-to-timecode)
 * [Rocking Visuals From Mike St Jean](https://vdmx.vidvox.net/blog/mike-st-jean)
 
 ### Homework
@@ -136,13 +150,13 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * * Drawings for one or more possible stage / set design variations and layouts.
 * * One or more flow charts showing how each piece of equipment is connected and laid out within the stage / set design.
 * * Hospitality / green room requirements.
-* Continue development of media resources and other elements for the final performance.
+* Continue development of media resources and other elements for the final performance. If doing live performance, prepare for rehearsals; if making music video or demo reel, have rough cut ready for feedback.
 
 ## Lesson 3: Getting gig ready, Rehearsals and Performances
 
 ### Lesson Overview
 
-* Rehearsals
+* Rehearsals and revisions
 * Preparing a rig for travel
 * Performances
 
