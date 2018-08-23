@@ -31,22 +31,8 @@ One of the most powerful aspects of working with “live” video is the ability
 
 Inputs / Sources
 * Pre-rendered files
-* * Movies
-* * Still images / animated gifs
-* * PDFs
 * Interactive generators
-* * ISF
-* * Quartz Composer
-* * CoreImage
-* * Vuo
-* * Custom apps (connected by Syphon)
 * Live feeds
-* * Cameras
-* * Capture devices (blackmagic)
-* * NDI® (network streaming)
-* * Syphon (share video between apps)
-* * Screen / window capture
-* * Internal feedback loops
 FX
 * Adding filters between input and output
 * Cropping
