@@ -1,19 +1,19 @@
 ---
-title: Module 2 Lesson Plans
-keywords: Kuleshov, Hitchcock, Soundflower, The Eclectic Method, Cinematic Technique, Sergei Eisenstein, Rhythmic Sequence, Montage
+title: Module 3 Lesson Plans
+keywords: 
 last_updated: August 24, 2018
-tags: [lesson_plans, cinematic_technique]
-summary: "Module 2: Montage"
+tags: [lesson_plans, live_visuals]
+summary: "Module 3: Motion Design"
 sidebar: home_sidebar
-permalink: teaching_module_2.html
+permalink: teaching_module_3.html
 folder: teaching
 ---
 
-# Cinematic Technique Overview
+# Motion Design Overview
 
-## Lesson 1: The Cut
+## Lesson 1: Stills to Motion
 
-[Handout: The Cut](/handout_module_2.html)
+[Handout: Stills to Motion](/handout_module_3.html)
 
 ### Lesson Overview
 

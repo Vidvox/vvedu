@@ -1,19 +1,19 @@
 ---
-title: Module 2 Lesson Plans
-keywords: Kuleshov, Hitchcock, Soundflower, The Eclectic Method, Cinematic Technique, Sergei Eisenstein, Rhythmic Sequence, Montage
+title: Module 4 Lesson Plans
+keywords: 
 last_updated: August 24, 2018
-tags: [lesson_plans, cinematic_technique]
-summary: "Module 2: Montage"
+tags: [lesson_plans, live_visuals]
+summary: "Module 4: Visual Music"
 sidebar: home_sidebar
-permalink: teaching_module_2.html
+permalink: teaching_module_4.html
 folder: teaching
 ---
 
-# Cinematic Technique Overview
+# Visual Music Overview
 
-## Lesson 1: The Cut
+## Lesson 1: Abstract Visualization / Color Organ
 
-[Handout: The Cut](/handout_module_2.html)
+[Handout: Abstract Visualization / Color Organ](/handout_module_4.html)
 
 ### Lesson Overview
 

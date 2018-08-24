@@ -1,19 +1,19 @@
 ---
-title: Module 2 Lesson Plans
-keywords: Kuleshov, Hitchcock, Soundflower, The Eclectic Method, Cinematic Technique, Sergei Eisenstein, Rhythmic Sequence, Montage
+title: Module 6 Lesson Plans
+keywords: 
 last_updated: August 24, 2018
-tags: [lesson_plans, cinematic_technique]
-summary: "Module 2: Montage"
+tags: [lesson_plans, live_visuals]
+summary: "Module 6: Show and Event Production"
 sidebar: home_sidebar
-permalink: teaching_module_2.html
+permalink: teaching_module_6.html
 folder: teaching
 ---
 
-# Cinematic Technique Overview
+# Show and Event Production Overview
 
-## Lesson 1: The Cut
+## Lesson 1: Pre-Production and Show Design
 
-[Handout: The Cut](/handout_module_2.html)
+[Handout: Pre-Production and Show Design](/handout_module_6.html)
 
 ### Lesson Overview
 

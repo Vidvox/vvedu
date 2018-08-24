@@ -1,15 +1,15 @@
 ---
-title: Show Production
+title: Show and Event Production
 keywords: 
 last_updated: August 22, 2018
 tags: [handouts]
-summary: "Handout for Show Production"
+summary: "Handout for Show and Event Production"
 sidebar: home_sidebar
 permalink: handout_module_6.html
 folder: handouts
 ---
 
-# Show Production
+# Show and Event Production
 
 It’s showtime! 
 

@@ -1,7 +1,7 @@
 ---
 title: Module 1 Lesson Plans
 keywords: 
-last_updated: August 22, 2018
+last_updated: August 24, 2018
 tags: [lesson_plans, live_visuals]
 summary: "Module 1: Live Visuals"
 sidebar: home_sidebar
@@ -67,7 +67,7 @@ One of the most powerful aspects of working with “live” video is the ability
 * * Use cmd+s to save a snapshot of the current workspace to disk
 * * Use 'Workspace Inspector' > 'Presets' to create multiple setups in a single project file
 
-### Special Equipment:
+### Special Equipment
 
 Though not required for this lesson, the following extra equipment can be used for in class demos and exercises as described below:
 - Blackmagic Input / Output devices
@@ -75,13 +75,13 @@ Though not required for this lesson, the following extra equipment can be used f
 - An ethernet switch or router (and appropriate cables) for NDI® video stream sharing
 - An account on YouTube or Vimeo
 
-### Lecture Notes:
+### Lecture Notes
 
 1. What is a video signal?
 2. What are the different types of media files for live visuals?
 3. What is a video codec?
 
-### Demonstrations:
+### Demonstrations
 
 In this demonstration you will walk through the basic steps for loading a template, trying different media source types, adding FX, using fullscreen output and recording a movie to disk.
 
@@ -159,7 +159,7 @@ Continuing from above.
 - What is the difference between Syphon and NDI? When do we use one vs the other?
 - - Syphon is faster and higher quality, but only works between software on the same computer. NDI can be used over a local network.
 
-### Exercises:
+### Exercises
 
 #### Working with sources
 1. Download or access 'Example Media File Types' collection.
@@ -201,7 +201,7 @@ Continuing from above.
 - Use NDI® Video Monitor test app to confirm stream
 - If students are on a local area network via ethernet, practice sending and receiving streams from computers, applying FX and sending them back for others to remix further.
 
-### Discussions:
+### Discussions
 
 * Why live visuals?
 * What shows / artists / music / movies / and other media has inspired you?
@@ -235,88 +235,88 @@ This week, we will explore interactive concepts that extend the moving image bey
 * * Adding UI items
 * * Control from webpage - for situations where a MIDI / OSC controller is not available, custom interfaces can be created with the Control Surface and controlled from a smart phone or tablet
 
-### Special Equipment:
+### Special Equipment
 
 Though not required for this lesson, the following extra equipment can be used for in class demos and exercises as described below:
 - One or more MIDI controller
 - iOS Device with TouchOSC or Lemur installed
 - A USB audio interface
 
-### Lecture Notes:
+### Lecture Notes
 
 * What are audio / sound inputs?
 * What are MIDI, DMX and OSC? In what ways are they different?
 
-### Demonstrations:
+### Demonstrations
 
 For these demonstration, begin from using the modified 'Simple Player' template project from the previous lesson.
 
-1. Audio Analysis
-- From the Workspace Inspector under Plugins, add an Audio Analysis plugin
-- Use the Audio Analysis inspector to select an audio device that has an incoming signal; this can be a built-in microphone, soundflower or other interface
-- - If it will not cause a feedback loop of sound, optionally also set the audio play-thru option for previewing the audio stream
-- Right+click on the threshold slider control in the Duotone FX and select an audio analysis filter
-- - Adjust the min / max range handles on the slider control to demonstration scaling of the data source range
-- - Inspect the slider with the UI Inspector, and use the sub-inspector for the receiver section to 'invert' the audio level data source
-- - Use the UI Inspector for the 'Section Preset' control in the Layer FX window to update the FX-chain preset, if one is used. Otherwise, create a new FX-chain preset now.
-- From the Audio Analysis inspector, add an additional audio filter band and reposition
+#### Audio Analysis
+1. From the Workspace Inspector under Plugins, add an Audio Analysis plugin
+2. Use the Audio Analysis inspector to select an audio device that has an incoming signal; this can be a built-in microphone, soundflower or other interface
+- If it will not cause a feedback loop of sound, optionally also set the audio play-thru option for previewing the audio stream
+3. Right+click on the threshold slider control in the Duotone FX and select an audio analysis filter
+- Adjust the min / max range handles on the slider control to demonstration scaling of the data source range
+- Inspect the slider with the UI Inspector, and use the sub-inspector for the receiver section to 'invert' the audio level data source
+- Use the UI Inspector for the 'Section Preset' control in the Layer FX window to update the FX-chain preset, if one is used. Otherwise, create a new FX-chain preset now.
+4. From the Audio Analysis inspector, add an additional audio filter band and reposition
 - Right+click on the hide/show button in the Layer Composition controls for Layer 1 and select the new audio analysis band
-- Inspect the button with the UI Inspector
-- - Select the audio receiver from the list
-- - Adjust the threshold level so the button toggles at varying amount of sound input (low, mid, hid)
-- - Switch button receiver between toggle and match value modes and demonstrate differences
+5. Inspect the button with the UI Inspector
+- Select the audio receiver from the list
+- Adjust the threshold level so the button toggles at varying amount of sound input (low, mid, hid)
+- Switch button receiver between toggle and match value modes and demonstrate differences
 
-2. MIDI Receiving
-- Connect a MIDI controller to the computer
-- Right+click on the threshold slider control in the Duotone FX and select the 'MIDI Detect' option
-- - Send MIDI from a knob or slider on the controller to make the assignment
-- - Demonstrate reacting / performing on the parameter with the physical slider along with sound
-- - Note that the min/max and invert options demonstrated for audio analysis can also be used to change the behavior of MIDI assignments
-- From the Workspace Inspector > Plugins, add a Comm Display plugin
-- - Set to display incoming MIDI
-- Right+click on the hide/show button in the Layer Composition controls for Layer 1 and select the Detect MIDI option
-- - Press a button on the MIDI controller to send data and make the assignment
-- Inspect the button with the UI Inspector
-- - Select the MIDI receiver from the list
-- - If the device supports variable velocity on button press, demonstrate threshold setting
-- - Switch button receiver between toggle and match value modes and demonstrate differences
-- Demonstrate using the Hardware Learn option to make multiple assignments without using right+click or the UI Inspector
-- - Use the receivers inspector, or right+click on the button, to disable the connection
-- If using a MIDI controller that supports bi-directional communication, use the UI Inspector for sliders, buttons, etc, select the 'Enable Echo for all receivers'
-- - In the 'opts' tab for buttons, configure the values sent back for on / off states
+#### MIDI Receiving
+1. Connect a MIDI controller to the computer
+2. Right+click on the threshold slider control in the Duotone FX and select the 'MIDI Detect' option
+- Send MIDI from a knob or slider on the controller to make the assignment
+- Demonstrate reacting / performing on the parameter with the physical slider along with sound
+- Note that the min/max and invert options demonstrated for audio analysis can also be used to change the behavior of MIDI assignments
+3. From the Workspace Inspector > Plugins, add a Comm Display plugin
+- Set to display incoming MIDI
+4. Right+click on the hide/show button in the Layer Composition controls for Layer 1 and select the Detect MIDI option
+- Press a button on the MIDI controller to send data and make the assignment
+5. Inspect the button with the UI Inspector
+- Select the MIDI receiver from the list
+- If the device supports variable velocity on button press, demonstrate threshold setting
+- Switch button receiver between toggle and match value modes and demonstrate differences
+6. Demonstrate using the Hardware Learn option to make multiple assignments without using right+click or the UI Inspector
+- Use the receivers inspector, or right+click on the button, to disable the connection
+7. If using a MIDI controller that supports bi-directional communication, use the UI Inspector for sliders, buttons, etc, select the 'Enable Echo for all receivers'
+- In the 'opts' tab for buttons, configure the values sent back for on / off states
 
-3. OSC Receiving
+#### OSC Receiving
 
 If using TouchOSC...
-- Connect iOS device to wifi network
-- - If needed, use the "Create Network..." option from the wifi menu to create a temporary network
-- Launch TouchOSC on iOS device
-- Use the Bonjour setup to auto-configure TouchOSC sending for the IP and port of VDMX
-- - If needed, open the VDMX preferences under OSC to configure input ports
-- Load the Beatmachine template in TouchOSC
-- Demonstrate the same walkthroughs from MIDI listed above, using the available sliders and buttons in the Beatmachine template
+1. Connect iOS device to wifi network
+- If needed, use the "Create Network..." option from the wifi menu to create a temporary network
+2. Launch TouchOSC on iOS device
+3. Use the Bonjour setup to auto-configure TouchOSC sending for the IP and port of VDMX
+- If needed, open the VDMX preferences under OSC to configure input ports
+4. Load the Beatmachine template in TouchOSC
+5. Demonstrate the same walkthroughs from MIDI listed above, using the available sliders and buttons in the Beatmachine template
 
 If using Lemur...
-- Connect iOS device to wifi network
-- - If needed, use the "Create Network..." option from the wifi menu to create a temporary network
-- Launch Lemur on iOS device
-- Configure IP and port for VDMX
-- - If needed, open the VDMX preferences under OSC to configure input ports
-- Load the 'Studio Combo' template
-- Demonstrate the same walkthroughs from MIDI listed above, using the available sliders (faders) and buttons (drumpads / keyboard) in the Studio Combo template
+1. Connect iOS device to wifi network
+- If needed, use the "Create Network..." option from the wifi menu to create a temporary network
+2. Launch Lemur on iOS device
+3. Configure IP and port for VDMX
+- If needed, open the VDMX preferences under OSC to configure input ports
+4. Load the 'Studio Combo' template
+5. Demonstrate the same walkthroughs from MIDI listed above, using the available sliders (faders) and buttons (drumpads / keyboard) in the Studio Combo template
 
 If using OSCTestApp...
-- Launch OSCTestApp; this does not require any additional network / wifi configuration
-- Select detected VDMX or manually configure IP and port for sending
-- - If needed, open the VDMX preferences under OSC to configure input ports
-- Demonstrate the same walkthroughs from MIDI listed above, using the available sliders and buttons the OSCTestApp interface
+1. Launch OSCTestApp; this does not require any additional network / wifi configuration
+2. Select detected VDMX or manually configure IP and port for sending
+- If needed, open the VDMX preferences under OSC to configure input ports
+3. Demonstrate the same walkthroughs from MIDI listed above, using the available sliders and buttons the OSCTestApp interface
 
 Other OSC demo tips:
 - Use the UI Inspector to create mappings for MIDI and OSC receivers to a single slider / button / etc at the same time.
 - From the UI Inspector for sliders, buttons, etc, select the 'Enable Echo for all receivers'
 - - In the 'opts' tab for buttons, configure the values sent back for on / off states
 
-4. Media Bin configuration
+#### Media Bin configuration
 - Inspect the Media Bin plugin
 - From the 'Triggers' tab, clear the existing keyboard shortcuts from the template
 - Use the 'Detect' option to create new assignments for a MIDI or OSC controller
@@ -346,16 +346,16 @@ Other OSC demo tips:
 - - Adjust UI items in the VDMX control surface and observe that they change in the browser
 - - Optional: Have students open the link on their smart phones, tablets, or desktop computers and let them remote control the output. Another suggestion is to have a tablet or smart phone already loaded with this page to pass around.
 
-### Exercises:
+### Exercises
 
-1. Audio Analysis
+#### Audio Analysis
 - Add Audio Analysis plugin to existing project
 - Create links between audio filters and parameters (source controls, FX, opacity)
 - Adjust ranges for audio levels on sliders
 - Invert audio data source receivers using the UI Inspector
 - Adjust thresholds for buttons
 
-2. Keyboard / MIDI / OSC Receiving
+#### Keyboard / MIDI / OSC Receiving
 - Right+click on buttons and use 'Detect Key' to create keyboard assignments
 - If available, connect MIDI or OSC controller
 - - Create MIDI / OSC assignments using right+click and detect
@@ -363,21 +363,21 @@ Other OSC demo tips:
 - - Use 'Hardware Learn' to create multiple assignments
 - Update FX-chain presets using the UI Inspector for the Section Preset bar
 
-3. Media Bin configuration
+#### Media Bin configuration
 - Inspect the Media Bin plugin
 - From the 'Triggers' tab, clear the existing keyboard shortcuts from the template
 - Use the 'Detect' option to create new assignments for a MIDI or OSC controller, or using keyboard shortcuts
 - In the 'Options' tab, enable the Preload Media option to speed up triggering
 - If using a MIDI or OSC controller that supports bi-directional communication, use the 'echo' mode in the media bin from the 'Sending' tab
 
-4. Control Surface plugin
+#### Control Surface plugin
 - Create one or more Control Surface plugins
 - Add sliders, buttons and color pickers
 - Link controls to FX-chains and other parameters
 - Use audio, MIDI, OSC and keyboard data-sources to drive UI elements in the Control Surface plugin
 - Use the 'Section Presets' in the Control Surface plugin to save and load UI element collections and routings
 
-### Discussions:
+### Discussions
 
 * Why is responsiveness an important part of live visuals?
 * Why use MIDI and OSC instruments / controllers for live performance?
