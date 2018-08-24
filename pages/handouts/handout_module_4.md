@@ -45,7 +45,6 @@ This week, we will create a shape-based color organ, creating and performing for
 * [Colour and the Notes of the Octave](http://www.davidrokeby.com/Culturall2/40_colour.html)
 * [Booba/Kiki](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 
-
 ### Resources
 
 * Kandinsky primer
@@ -94,3 +93,49 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 * * ~10 seconds without music
 * * ~10 seconds with music, adjusting timing for tempo
 
+## Lesson 3: Collaborating with Musicians
+
+In the case where visuals and lighting are being performed live along with music, there is the possibility for both sides to respond and react, in the way the members of a band can improvise or riff off each other, or create an informal jam session to try out new ideas.
+
+When collaborating with musicians directly on the creation of new work, visual artists have an opportunity to influence the way that the sound and imagery are connected in time and feeling. For live performances this also allows for the possibility of sharing timecode and other control information between systems for an added level of synchronization.
+
+### Lesson Overview
+
+* The Control Surface plugin
+* MIDI software
+* OSC / OSCQuery
+
+* Creating custom interface layouts with the Control Surface plugin
+* Advanced MIDI synchronization
+* * MIDI Clock sync from Ableton Live to VDMX
+* * Ableton Link
+* * Sending MIDI triggers and control values from Ableton Live to VDMX
+* OSCQuery in VDMX
+* * Web page control
+* * OSCQuery Client plugin
+* * Using OSCQuery Helper and MIDI OSCQuery Helper
+
+### Reference Links
+
+* History of MIDI
+* About OSCQuery
+
+### Resources
+
+* [MIDI OSCQuery Helper](https://docs.vidvox.net/freebies_midi_oscquery_helper.html)
+* [OSCQuery Helper](https://docs.vidvox.net/freebies_oscquery_helper.html)
+* Ableton Live sample project
+
+### Related Tutorials and Case Studies
+
+* [The ECLECTIC METHOD REMIX, Part Three - Working with Ableton Live](https://vdmx.vidvox.net/tutorials/the-eclectic-method-remix-part-three-working-with-ableton-live)
+* [Using Ableton Link with VDMX](https://vdmx.vidvox.net/tutorials/ableton-link-in-vdmx)
+* [Receiving MIDI Clock from Ableton Live](https://vdmx.vidvox.net/tutorials/receiving-midi-clock-from-ableton-live-in-vdmx)
+* [Receiving MTC from QLab in VDMX](https://vdmx.vidvox.net/tutorials/receiving-midi-smpte-time-code-mtc-in-vdmx)
+* [Syncing the playback of multiple movies in VDMX over a network using OSC](https://vdmx.vidvox.net/tutorials/syncing-the-playhead-of-multiple-movies-in-vdmx)
+* [More fun audio analysis techniques](https://vdmx.vidvox.net/tutorials/more-fun-audio-analysis-techniques)
+* [How to Turn an Old Building into an Interactive Driving Range ](https://vdmx.vidvox.net/tutorials/how-to-turn-an-old-building-into-an-interactive-driving-range-by-lumenal-code)
+
+### Homework
+
+* Create a 5 minute improvised piece using three different shapes and a background choreographed to music using audio reactivity and MIDI/OSC control.

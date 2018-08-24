@@ -96,7 +96,7 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Lesson Overview
 
-* Linking layer and FX controls to Audio Analysis 
+* What are audio / sound inputs?
 * What are MIDI, DMX and OSC? In what ways are they different?
 * Using MIDI and OSC instruments / controllers
 * Using the Control Surface plugin to create a virtual instrument

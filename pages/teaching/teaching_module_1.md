@@ -9,27 +9,27 @@ permalink: teaching_module_1.html
 folder: teaching
 ---
 
-# About This Document
+# “Live” Visuals Overview
 
-This page contains a list of lesson plans for Module 1: “Live Visuals”
+VJ’ing stems from “[Projection Design](https://www.svenortel.com/projection-design-as-design-discipline/),” a term chosen by scenic artists to refer to designers who worked with film and video projectors in theatre. The title has since grown beyond the technical. It now includes LED fixtures, TV monitors, computer screens, interactive visual instruments, Pepper's Ghosts and Eyeliners to creative holographic images, and so on. Our field now generally involves putting an image on the stage that is ephemeral and changeable.
 
-For each lesson you will find the following resources:
-* Lesson description: A short introduction describing the concepts, exercises and goals associated with the lesson.
-* Handout: A link to a handout that can be provided to students that includes notes and useful reference links from the lesson.
-* Lecture notes: Starting points for material that can be used to explain lesson topics in the form of a lecture or presentation.
-* Demonstrations: A list of suggested in class lessons that you, the teacher, should walk-through as demonstrations for the students to observe or follow along.
-* Exercises: A list of suggested tasks that students can work on in class individually or in small groups.
-* Discussion: Ideas for guided group conversations based on topics related to the lesson.
-
-It is recommended that you go through this material yourself in advance of each lesson as a refresher.
-
-## “Live” Visuals Overview
+The input and output of your images will have a great influence on content, context, aesthetics, and meaning. It is also a great way to play with “practical” effects, by having the materiality of the “screen” and/or the inherent aesthetics of the input device help further define your art.
 
 ## Lesson 1: Input to Output
 
-### Lesson Overview
-
 [Handout: Input To Output](/handout_module_1.html#lesson-1-video-input-to-output)
+
+In this lesson we will explore the three most basic parts of our VJ toolkit – inputs, filters and outputs.
+
+The inputs, or sources, are the materials that contain the content of our work, whether they be pre-rendered files, live feeds or real-time computer generated visuals.
+
+This imagery is then processed by “filters” also commonly known as effects or FX, which modify the stream of pictures to change the aesthetics and overall feeling associated with them.
+
+Finally the result is sent to a place where it can be viewed, output to a screen, projector, a movie file on a hard drive or streamed to the Internet.
+
+One of the most powerful aspects of working with “live” video is the ability to experiment with the addition of live-camera feeds into your project. Consider how the live presence of your face/body influences the meaning of your imagery. You are now part of the subject matter, so consider your relationship to the pre-existing forms.
+
+### Lesson Overview
 
 * What is a video signal?
 * What are the different types of media files for live visuals?
@@ -63,6 +63,17 @@ It is recommended that you go through this material yourself in advance of each 
 * * Recording movies
 * * * Capture to h.264 for uploads to YouTube, Vimeo
 * * * Capture to PhotoJPEG / HAP for live remixing
+* Saving your work
+* * Use cmd+s to save a snapshot of the current workspace to disk
+* * Use 'Workspace Inspector' > 'Presets' to create multiple setups in a single project file
+
+### Special Equipment:
+
+Though not required for this lesson, the following extra equipment can be used for in class demos and exercises as described below:
+- Blackmagic Input / Output devices
+- External monitors or projectors (and appropriate cables) for fullscreen outputs
+- An ethernet switch or router (and appropriate cables) for NDI® video stream sharing
+- An account on YouTube or Vimeo
 
 ### Lecture Notes:
 
@@ -89,6 +100,11 @@ In this demonstration you will walk through the basic steps for loading a templa
 - Add Live Inputs to project
 - Close browser window
 5. Trigger live input / webcam
+6. Launch Syphon demo apps: Simple Server, Project Milk Syphon
+- Select option from Layer Source menu
+- Add to media bin from media browser or right+click menu
+7. If available, demonstration using Blackmagic capture
+8. If multiple computers are available, use NDI® test apps or another copy of VDMX to demonstrate NDI send / receive
 
 #### Introduction to FX
 Continuing from above.
@@ -133,8 +149,15 @@ Continuing from above.
 - Set the video codec to h.264 to capture a movie for upload
 - Click the 'Record' button to begin recording a movie
 - Click the 'Stop' button to finish recording a movie
-- Locate the movie file on disk (if using auto load to the media bin, right-click on the file and use the 'Reveal in Finder' option)
+- Locate the movie file on disk (if using auto load to the media bin, right+click on the file and use the 'Reveal in Finder' option)
 - Upload file to youtube, vimeo, or social media site (if using Chrome you may need to change the file extension to .mp4 for some sites)
+4. Syphon / NDI® output
+- Switch back to VDMX, open the Workspace Inspector to the Plugins tab
+- Add a Syphon Output plugin and an NDI® Output plugin
+- Demonstrate receiving Syphon in the Simple Client demo app
+- Demonstrate receiving NDI – if possible on another computer
+- What is the difference between Syphon and NDI? When do we use one vs the other?
+- - Syphon is faster and higher quality, but only works between software on the same computer. NDI can be used over a local network.
 
 ### Exercises:
 
@@ -158,6 +181,203 @@ Continuing from above.
 - Click the 'Save Asset' button to save FX-chains to use globally
 - Click the 'Preview FX' button to use the Workspace Inspector / Assets section to preview FX before adding them to a layer.
 
-#### 
+#### Working with outputs
+1. Open System Preferences
+- In Displays section, configure resolutions for main screen / external displays
+- In Displays section, use the color calibration option (time permitting)
+2. In VDMX, open Fullscreen settings window (cmd+f)
+- Switch between floating window and fullscreen modes
+- If multiple displays are connected, set to using 2nd screen for display
+- In Workspace Inspector under Layers, use the 'MASTER FADER' slider to fade the final video in and out
+3. In VDMX, open the Workspace Inspector under Plugins and add a Movie Recorder plugin
+- Set the option to record to h.264 in the inspector
+- Disable audio recording if desired
+- Use the 'Image' and 'Record' options to capture several still images and videos with different FX applied to the live camera
+- Pick your favorite images / videos and upload to youtube / vimeo / instagram / facebook / twitter / etc
+- - On most social media sites, video clips less than 6 seconds long will automatically loop.
+- - You may need to change the file extension from .mov to .mp4 before uploading for some sites. Note that this does not recompress the video, just changes the file extension to trick the uploader. The actual video codec must be h.264 for this trick to work.
+4. In VDMX, open the Workspace Inspector under Plugins and add an NDI® Output plugin
+- Select a video signal and optional audio device to stream
+- Use NDI® Video Monitor test app to confirm stream
+- If students are on a local area network via ethernet, practice sending and receiving streams from computers, applying FX and sending them back for others to remix further.
 
 ### Discussions:
+
+* Why live visuals?
+* What shows / artists / music / movies / and other media has inspired you?
+
+## Lesson 2: Responsiveness
+
+[Handout: Responsiveness](https://dlublin.github.io/vidiotuniversity/handout_module_1.html#lesson-2-responsiveness)
+
+VJ’ing design is a [cybernetic](https://en.wikipedia.org/wiki/Cybernetics) art form; we are essentially creating a visual instrument. The goal of many visual performers is to have a close and immediate interface with computers, to make them expressive. Their goal is to use these machines to emote, thereby making the computer's presence invisible. 
+
+For live performance, particularly for live music, the element of improvisation and responsiveness matches the energy and ephemeral quality of the performance in a way that pre-rendered and cued/time coded imagery cannot. 
+
+In addition, the imagery and its delivery systems (playback software, MIDI controllers, analog mixers, and so on) can be refined and tweaked over time, similar to way music may evolve during rehearsals on a tour—fusing a symbiotic relationship between the musicians and the visualist.
+
+The presence of real-time effects and audio-responsive imagery increases the synaesthetic relationship between image and sound, thereby creating a more “live” experience for the audience.
+
+This week, we will explore interactive concepts that extend the moving image beyond the timeline to real-time interactive expression, using data mappings from physical interfaces such as keyboards, MIDI, OSC and DMX lighting boards.
+
+### Lesson Overview
+
+* What are audio / sound inputs?
+* What are MIDI, DMX and OSC? In what ways are they different?
+
+* Add audio reactivity to FX and layer parameters
+* Add MIDI control to FX and layer parameters
+* Add OSC control to FX and layer parameters
+* Media bin setup
+* * Keyboard / MIDI / OSC triggers
+* * Enabling media preloading
+* Control surface plugin
+* * Adding UI items
+* * Control from webpage - for situations where a MIDI / OSC controller is not available, custom interfaces can be created with the Control Surface and controlled from a smart phone or tablet
+
+### Special Equipment:
+
+Though not required for this lesson, the following extra equipment can be used for in class demos and exercises as described below:
+- One or more MIDI controller
+- iOS Device with TouchOSC or Lemur installed
+- A USB audio interface
+
+### Lecture Notes:
+
+* What are audio / sound inputs?
+* What are MIDI, DMX and OSC? In what ways are they different?
+
+### Demonstrations:
+
+For these demonstration, begin from using the modified 'Simple Player' template project from the previous lesson.
+
+1. Audio Analysis
+- From the Workspace Inspector under Plugins, add an Audio Analysis plugin
+- Use the Audio Analysis inspector to select an audio device that has an incoming signal; this can be a built-in microphone, soundflower or other interface
+- - If it will not cause a feedback loop of sound, optionally also set the audio play-thru option for previewing the audio stream
+- Right+click on the threshold slider control in the Duotone FX and select an audio analysis filter
+- - Adjust the min / max range handles on the slider control to demonstration scaling of the data source range
+- - Inspect the slider with the UI Inspector, and use the sub-inspector for the receiver section to 'invert' the audio level data source
+- - Use the UI Inspector for the 'Section Preset' control in the Layer FX window to update the FX-chain preset, if one is used. Otherwise, create a new FX-chain preset now.
+- From the Audio Analysis inspector, add an additional audio filter band and reposition
+- Right+click on the hide/show button in the Layer Composition controls for Layer 1 and select the new audio analysis band
+- Inspect the button with the UI Inspector
+- - Select the audio receiver from the list
+- - Adjust the threshold level so the button toggles at varying amount of sound input (low, mid, hid)
+- - Switch button receiver between toggle and match value modes and demonstrate differences
+
+2. MIDI Receiving
+- Connect a MIDI controller to the computer
+- Right+click on the threshold slider control in the Duotone FX and select the 'MIDI Detect' option
+- - Send MIDI from a knob or slider on the controller to make the assignment
+- - Demonstrate reacting / performing on the parameter with the physical slider along with sound
+- - Note that the min/max and invert options demonstrated for audio analysis can also be used to change the behavior of MIDI assignments
+- From the Workspace Inspector > Plugins, add a Comm Display plugin
+- - Set to display incoming MIDI
+- Right+click on the hide/show button in the Layer Composition controls for Layer 1 and select the Detect MIDI option
+- - Press a button on the MIDI controller to send data and make the assignment
+- Inspect the button with the UI Inspector
+- - Select the MIDI receiver from the list
+- - If the device supports variable velocity on button press, demonstrate threshold setting
+- - Switch button receiver between toggle and match value modes and demonstrate differences
+- Demonstrate using the Hardware Learn option to make multiple assignments without using right+click or the UI Inspector
+- - Use the receivers inspector, or right+click on the button, to disable the connection
+- If using a MIDI controller that supports bi-directional communication, use the UI Inspector for sliders, buttons, etc, select the 'Enable Echo for all receivers'
+- - In the 'opts' tab for buttons, configure the values sent back for on / off states
+
+3. OSC Receiving
+
+If using TouchOSC...
+- Connect iOS device to wifi network
+- - If needed, use the "Create Network..." option from the wifi menu to create a temporary network
+- Launch TouchOSC on iOS device
+- Use the Bonjour setup to auto-configure TouchOSC sending for the IP and port of VDMX
+- - If needed, open the VDMX preferences under OSC to configure input ports
+- Load the Beatmachine template in TouchOSC
+- Demonstrate the same walkthroughs from MIDI listed above, using the available sliders and buttons in the Beatmachine template
+
+If using Lemur...
+- Connect iOS device to wifi network
+- - If needed, use the "Create Network..." option from the wifi menu to create a temporary network
+- Launch Lemur on iOS device
+- Configure IP and port for VDMX
+- - If needed, open the VDMX preferences under OSC to configure input ports
+- Load the 'Studio Combo' template
+- Demonstrate the same walkthroughs from MIDI listed above, using the available sliders (faders) and buttons (drumpads / keyboard) in the Studio Combo template
+
+If using OSCTestApp...
+- Launch OSCTestApp; this does not require any additional network / wifi configuration
+- Select detected VDMX or manually configure IP and port for sending
+- - If needed, open the VDMX preferences under OSC to configure input ports
+- Demonstrate the same walkthroughs from MIDI listed above, using the available sliders and buttons the OSCTestApp interface
+
+Other OSC demo tips:
+- Use the UI Inspector to create mappings for MIDI and OSC receivers to a single slider / button / etc at the same time.
+- From the UI Inspector for sliders, buttons, etc, select the 'Enable Echo for all receivers'
+- - In the 'opts' tab for buttons, configure the values sent back for on / off states
+
+4. Media Bin configuration
+- Inspect the Media Bin plugin
+- From the 'Triggers' tab, clear the existing keyboard shortcuts from the template
+- Use the 'Detect' option to create new assignments for a MIDI or OSC controller
+- In the 'Control' tab, assign a MIDI or OSC slider to the 'trigger by float' option to demonstrate clip selection from a single input control
+- In the 'Options' tab, enable the Preload Media option to speed up triggering
+- If using a MIDI or OSC controller that supports bi-directional communication, demonstrate using 'echo' mode in the media bin from the 'Sending' tab
+
+5. Control Surface plugin basics
+- From the Workspace Inspector > Plugins, create a new Control Surface plugin
+- Using the sub-inspector for the Control Surface, add a button, slider and color picker to the interface
+- Right+click on the threshold slider for Duotone and set it to use the slider from the control surface
+- Also demonstrate control+drag from the slider in Control Surface to the threshold slider (or another slider) for fast assignments
+- Control+drag from the color wheel in Control Surface to the color swatch in the brightColor (below the 'sample' button) to create a quick assignment
+- In the Duotone FX, click on the color swatch for brightColor to demonstrate it can be inspected like other UI items
+- Control+drag from the color wheel in Control Surface to the on/off button for the Duotone FX to create a quick assignment
+- What are the differences between toggle and momentary buttons in the Control Surface?
+- - Note that the on/off button follows the state of the CS button
+- - Inspect the button in the Control Surface
+- - Using the UI Inspector, change the button from a toggle to a momentary button
+- - Recreate the connection by control+drag to the on/off button for Duotone
+- - Note that the on/off button toggles between states when the CS button is pressed
+- Note that the Control Surface includes many other options that will be covered later, including the ability to customize the layout
+- Web browser access to Control Surface plugins
+- - Open the VDMX preferences and go to the OSC section > OSCQuery
+- - Click the link to open the HTML page; your default browser should open to a link like "http://10.0.1.14:2346/index.html?HTML"
+- - Use the UI items in the web browser and note that they change VDMX
+- - Adjust UI items in the VDMX control surface and observe that they change in the browser
+- - Optional: Have students open the link on their smart phones, tablets, or desktop computers and let them remote control the output. Another suggestion is to have a tablet or smart phone already loaded with this page to pass around.
+
+### Exercises:
+
+1. Audio Analysis
+- Add Audio Analysis plugin to existing project
+- Create links between audio filters and parameters (source controls, FX, opacity)
+- Adjust ranges for audio levels on sliders
+- Invert audio data source receivers using the UI Inspector
+- Adjust thresholds for buttons
+
+2. Keyboard / MIDI / OSC Receiving
+- Right+click on buttons and use 'Detect Key' to create keyboard assignments
+- If available, connect MIDI or OSC controller
+- - Create MIDI / OSC assignments using right+click and detect
+- - Create MIDI / OSC assignments from the UI Inpsector
+- - Use 'Hardware Learn' to create multiple assignments
+- Update FX-chain presets using the UI Inspector for the Section Preset bar
+
+3. Media Bin configuration
+- Inspect the Media Bin plugin
+- From the 'Triggers' tab, clear the existing keyboard shortcuts from the template
+- Use the 'Detect' option to create new assignments for a MIDI or OSC controller, or using keyboard shortcuts
+- In the 'Options' tab, enable the Preload Media option to speed up triggering
+- If using a MIDI or OSC controller that supports bi-directional communication, use the 'echo' mode in the media bin from the 'Sending' tab
+
+4. Control Surface plugin
+- Create one or more Control Surface plugins
+- Add sliders, buttons and color pickers
+- Link controls to FX-chains and other parameters
+- Use audio, MIDI, OSC and keyboard data-sources to drive UI elements in the Control Surface plugin
+- Use the 'Section Presets' in the Control Surface plugin to save and load UI element collections and routings
+
+### Discussions:
+
+* Why is responsiveness an important part of live visuals?
+* Why use MIDI and OSC instruments / controllers for live performance?
