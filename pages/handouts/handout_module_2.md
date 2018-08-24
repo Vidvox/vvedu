@@ -28,7 +28,6 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 
 ### Lesson Overview
 
-* Using templates in VDMX
 * Using the Kuleshov example project
 * Loading media files into Kuleshov project
 * Capturing video clips

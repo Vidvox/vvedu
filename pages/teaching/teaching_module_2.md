@@ -5,7 +5,7 @@ last_updated: June 22, 2018
 tags: [lesson_plans, cinematic_technique]
 summary: "Module 1: Cinematic Technique"
 sidebar: home_sidebar
-permalink: teaching_module_1.html
+permalink: teaching_module_2.html
 folder: teaching
 ---
 
@@ -19,14 +19,13 @@ Students will work with software applications – alone and in combination – a
 
 ## Lesson 1: The Cut
 
+[Handout 1: The Cut](/handout_module_1.html)
+
 A cornerstone of cinematic technique is the ‘cut’. How and when you choose to go from one scene or subject to the next greatly influences the narrative arc of your sequence. One of the oldest examples of this is called the “[The Kuleshov Effect](https://en.wikipedia.org/wiki/Kuleshov_effect).” We call these ‘reaction shots.’ Alfred Hitchcock is a master of using reaction shots, scale and the movie’s score to an exacting effect.
 
 ## Lesson Overview
 
-[Handout 1: The Cut](/handout_1.html)
-
 ### Demonstrations:
-* Using templates in VDMX
 * Using the Kuleshov example project
 * Loading media files into Kuleshov project
 * Recording output in Kuleshov project
@@ -43,6 +42,8 @@ A cornerstone of cinematic technique is the ‘cut’. How and when you choose t
 * Silence vs Music
 
 ## Lesson 2: Rhythmic Sequence
+
+[Handout 1: The Cut](/handout_module_1.html)
 
 As a visual performer, you will be something like a live editor. Learning how to cut between images based on rhythmic structure will aid in the ordering of information in a compelling way. 
 
