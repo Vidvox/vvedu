@@ -49,9 +49,14 @@ One of the most powerful aspects of working with “live” video is the ability
 * * * Syphon (share video between apps)
 * * * Screen / window capture
 * * * Internal feedback loops
-* FX
+* FX and Composition
 * * Adding filters between input and output
+* * Compositing layers
+* * * Blend modes
+* * * Mixing
+* * * Groups
 * Outputs
+* * Previews
 * * Fullscreen output
 * * * Using projectors / displays
 * * * System Preferences: Displays
@@ -107,7 +112,7 @@ In this demonstration you will walk through the basic steps for loading a templa
 7. If available, demonstration using Blackmagic capture
 8. If multiple computers are available, use NDI® test apps or another copy of VDMX to demonstrate NDI send / receive
 
-#### Introduction to FX
+#### Introduction to FX and Composition
 Continuing from above.
 1. Use 'Load Asset' menu from the Layer 1 FX window to add FX.
 - Load the 'Color Effect' > 'Duotone.fs' filter
@@ -121,6 +126,25 @@ Continuing from above.
 - Preview the '3D Rotate.fs' FX
 - Adjust parameters of '3D Rotate'
 - Drag '3D Rotate' from Workspace Inspector into the Layer 1 FX chain
+3. Demonstrate blend / composition modes
+- From the Workspace Inspector > Layers
+- Add a second layer
+- - Use the Use Source: menu to select a video source for Layer 2
+- Select Layer 1 in the list of layers and demonstrate Layer Composition controls
+- - Adjust the size and position of Layer 1
+- - Adjust the opacity of Layer 1
+- - Demonstrate difference between OpenGL Add and OpenGL Over when adjusting opacity
+- - Note that other compositions modes and related topics will be covered in depth later
+4. Mixing between layers
+- Load the Simple Mixer example from the Templates menu and demonstrate using a mixer to:
+- - Transition between layers manually or automatically
+- - Preview content before having it go 'live' to the output
+- - Borrow stylistic techniques from DJing
+- Load the 4 Channel Mixer template and demonstrate using the 4 Channel Mixer setup to:
+- - Prepare and preview mixes before having it go 'live' to the output
+- Note that there are many ways to work with multiple layers depending on the use case or preferences of the performers
+- - Load the 4 Layer VJ Starter template
+- - Optional: If matching MIDI equipment is available, demonstrate the APC Mini or nanoKONTROL Example templates
 
 #### Introduction to outputs
 Continuing from above.

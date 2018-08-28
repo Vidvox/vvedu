@@ -33,9 +33,10 @@ Inputs / Sources
 * Pre-rendered files
 * Interactive generators
 * Live feeds
-FX
+FX and Composition
 * Adding filters between input and output
-* Cropping
+* Adding layers
+* Adjusting layer opacity and blend modes
 Outputs
 * Fullscreen output
 * Recording movies

@@ -63,7 +63,7 @@ Multiple cameras can present different views of the performer at the same time, 
 * [Fiverr.com](https://www.fiverr.com/)
 * [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/)
 * [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md)
-* [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md
+* [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md)
 
 ### Resources
 

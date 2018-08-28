@@ -146,7 +146,7 @@ Recommended:
 
 ### Lecture Notes
 
-* Intro to Montage Theory
+* Introduction to Montage
 
 ### Discussions
 

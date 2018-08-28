@@ -36,14 +36,15 @@ We will then explore the [law of continuation](https://www.interaction-design.or
 * Animating basic shapes
 * * ISF Shape Layers
 * * Src controls and Layer Comps
-* * Linear movement  (left-right, up-down)
+* * Linear movement (left-right, up-down)
 * * Using LFO’s to create arcs, etc
 
 * Similarity/Proximity:
 * * Create a composition using three white circles that are spaced evenly across the Canvas 
 * Continuation:
 * * Implement the same linear motion for each circle (position, zoom, et al)
-* * Apply LFO’s/Num FX to create a phased continuation (delay, etc)
+* * Apply LFO’s to create a phased continuation (delay, etc)
+
 ### Special Equipment
 
 Required:
@@ -51,37 +52,68 @@ Required:
 
 ### Lecture Notes
 
-### Discussions
-
 * Introduction to Gestalt principles
+
+### Discussions
 
 ### Demonstrations
 
 #### Animating basic shapes
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Load the Simple Player template as a starting point
+- Add ISF Shape generator and trigger
+2. Assigning control data
+- From the Workspace Inspetor > Plugins, add an LFO plugin
+- Assign the x position to the ramp data-source from the LFO 1
+- Assign the y position to the cosine data-source from the LFO 1
+- Demonstrate adjusting the rate of the LFO 1 plugin to control the rate of animation
+- From the Workspace Inspetor > Plugins, add a second LFO plugin
+- Assign the y position to the cosine data-source from the LFO 2
+- Demonstrate adjusting the rate of LFO 1 and LFO 2 plugin to control the rates of animation on individual properties
+- Assign x = sine, y = cosine; note this creates circles when at the same rate, and various arcing patterns when the rates do not match
+- Adjust the min / max range handles on the x and y position sliders to limit the range of the animation on the receiving side
 
-#### Demo 2
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Similarity/Proximity/Continuation
+1. Add two layers to the setup
+- Open the layer source windows into their own windows
+- Add copies of the shape generator ISF into the media bin (or make copies with the bin) and trigger to Layer 2 and Layer 3
+2. Adding additional waveforms and modifying their values
+- Inspect LFO 1
+- - Add a second sine waveform
+- - In the main LFO interface, click on the start point of Sine 2 and drag to 1/3 of the way into the time domain
+- - Assign the x position of the Layer 2 shape to the Sine 2 data-source from the LFO 1
+- - Add a third sine waveform
+- - In the main LFO interface, click on the start point of Sine 3 and drag to 2/3 of the way into the time domain
+- - Assign the x position of the Layer 3 shape to the Sine 3 data-source from the LFO 1
+- Repeat above for LFO 2, using cosine instead of sine and the y position instead of x position
+3. Add a 3rd LFO to adjust the size / zoom levels of the shapes
 
 ### Exercises
 
 #### Animating basic shapes
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Load the Simple Player template as a starting point
+- Add ISF Shape generator and trigger
+2. Adding control data
+- From the Workspace Inspetor > Plugins, add an LFO plugin
+- Assign the x position to the ramp data-source from the LFO 1
+- Assign the y position to the cosine data-source from the LFO 1
+- Demonstrate adjusting the rate of the LFO 1 plugin to control the rate of animation
+- From the Workspace Inspetor > Plugins, add a second LFO plugin
+- Assign the y position to the cosine data-source from the LFO 2
+- Demonstrate adjusting the rate of LFO 1 and LFO 2 plugin to control the rates of animation on individual properties
+- Try using different waveforms and playback to get different results:
+- - x = sine, y = cosine creates circles when at the same rate, and various arcing patterns when the rates do not match
+- - When the rates do not match, how long does it take for the LFOs to resync?
+- - What happens when we use the value of one LFO to control the position or rate of another LFO?
 
-#### Exercise 2
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Similarity/Proximity:
+1. Add two layers to the setup
+- Open the layer source windows into their own windows
+- Add copies of the shape generator ISF into the media bin (or make copies with the bin) and trigger to Layer 2 and Layer 3
+2. Add LFOs and waveforms to create the following compositions:
+- Create a composition using three white circles that are spaced evenly across the Canvas 
+- Implement the same linear motion for each circle (position, zoom, et al)
+- Apply LFO’s to create a phased continuation (delay, etc)
+3. Optional: Add a Movie Recorder plugin to capture the final output
 
 ## Lesson 2:
 
@@ -101,7 +133,7 @@ Finally, refine the timing of your final composition to music by syncing the mot
 
 ### Lesson Overview
 
-* Animating shapes using control plugins
+* Animating shapes and colors using control plugins
 * “Zooming” 
 * Syncing motion to the Clock
 * Dynamic form using Num FX and FX Chains
@@ -111,12 +143,9 @@ Finally, refine the timing of your final composition to music by syncing the mot
 * * Phasing in/out
 * * Looping motion using math
 * RGB circles using position/rotation LFO’s
-* Refine timing to music using step sequencer and cue list
+* Refine timing to music using step sequencer
 
 ### Special Equipment
-
-Required:
-- Bouncing out of phase RGB circles driven by LFOs 
 
 ### Lecture Notes
 
@@ -128,28 +157,53 @@ Required:
 
 ### Demonstrations
 
-#### Animating shapes using control plugins
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Animating shapes and colors using control plugins
 
-#### Concentric RGB circles using “Zooming” 
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Continuing from 3 animated circles project file...
+2. Create concentric RGB circles using “Zooming”
+- Set the shape colors of Layers 1-3 to Red, Green and Blue respectively from the Layer Source controls
+- Disable animation for x/y parameters and set positions to center or the same corner position
+- Animate only the size / zoom parameter to create a concentric RGB circles
+3. Adding color animation
+- From the Workspace Inspector > Plugins, add a Step Sequencer plugin
+- From the inspector for the Step Sequencer, add a color track
+- Control+drag from the color bar on the left-side of the Step Sequencer to the color swatch for Layer 1 shape color to create a connection
+- Add 2 more color tracks from the Step Sequencer inspector
+- Click on color swatches for Layer 2 and Layer 3 to demonstrate using the UI Inspector to manually create assignments for the 2nd and 3rd color tracks
+- In the Step Sequencer main interface demonstrate:
+- - Changing the color pattern sequence manually
+- - Randomizing the color pattern sequence
+- - Click on the color panels on the left side to adjust the published color on a per row basis
+- - Using the 'Section Preset' bar to create presets
+- In the Step Sequencer inspector demonstrate: 
+- - Adjusting number of rows
+- - Adjusting interpolation phase to fade between colors
+4. Adjusting rates of multiple plugins together using Clocks
+- From the Workspace Inspector > Plugins, inspect Clock 1
+- - Note that each LFO / Step Sequencer is sync'd to the same clock plugin
+- - Adjusting the BPM of the clock adjusts the rate of all sync'd plugins
+- - Note that multiple clocks can be used in advanced setups
+- - The clock can be synchronized with other software or analyze audio signals for automatic BPM detection
+- In the main interface for the Step Sequencer plugin
+- - To the right of the clock selection menu, change the duration from the default of 2 measures to 4 measures; note that the rate moves at half the speed, then adjust the number of measures to 1 and note that it is moving twice as fast as the original rate
+- - Click on the 'clock' icon to disable clock sync
+- - Note that the 'M' for duration switches from 'Measures' to 'S' for 'Seconds' allowing for independent timing control for individual plugins
 
 ### Exercises
 
-#### Animating shapes using control plugins
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
-
 #### Concentric RGB circles using “Zooming” 
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Continuing from 3 animated circles project file...
+2. Create concentric RGB circles using “Zooming”
+- Set the shape colors of Layers 1-3 to Red, Green and Blue respectively from the Layer Source controls
+- Disable animation for x/y parameters and set positions to center or the same corner position
+- Animate only the size / zoom parameter to create a concentric RGB circles
+
+####  Color animations
+1. Continuing from above...
+2. Add a Step Sequencer and use color tracks to animate the colors of each shape layer
+- Optional: Use the other Step Sequencer track types, such as index and float, to control the size / zoom parameter instead of an LFO
+3. Refine timing of LFO and Step Sequencer plugins using the concepts from the Rhythmic Sequence lesson:
+* Regular rhythm: Intervals between sizes are the same in duration (i.e., one second per size)
+* Progressive rhythm: The size of shapes are changed over a progression, getting faster towards the end (2 sec, 1 sec, ½ sec, and so on)
+* Flowing (organic) rhythm: Occurs when the intervals are organic, used to create a feeling of visual polyphony. Think VJ’ing to wind chimes.
+
