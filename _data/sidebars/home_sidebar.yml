@@ -71,9 +71,6 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Downloads
-      url: /ref_downloads.html
-      output: web, pdf
     
     - title: Glossary
       url: /ref_glossary.html
