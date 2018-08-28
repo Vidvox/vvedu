@@ -51,11 +51,11 @@ Outputs
 * [Recommended video codecs for VDMX](https://docs.vidvox.net/vdmx_video_codecs.html)
 * [Converting media files to HAP](http://hap.video/using-hap.html)
 * [Video codec usage comparisons and benchmarks](http://hap.video/benchmarks.html)
-* [InteractiveShaderFormat.com](https://www.interactiveshaderformat.com/)
 * [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md)
 * [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md)
 * [YouTube.com](https://www.youtube.com/)
 * [Vimeo.com](https://www.vimeo.com/)
+* [What's In A GIF?](http://giflib.sourceforge.net/whatsinagif/bits_and_bytes.html)
 
 ### Resources
 

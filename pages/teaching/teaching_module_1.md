@@ -40,21 +40,17 @@ One of the most powerful aspects of working with “live” video is the ability
 * * * Movies, animated gifs, PDFs
 * * * Still images
 * * Interactive generators
-* * * ISF
-* * * Quartz Composer
-* * * CoreImage
-* * * Vuo
+* * * ISF, Quartz Composer, CoreImage, Vuo
 * * * Custom apps (connected by Syphon)
-* * Live feeds
+* * "Live" feeds
 * * * Cameras
-* * * Capture devices (blackmagic)
+* * * Capture devices
 * * * NDI® (network streaming)
 * * * Syphon (share video between apps)
 * * * Screen / window capture
 * * * Internal feedback loops
 * FX
 * * Adding filters between input and output
-* * Cropping
 * Outputs
 * * Fullscreen output
 * * * Using projectors / displays
@@ -70,7 +66,7 @@ One of the most powerful aspects of working with “live” video is the ability
 ### Special Equipment
 
 Though not required for this lesson, the following extra equipment can be used for in class demos and exercises as described below:
-- Blackmagic Input / Output devices
+- Blackmagic Input / Output devices (or similar)
 - External monitors or projectors (and appropriate cables) for fullscreen outputs
 - An ethernet switch or router (and appropriate cables) for NDI® video stream sharing
 - An account on YouTube or Vimeo
@@ -80,6 +76,11 @@ Though not required for this lesson, the following extra equipment can be used f
 1. What is a video signal?
 2. What are the different types of media files for live visuals?
 3. What is a video codec?
+
+### Discussions
+
+* Why live visuals?
+* What shows / artists / music / movies / and other media has inspired you?
 
 ### Demonstrations
 
@@ -201,11 +202,6 @@ Continuing from above.
 - Use NDI® Video Monitor test app to confirm stream
 - If students are on a local area network via ethernet, practice sending and receiving streams from computers, applying FX and sending them back for others to remix further.
 
-### Discussions
-
-* Why live visuals?
-* What shows / artists / music / movies / and other media has inspired you?
-
 ## Lesson 2: Responsiveness
 
 [Handout: Responsiveness](https://dlublin.github.io/vidiotuniversity/handout_module_1.html#lesson-2-responsiveness)
@@ -246,6 +242,11 @@ Though not required for this lesson, the following extra equipment can be used f
 
 * What are audio / sound inputs?
 * What are MIDI, DMX and OSC? In what ways are they different?
+
+### Discussions
+
+* Why is responsiveness an important part of live visuals?
+* Why use MIDI and OSC instruments / controllers for live performance?
 
 ### Demonstrations
 
@@ -317,34 +318,34 @@ Other OSC demo tips:
 - - In the 'opts' tab for buttons, configure the values sent back for on / off states
 
 #### Media Bin configuration
-- Inspect the Media Bin plugin
-- From the 'Triggers' tab, clear the existing keyboard shortcuts from the template
-- Use the 'Detect' option to create new assignments for a MIDI or OSC controller
-- In the 'Control' tab, assign a MIDI or OSC slider to the 'trigger by float' option to demonstrate clip selection from a single input control
-- In the 'Options' tab, enable the Preload Media option to speed up triggering
-- If using a MIDI or OSC controller that supports bi-directional communication, demonstrate using 'echo' mode in the media bin from the 'Sending' tab
+1. Inspect the Media Bin plugin
+2. From the 'Triggers' tab, clear the existing keyboard shortcuts from the template
+3. Use the 'Detect' option to create new assignments for a MIDI or OSC controller
+4. In the 'Control' tab, assign a MIDI or OSC slider to the 'trigger by float' option to demonstrate clip selection from a single input control
+5. In the 'Options' tab, enable the Preload Media option to speed up triggering
+6. If using a MIDI or OSC controller that supports bi-directional communication, demonstrate using 'echo' mode in the media bin from the 'Sending' tab
 
-5. Control Surface plugin basics
-- From the Workspace Inspector > Plugins, create a new Control Surface plugin
-- Using the sub-inspector for the Control Surface, add a button, slider and color picker to the interface
-- Right+click on the threshold slider for Duotone and set it to use the slider from the control surface
-- Also demonstrate control+drag from the slider in Control Surface to the threshold slider (or another slider) for fast assignments
-- Control+drag from the color wheel in Control Surface to the color swatch in the brightColor (below the 'sample' button) to create a quick assignment
-- In the Duotone FX, click on the color swatch for brightColor to demonstrate it can be inspected like other UI items
-- Control+drag from the color wheel in Control Surface to the on/off button for the Duotone FX to create a quick assignment
+#### Control Surface plugin basics
+1. From the Workspace Inspector > Plugins, create a new Control Surface plugin
+2. Using the sub-inspector for the Control Surface, add a button, slider and color picker to the interface
+3. Right+click on the threshold slider for Duotone and set it to use the slider from the control surface
+4. Also demonstrate control+drag from the slider in Control Surface to the threshold slider (or another slider) for fast assignments
+5. Control+drag from the color wheel in Control Surface to the color swatch in the brightColor (below the 'sample' button) to create a quick assignment
+6. In the Duotone FX, click on the color swatch for brightColor to demonstrate it can be inspected like other UI items
+7. Control+drag from the toggle button in Control Surface to the on/off button for the Duotone FX to create a quick assignment
 - What are the differences between toggle and momentary buttons in the Control Surface?
 - - Note that the on/off button follows the state of the CS button
 - - Inspect the button in the Control Surface
 - - Using the UI Inspector, change the button from a toggle to a momentary button
 - - Recreate the connection by control+drag to the on/off button for Duotone
 - - Note that the on/off button toggles between states when the CS button is pressed
-- Note that the Control Surface includes many other options that will be covered later, including the ability to customize the layout
-- Web browser access to Control Surface plugins
-- - Open the VDMX preferences and go to the OSC section > OSCQuery
-- - Click the link to open the HTML page; your default browser should open to a link like "http://10.0.1.14:2346/index.html?HTML"
-- - Use the UI items in the web browser and note that they change VDMX
-- - Adjust UI items in the VDMX control surface and observe that they change in the browser
-- - Optional: Have students open the link on their smart phones, tablets, or desktop computers and let them remote control the output. Another suggestion is to have a tablet or smart phone already loaded with this page to pass around.
+8. Note that the Control Surface includes many other options that will be covered later, including the ability to customize the layout
+9. Web browser access to Control Surface plugins
+- Open the VDMX preferences and go to the OSC section > OSCQuery
+- Click the link to open the HTML page; your default browser should open to a link like "http://10.0.1.14:2346/index.html?HTML"
+- Use the UI items in the web browser and note that they change VDMX
+- Adjust UI items in the VDMX control surface and observe that they change in the browser
+- Optional: Have students open the link on their smart phones, tablets, or desktop computers and let them remote control the output. Another suggestion is to have a tablet or smart phone already loaded with this page to pass around.
 
 ### Exercises
 
@@ -376,8 +377,3 @@ Other OSC demo tips:
 - Link controls to FX-chains and other parameters
 - Use audio, MIDI, OSC and keyboard data-sources to drive UI elements in the Control Surface plugin
 - Use the 'Section Presets' in the Control Surface plugin to save and load UI element collections and routings
-
-### Discussions
-
-* Why is responsiveness an important part of live visuals?
-* Why use MIDI and OSC instruments / controllers for live performance?

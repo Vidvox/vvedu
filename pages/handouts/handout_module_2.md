@@ -32,8 +32,10 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 * Loading media files into Kuleshov project
 * Capturing video clips
 * Recording output in Kuleshov project
+* Adding soundtracks
 * Uploading recordings to Vimeo / Youtube
 * Discussion: Silence vs Music
+* Types of shots in film
 
 ### Reference Links
 
@@ -44,6 +46,9 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 
 * Kuleshov Sample Clips and Project
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
+* [Freesound.org](Freesound.org)
+* [YouTube Royalty Free Library](https://www.youtube.com/audiolibrary/music)
+Sample template for sequencing clips
 
 ### Related Tutorials and Case Studies
 

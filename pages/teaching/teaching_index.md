@@ -22,13 +22,13 @@ For each module a student handout is provided that includes overview notes and u
 #### Teacher Lesson Plans
 
 For each module, broken up by, lesson you will find the following resources:
-* Lesson description: A short introduction describing the concepts, exercises and goals associated with the lesson.
-* Handout: A link to the matching student handout that can be provided to the class which includes notes and useful reference links from the lesson.
-* Lecture notes: Starting points for material that can be used to explain lesson topics in the form of a lecture or presentation.
-* Demonstrations: A list of suggested in class lessons that you, the teacher, should walk-through as demonstrations for the students to observe or follow along.
-* Exercises: A list of suggested tasks that students can work on in class individually or in small groups.
-* Discussion: Ideas for guided group conversations based on topics related to the lesson.
-* Special equipment: In some cases it can be useful to have some special equipment to perform an in class demonstration or exercise. Where included these notes can serve as a reminder to acquire these items.
+* *Lesson description*: A short introduction describing the concepts, exercises and goals associated with the lesson.
+* *Handout*: A link to the matching student handout that can be provided to the class which includes notes and useful reference links from the lesson.
+* *Lecture notes*: Starting points for material that can be used to explain lesson topics in the form of a lecture or presentation.
+* *Demonstrations*: A list of suggested in class lessons that you, the teacher, should walk-through as demonstrations for the students to observe or follow along.
+* *Exercises*: A list of suggested tasks that students can work on in class individually or in small groups. Often these are variations on the demonstrations, with the idea that students repeat the techniques that were just explained by the teacher.
+* *Discussion*: Ideas for guided group conversations based on topics related to the lesson.
+* *Special equipment*: In some cases it can be useful to have some special equipment to perform an in class demonstration or exercise. Where included these notes can serve as a reminder to acquire these items.
 
 Depending on the time constraints and limitations of your demonstration equipment, some of the demonstrations and in class exercises may not be possible. Use your best discretion when it comes to  which parts best fit with your classroom capabilities.
 
