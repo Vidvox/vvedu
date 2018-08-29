@@ -27,32 +27,166 @@ This week, we will create a shape-based color organ, creating and performing for
 
 ### Lesson Overview
 
-* Triggering content with Audio/MIDI
-* Manipulating color with Audio/MIDI
-* Audio visualizers (waveforms, FFT, spectrogram)
+* Triggering content with sound/MIDI
+* Manipulating color with sound/MIDI
+
+### Special Equipment
+
+Required downloads:
+- Abstract Visualization / Color Organ ISF examples
+- [SimpleSynth](http://notahat.com/simplesynth/) or comparable app
+- [MIDI Monitor](https://www.snoize.com/MIDIMonitor/) or comparable app
+
+### Lecture Notes
+
+* What does is the color of a sound?
+
+### Discussions
+
+### Demonstrations
+
+#### Triggering content with sound
+1. Prepare base project
+- Load the 'Simple Player' template
+- Add the 'Kuleshov' clip set to the media bin
+- Inspect the Media Bin and from the options tab, enable media pre-loading for low latency triggering
+- From the Workspace Inspector > Plugins, add an Audio Analysis plugin to the project
+- - Adjust any input / frequencies / gain settings
+2. Prev / Next / Random on sound impulse
+- Right+click on the '?' button in the Media Bin and set the data-source to audio analysis > filter 1
+- Use the UI Inspector to inspect the '?' button
+- - In the 'Receiving' tab, select the receiver for the audio filter
+- - From the sub-inspector, adjust the threshold slider to adjust the point where the button is triggered
+- In the Layer Source controls, switch the looping behavior to 'Cut to Black'
+- When finished demonstrating, right+click on the '?' button and disable data-sources before moving on to the next step
+3. Trigger a specific clip on sound impulse
+- Inspect the Media Bin
+- From the 'Triggers' tab
+- Clear existing triggers
+- Click the + button to manually add a new receiver
+- - Note that these receivers work like button receivers
+- - Use the assignment menu and select the data-source to audio analysis > filter 1
+- - From the UI Inspector, adjust the threshold slider to adjust the point where the clip is triggered
+- When finished demonstrating, clear the triggers before moving on to the next step
+4. Quantizing triggers to sound impulse
+- In the main Media Bin interface, switch the Trigger On (T:) menu from 'Immediately' to 'Manual'
+- - A new button will appear for quantizing triggers to a data-source
+- Trigger a clip in the media bin
+- - Note that it does not immediately trigger
+- - Click the manual quantize button to have the cued clip trigger
+- Right+click on the manual quantize button in the Media Bin and set the data-source to audio analysis > filter 1
+- Use the UI Inspector to inspect the manual quantize button
+- - In the 'Receiving' tab, select the receiver for the audio filter
+- - From the sub-inspector, adjust the threshold slider to adjust the point where the button is triggered
+- - Note that this technique can be used with keyboard, MIDI, OSC or any other data-source, and can be used to synchronise triggers between multiple media bins
+- When finished demonstrating, right+click on the manual quantize button and disable data-sources before moving on to the next step
+
+#### Manipulating color with Audio/MIDI
+1. Color Representations – RGB vs HSV
+- Add a 'Solid Color.fs' generator to the media bin (right+click on the page or use the Media Browser) and replicate it 3x
+- Trigger the 1st solid color generator
+- - Map Red / Green / Blue sliders to filter 1-3 respectively
+- - Note that audio frequency levels are mapped to color channel levels
+- From the Workspace Inspector > Plugins, add a Control Surface plugin
+- - From the Control Surface inspector, add a Color Wheel
+- Trigger the 2nd solid color generator
+- - Click on the color swatch in the layer source controls and use the UI Inspector to receive from the Control Surface color wheel (or control+drag from the color wheel to the swatch)
+- - Map the Hue / Saturation / Brightness (aka Value) levels to audio filters 1-3 respectively
+- - Note that audio frequency levels are controlling the color via HSV instead of RGB; how are these different?
+
+2. 'Audio Level to Color'
+Note: This recreates the 'Audio to Color' template; if you are short on time, you can demonstrate this template and skip the setup.
+- Continuing from above
+- From the Workspace Inspector > Plugins, add a Step Sequencer plugin
+- - Add a color track to the Step Sequencer
+- Trigger the 3rd solid color generator
+- - Click on the color swatch in the layer source controls and use the UI Inspector to receive from the Step Sequencer color track (or control+drag from the color track to the swatch)
+- Set the 'rate' of the Step Sequencer to 0.0, or pause
+- Right+click on the 'Time' slider in the Step Sequencer and set its data source to 'Audio Analysis 1/Peak Frequency Magnitude'
+- Adjust colors, steps, interpolation and time slider range such that the color transitions from black to green to yellow to red to white
+
+3. Color Organ
+- Launch SimpleSynth and MIDI Monitor
+- Use the included project file, or the steps below,
+- Add the 'Color Scales.fs' generator to the media bin and trigger (ref Kandinsky primer)
+- Use the Notes slider and Author controls to demonstrate color palettes
+- Optional: Open 'Color Scales.fs' in a text editor or ISF Editor to show its code for remixing
+- Click on the 'Note' slider and use the UI Inspector
+- - Switch to the 'Marks' tab
+- - Add 12 'marks' and set them to 0, 1, 2, ... 10, 11
+- - Use the 'detect' option to assign top row of 12 keys (or MIDI keyboard) for the marks
+- - Switch to the 'Send'
+- - Add a sender and set to 'MIDI' with the target of 'SimpleSynth'
+- - Use the sub-inspector to set the MIDI sender:
+- - - 'Note Range' tab
+- - - Send note ons from 60 (Middle C) to 71
+- - - Optional: 'Send Noteoffs' – disabled or enabled? try both, with different instruments selected in SimpleSynth
+- - Demonstrate using keyboard to play sound and colors
+- - - Use MIDI Monitor as a debug, values should go from C3 C#3 D3 D#3 E3 F3 F#3 G3 G#3 A3 A#3 B3 for each corresponding color 
+- Inspect the 'Author' pop-up menu and assign keyboard shortcuts / MIDI notes to switch the color palette selection
+
+### Exercises
+
+#### Triggering content with sound
+1. Start from 'Simple Player' template
+- Challenge: Use the 'Simple Mixer' template or a project that has multiple media bins that can be configured:
+- - With the same audio triggers
+- - Different audio triggers
+- - Using a Control Surface plugin interface button as a master control
+2. If needed, add Audio Analysis plugin
+3. Configure prev/next/rand to trigger on sound impulse
+- Adjust threshold level using UI Inspector
+4. Configure media bin trigger specific clip on sound impulse from Media Bin inspector
+- Adjust threshold level using UI Inspector
+5. Configure media bin Quantize Triggering for:
+- Sound impulse
+- Keyboard / MIDI input
+
+#### Color organ
+1. Launch SimpleSynth and MIDI Monitor
+2. Start from 'Simple Player' template (or use the pre-made template and skip the setup steps 3 & 4 below)
+3. Add the 'Color Scales.fs' generator to the media bin and trigger
+4. Prepare the Notes slider for input and output using the UI Inspector
+- Add 12 'marks' and set them to 0, 1, 2, ... 10, 11
+- Assign keyboard / MIDI triggers to each mark
+- Add a sender and set to 'MIDI' with the target of 'SimpleSynth'
+- - Send note ons from 60 (Middle C) to 71
+5. Use the Notes slider and Author controls to demonstrate color palettes
+- Optional: Assign shortcuts for switching between color palettes
+- Optional: Use SoundFlower and the Movie Recorder plugin to capture; use the Audio Analysis pass-thru option to preview the sound if needed
+- Challenge: Modify the 'Color Scales.fs' to include your own color palette creation
+
+## Lesson 2: Audio Visualizers and the Shape of Sounds
+
+[Handout:  Audio Visualizers](/handout_module_4.html)
+
+### Lesson Overview
+
+* What is the shape of a sound?
+* Audio Visualizers:
+* * VU Meters
+* * Waveform and FFT Visualizers
+* * Audio Spectrograms
+* * ProjectMilkSyphon
+* * Booba/Kiki ISFs
 
 * Create two layers/media bins of shapes (i.e., Booba/Kiki): 
 * * Organic 
 * * Polygonal 
-* Link percussional frequencies to polygons and melodic frequencies to organic
-* Link colors to musical tones (ref Kandinsky primer)
-* * Melodic (cool)
-* * Percussional (warm)
 * Augment with audio visualizers (waveforms, FFT, spectrogram)
 
 ### Special Equipment
 
 Required:
-- 
-- 
+- Example audio tracks, eg [YouTube Royalty Free Library](https://www.youtube.com/audiolibrary/music)
+- [Project Milk Syphon](https://docs.vidvox.net/freebies_project_milk_syphon.html)
 
 Recommended:
-- 
-- 
+- [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
 ### Lecture Notes
 
-* What does sound look like?
+* What is the shape of a sound?
 
 ### Discussions
 
@@ -60,13 +194,19 @@ Recommended:
 
 ### Demonstrations
 
-#### Demo 1
+#### VU Meter
 1. Step 1
 - Note 1
 2. Step 2
 - Note 2
 
-#### Demo 2
+#### Waveform and FFT Visualizer
+1. Step 1
+- Note 1
+2. Step 2
+- Note 2
+
+#### Audio Spectrograms
 1. Step 1
 - Note 1
 2. Step 2
@@ -80,13 +220,21 @@ Recommended:
 2. Step 2
 - Note 2
 
-#### Exercise 2
+#### Create two layers/media bins of shapes (i.e., Booba/Kiki)
 1. Step 1
 - Note 1
 2. Step 2
 - Note 2
+* * Organic 
+* * Polygonal 
+* Link percussional frequencies to polygons and melodic frequencies to organic
+* Link colors to musical tones (ref Kandinsky primer)
+* * Melodic (cool)
+* * Percussional (warm)
+* Augment with audio visualizers (waveforms, FFT, spectrogram)
 
-## Lesson 2: Generative Patterns
+
+## Lesson 3: Generative Patterns
 
 [Handout: Generative Patterns](/handout_module_4.html)
 
@@ -142,86 +290,4 @@ Required:
 - Note 2
 
 
-## Lesson 3: Collaborating with Musicians
 
-[Handout: Generative Patterns](/handout_module_4.html)
-
-In the case where visuals and lighting are being performed live along with music, there is the possibility for both sides to respond and react, in the way the members of a band can improvise or riff off each other, or create an informal jam session to try out new ideas.
-
-When collaborating with musicians directly on the creation of new work, visual artists have an opportunity to influence the way that the sound and imagery are connected in time and feeling. For live performances this also allows for the possibility of sharing timecode and other control information between systems for an added level of synchronization.
-
-### Lesson Overview
-
-* The Control Surface plugin
-* MIDI software
-* OSC / OSCQuery
-
-* Creating custom interface layouts with the Control Surface plugin
-* Advanced MIDI synchronization
-* * MIDI Clock sync from Ableton Live to VDMX
-* * Ableton Link
-* * Sending MIDI triggers and control values from Ableton Live to VDMX
-* OSCQuery in VDMX
-* * Web page control
-* * OSCQuery Client plugin
-* * Using OSCQuery Helper and MIDI OSCQuery Helper
-
-### Special Equipment
-
-Required:
-- [MIDI OSCQuery Helper](https://docs.vidvox.net/freebies_midi_oscquery_helper.html)
-- [OSCQuery Helper](https://docs.vidvox.net/freebies_oscquery_helper.html)
-- Ableton Live sample project
-
-Recommended:
-- 
-- 
-
-### Lecture Notes
-
-* History of MIDI
-
-### Discussions
-
-* 
-* 
-
-### Demonstrations
-
-#### The Control Surface plugin
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
-
-#### MIDI software
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
-
-#### OSC / OSCQuery software
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
-
-### Exercises
-
-#### Add Control Surface plugins to an existing project
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
-
-#### MIDI softare sync exercise
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
-
-#### OSC / OSCQuery group exercise
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
