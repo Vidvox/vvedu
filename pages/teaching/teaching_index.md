@@ -15,6 +15,30 @@ folder: teaching
 
 ### Module Design
 
+#### About the Modules
+
+1. Module 1: “Live” Visuals
+- Input to Output
+- Responsiveness
+2. Module 2: Introduction to Montage
+- The Cut
+- Rhythmic Sequence
+- Cinéma Pur
+3. Module 3: Introduction to Motion Design
+- Stills to Motion
+- Color and Choreography
+4. Module 4: Visual Music
+- Abstract Visualization / Color Organ
+- Audio Visualizers and the Shape of Sounds
+- Generative Patterns
+5. Module 5: Aesthetic Overview
+- Styling Your Look
+- Mood board / Storyboarding
+6. Module 6: Show and Event Production
+- Pre-Production and Show Design
+- Technical Riders and Contracts
+- Getting gig ready, Rehearsals and Performances
+
 #### Student Handouts
 
 For each module a student handout is provided that includes overview notes and useful reference links from each lesson in the section.

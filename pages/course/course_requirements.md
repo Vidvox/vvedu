@@ -66,6 +66,7 @@ Or browse from popular controller makers,
 * [Akai]((http://akaipro.com/)
 * [Korg](https://www.korg.com/)
 * [M-Audio](http://www.m-audio.com/)
+* [Native Instruments](https://www.native-instruments.com/)
 * [Numark](https://www.numark.com/product_category/controllers)
 * [Serato](https://serato.com/dj/hardware?type=controller) (many digital DJ controllers send off MIDI that can be used for live visuals)
 

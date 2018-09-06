@@ -44,8 +44,16 @@ Multiple cameras can present different views of the performer at the same time, 
 
 ### Lesson Overview
 
-* 
-* 
+* Multiple Inputs / Outputs in VDMX
+* Timecode plugin
+* * MTC, LTC and OSC sync
+* * Time markers
+* Preparing cues
+* * Using the Cue List plugin in VDMX
+* Using materials from other people
+* * Creative Commons: Share, Collaborate, Remix, Reuse
+* * What is fair use?
+* * Works for hire
 
 ### Special Equipment
 
@@ -59,20 +67,25 @@ Recommended:
 
 ### Lecture Notes
 
-### Discussions
+* Using materials from other people
 
-* 
-* 
+### Discussions
 
 ### Demonstrations
 
-#### Demo 1
+#### Multiple Inputs / Outputs in VDMX
 1. Step 1
 - Note 1
 2. Step 2
 - Note 2
 
-#### Demo 2
+#### Timecode plugin
+1. Step 1
+- Note 1
+2. Step 2
+- Note 2
+
+#### Preparing cues
 1. Step 1
 - Note 1
 2. Step 2
@@ -130,6 +143,7 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * What goes in a contract
 * Working with lighting designers
 * * Design considerations; when can light / video elements work together, when do they work better alone?
+* DMX and VDMX
 * * Using VDMX as a DMX controlled media server
 * * Sending DMX from VDMX
 
@@ -155,13 +169,13 @@ Recommended:
 
 ### Demonstrations
 
-#### Demo 1
+#### Using VDMX as a DMX controlled media server
 1. Step 1
 - Note 1
 2. Step 2
 - Note 2
 
-#### Demo 2
+#### Sending DMX from VDMX
 1. Step 1
 - Note 1
 2. Step 2
@@ -222,13 +236,13 @@ Recommended:
 
 ### Demonstrations
 
-#### Demo 1
+#### Introduction to iMovie / ScreenFlow and basic non-linear editing
 1. Step 1
 - Note 1
 2. Step 2
 - Note 2
 
-#### Demo 2
+#### Creating a demo reel
 1. Step 1
 - Note 1
 2. Step 2

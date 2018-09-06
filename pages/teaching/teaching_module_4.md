@@ -27,8 +27,14 @@ This week, we will create a shape-based color organ, creating and performing for
 
 ### Lesson Overview
 
-* Triggering content with sound/MIDI
+* Triggering content with sound/MIDI impulse
+* * Prev / next / rand
+* * Triggering a specific clip
+* * Quantized triggering
 * Manipulating color with sound/MIDI
+* * RGB vs HSV (HSB)
+* * 'Audio Level to Color'
+* * Color organ generator and sound synth
 
 ### Special Equipment
 
@@ -39,7 +45,12 @@ Required downloads:
 
 ### Lecture Notes
 
-* What does is the color of a sound?
+- What does is the color of a sound / tone?
+- - [Color Organs](https://en.wikipedia.org/wiki/Color_organ)
+- - [Kandinksy](https://en.wikipedia.org/wiki/Wassily_Kandinsky)
+- - Color scales
+- - Translations between sounds and imagery
+- Color representations – RGB vs HSV
 
 ### Discussions
 
@@ -95,7 +106,7 @@ Required downloads:
 - - Note that audio frequency levels are controlling the color via HSV instead of RGB; how are these different?
 
 2. 'Audio Level to Color'
-Note: This recreates the 'Audio to Color' template; if you are short on time, you can demonstrate this template and skip the setup.
+- *Note: This recreates the 'Audio to Color' template; if you are short on time, you can demonstrate this template and skip the setup.*
 - Continuing from above
 - From the Workspace Inspector > Plugins, add a Step Sequencer plugin
 - - Add a color track to the Step Sequencer
@@ -186,53 +197,95 @@ Recommended:
 
 ### Lecture Notes
 
-* What is the shape of a sound?
+- What is the shape of a sound?
+- - [Booba/Kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
+- - Waveform visualization
+- - FFT visualization
+- - Audio Spectrograms
 
 ### Discussions
 
-* Booba/Kiki
+* How do we describe shapes?
+* Booba vs Kiki
 
 ### Demonstrations
 
+For the below demonstrations, begin by,
+1. Start from 'Simple Player' template
+2. Add the provided sample media visualizers to the project
+3. Add an audio analysis plugin from the Workspace Inspector > Plugins
+4. Optional: Configure Audio Analysis to use SoundFlower and an input and enable sound play-thru for using audio from other software
+
+or use the pre-made project file.
+
 #### VU Meter
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Trigger the VU Meter ISF
+2. Assign the level meter to 'Audio Analysis 1/Peak Frequency Magnitude'
+3. Adjust ISF parameters
 
 #### Waveform and FFT Visualizer
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Add the built-in source 'FFT Color Lines.fs' to the media bin from the media browser and trigger
+2. Set the waveImage and fftImage to receive from the Audio Analysis plugin
+- What are FFTs? What are audio waveforms?
+3. Demonstrate adjusting ISF parameters
+4. Optional: Open 'FFT Color Lines.fs' in a text editor or ISF Editor to demonstrate remixability; right+click > reveal selected files in finder to locate file on disk
 
 #### Audio Spectrograms
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Add 'FFT Spectrogram.fs' and 'Radial Spectrogram.fs'
+- Trigger each and set fftImage input to use Audio Analysis 1
+2. Demonstrate the way different types of music look different when visualized with FFTs
+
+#### Booba/Kiki Shapes
+1. Booba/Kiki shape generators
+- Trigger the Booba generator
+- - Link parameters to audio data-sources
+- Trigger Kiki generator
+- - Link parameters to audio data-sources
+- Trigger Booba/Kiki hybrid generator
+- - Link parameters to audio data-sources
+- Demonstrate audio reactivity with different soundtracks / music: which work and which feel wrong?
+- - Rhythmic
+- - Tonal
+- - Soft
+- - Glitchy
+- - Abstract / Arrhythmic (wind chimes)
+2. Animating Booba/Kiki image sets with FX
+- Add Zoom and Rotation FX
+- Link zoom and rotation controls to audio frequencies
+- Optional: Use the File Inspector to have zoom / rotation FX on specific images / clips
+- - From the Workspace Inspector in the Files tab
+- - - Select one or more image clips
+- - - In the FX tab, enable the 'Use Custom FX-Chain' toggle
+- - - Add zoom / rotation FX and link parameters
+- - - Click Apply
+3. Use the 'Color Scores Tint.fs' FX to adjust coloring of images / generators using our Color Organ palettes
+
+#### ProjectMilkSyphon
+1. Launch ProjectMilkSyphon
+- Configure input settings if needed
+2. In VDMX, use the Media Browser > Syphon inputs to add the ProjectMilkSyphon to the media bin
+3. Trigger the ProjectMilkSyphon feed
+4. Demonstrate audio reactivity with different soundtracks: Which work and which feel wrong? Which visualizer modes work with which kinds of music?
 
 ### Exercises
 
-#### Exercise 1
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Basic Visualizers
+1. Load the 'Simple Player' template
+2. Add an Audio Analysis plugin
+- Configure if needed
+3. Configure a VU Meter generator
+4. Waveform and FFT Visualizer
+5. Visualize different types of music using a spectrogram
 
-#### Create two layers/media bins of shapes (i.e., Booba/Kiki)
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
-* * Organic 
-* * Polygonal 
-* Link percussional frequencies to polygons and melodic frequencies to organic
-* Link colors to musical tones (ref Kandinsky primer)
-* * Melodic (cool)
-* * Percussional (warm)
-* Augment with audio visualizers (waveforms, FFT, spectrogram)
-
+#### Booba/Kiki
+1. Load the 'Simple Mixer' template
+2. Add Audio Analysis plugin
+3. Create and mix between two layers of shapes and visual FX using different music on the following themes:
+- Organic / Polygonal; Linking percussive (warm) frequencies to polygons and melodic (cool) frequencies to organic
+- Linking colors to musical tones (ref Kandinsky primer / color organs)
+4. If using generators with alpha channels / transparency, experiment with using OpenGL Add vs OpenGL Over for blending vs composition
+5. Augment with audio visualizers (waveforms, FFT, spectrogram) and color organs
+6. Optional: Use the Movie Recorder plugin to capture audio/video streams
 
 ## Lesson 3: Generative Patterns
 
@@ -243,10 +296,14 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 ### Lesson Overview
 
 * Tile effects
-* Patterns with code (ISF compositions eg Goto10)
+* Patterns with code (eg Goto10, Sol LeWitt)
+* Introduction to the ISF Editor / GLSL (optional, advanced)
+* * Making a solid color generator
+* * Making a basic pattern generator (strips, checkerboards)
+* * Remixing compositions
 
 * Use tiling effects and data-sources to create animated generative patterns.
-* Syncing tile effects to music
+* Syncing tile generators / effects to music
 * Time-delay video frames
 
 ### Special Equipment
@@ -254,40 +311,119 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 Required:
 - ISF pattern compositions
 
+Recommended:
+- [Soundflower](https://github.com/mattingalls/Soundflower/releases)
+
 ### Lecture Notes
+
+- [Patterns](https://en.wikipedia.org/wiki/Pattern)
+- - Properties of patterns
+- - - Symmetry
+- - - Rotation
+- - - Chaos, flow, meanders
+- - - Fractals
+- - Patterns in nature
+- - - Snowflakes
+- - - Spirals
+- - - Waves, dunes
+- - - Bubbles, foam
+- - - Cracks
+- - - Spots and stripes
+- - Geometric patterns
+- - - Tiling
+- - - Visual motifs 
+- Introduction to GLSL (optional)
+- - What are shaders?
+- - Why are they fast?
+- - Tools for writing shaders
+- - Examples of patterns made with GLSL
 
 ### Discussions
 
-* 
 * 
 
 ### Demonstrations
 
 #### Tile effects
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Start from the 'Simple Player' template
+- Add test media files
+- Add LFO and Step Sequencer plugins and Audio Analysis
+2. Using the Layer 1 FX 'Load Asset' menu, add Tiling FX to create patterns; use LFO / Clock / Step Sequencer to automate properties such as angle / rotation / size
+- Mirror Edge
+- Kaleidoscope / Kaleidoscope Tile
+- Parallelogram Tile
+- Fourfold Reflected/Rotated Tile, Sixfold Reflected/Rotated Tile, etc
+- Replicate / Radial Replicate
+- Shape Mask (under Masking) – how can masks be used to create and composite patterns on multiple layers?
+3. Demonstrate different media types with each Tile FX
+- No motion (stills or paused video)
+- - Tip: The Utility > Freeze Frame.fs FX can be used to hold on a frame; be sure to place before any animated tiling FX
+- Slow motion
+- - Tip: The Blurs > VVMotionBlur.fx FX can be used to slur visuals; try before and after tiling FX
+- Fast motion
+4. Syncing tile effects to music, reviewing prior techniques:
+- BPM Sync in Clock plugin
+- Using Clock / LFO / Step Sequencer to drive parameters
+- Color adjustments / selection
+- Changing patterns (clips) on sound impulse vs clock control
+- Refine timing of LFO and Step Sequencer plugins using the concepts from the Rhythmic Sequence lesson:
+- - Regular rhythm: Intervals between sizes are the same in duration (i.e., one second per size)
+- - Progressive rhythm: The size of shapes are changed over a progression, getting faster towards the end (2 sec, 1 sec, ½ sec, and so on)
+- - Flowing (organic) rhythm: Occurs when the intervals are organic, used to create a feeling of visual polyphony. Think VJ’ing to wind chimes.
 
-#### Patterns with code (ISF compositions eg Goto10)
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Patterns with code
+1. Start from the 'Simple Player' template
+- Add ISF Pattern example generator files
+2. Trigger each pattern example and discuss
+
+#### Introduction to GLSL / ISF (optional, advanced)
+1. Introduction to toolset
+- Using a text editor (eg BBEdit or TextMate)
+- ISF Editor for macOS
+- Online ISF Editor
+2. Examining the 'Solid Color.fs' example
+- The anatomy of an ISF:
+- - JSON at the top describes the inputs and other metadata
+- - GLSL at the bottom contains the code for rendering
+- How does GLSL work?
+- - main() function is executed for each pixel
+- - Vary the algorithms used to determine the color based on pixel location to make patterns
+3. Examining basic pattern generators
+- Strips: Varying based on x or y position, but not both
+- Checkerboards: Varying based on x and y
+- Gradients: Fading across x and / or y
+4. Remixing compositions
+- In the Finder, duplicate one of the example pattern generators to remix
+- Open the copy using the ISF Editor or a text editor (such as BBEdit or TextMate)
+- Pick a parameter that is not a variable and change it to a variable
+- Adjust the JSON section at the top to add a new parameter to the ISF composition for the new variable
+- Save the document and load into VDMX
 
 ### Exercises
 
 #### Use tiling effects and data-sources to create animated generative patterns
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Start from the 'Simple Mixer' template
+- Add test media files
+- Add LFO and Step Sequencer plugins
+- Add Movie Recorder plugin
+2. Create compositions using Tiling FX
+- Try using different source material with different FX combinations
+- Try stacking multiple Tiling FX
+- Try using OpenGL Over Mode on Layer 1 and Masking > Shape Mask.fs
+3. Refine timing and control of LFO and Step Sequencer plugins using the concepts from the Rhythmic Sequence, Color Organ and other lessons
+- Think about temporal patterns in addition to visual patterns
+4. Use Movie Recorder to capture video / still images
 
-#### Syncing tile effects to music
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Patterns with code
+1. Continuing from above exercise...
+- Add ISF Pattern example generator files
+2. Continue to create compositions using pattern generators and tile effects
+3. Use Movie Recorder to capture video / still images
 
-
+#### Introduction to GLSL / ISF (optional, advanced)
+1. In the Finder, duplicate one of the example pattern generators to remix
+2. Open the copy using the ISF Editor or a text editor (such as BBEdit or TextMate)
+3. Pick a parameter that is not a variable and change it to a variable
+4. Adjust the JSON section at the top to add a new parameter to the ISF composition for the new variable
+5. Save the document and load the composition into VDMX to use alongside other pattern generators
 

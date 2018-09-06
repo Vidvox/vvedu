@@ -52,7 +52,22 @@ Required:
 
 ### Lecture Notes
 
-* Introduction to Gestalt principles
+- Introduction to Gestalt principles
+- - What is the “unified whole”?
+- - - Visual perception and grouping
+- - Similarity
+- - Continuation
+- - Closure
+- - Proximity
+- - Figure and Ground
+- - Symmetry and order
+- The Law of Similarity
+- - Similarity is influenced by the shape, size and color of the elements
+- - Designing with Similarity in Mind
+- - Breaking the law of similarity
+- The Law of Continuation
+- - Perceived motion / flow
+- - Negative space
 
 ### Discussions
 
@@ -115,7 +130,7 @@ Required:
 - Apply LFO’s to create a phased continuation (delay, etc)
 3. Optional: Add a Movie Recorder plugin to capture the final output
 
-## Lesson 2:
+## Lesson 2: Color and Choreography
 
 [Handout: Color and Choreography](/handout_module_3.html)
 
@@ -149,11 +164,19 @@ Finally, refine the timing of your final composition to music by syncing the mot
 
 ### Lecture Notes
 
-*
+- Introduction to Color
+- - [Additive color palette](https://en.wikipedia.org/wiki/Additive_color)
+- - [Subtractive color](https://en.wikipedia.org/wiki/Tertiary_color)
+- - Color and Gestalt principles
+- [Choreography](https://en.wikipedia.org/wiki/Choreography)
+- - Sequence design
+- - Busby Berkeley
+- - Saul Bass
+- - [Death Cab for Cutie - You Are A Tourist, Official Video](https://www.youtube.com/watch?v=qkk5wViJo-I)
 
 ### Discussions
 
-* 
+- 
 
 ### Demonstrations
 

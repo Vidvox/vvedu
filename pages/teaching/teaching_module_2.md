@@ -52,8 +52,19 @@ Recommended:
 
 ### Lecture Notes
 
-* The Kuleshov Effect
-* The Shot and the Language of Film
+- Introduction to Montage
+- - [What is montage?](https://en.wikipedia.org/wiki/Montage_(filmmaking))
+- - [Soviet montage theory](https://en.wikipedia.org/wiki/Soviet_montage_theory)
+- The Kuleshov Effect
+- - What is The Kuleshov Effect?
+- - Original Kuleshov Effect video
+- - Hitchcock on The Kuleshov Effect
+- - Ed Wood on making a movie from b-roll
+- The Shot and the Language of Film
+- - What is the learned Language of Film?
+- - What are some common types of shots in film / video?
+- - - Establishing shot
+- - - Long shot, medium shot, close up, extreme close up
 
 ### Discussions
 
@@ -146,7 +157,21 @@ Recommended:
 
 ### Lecture Notes
 
-* Introduction to Montage
+- [Continuity editing](https://en.wikipedia.org/wiki/Continuity_editing)
+- - Diegetic sound
+- - Match on action
+- - Cutting on action
+- - Shot / reverse shot
+- - [The 30 degree rule](https://en.wikipedia.org/wiki/30-degree_rule)
+- - [The 180 degree rule](https://en.wikipedia.org/wiki/180-degree_rule)
+- Montage editing methods
+- - Attractions
+- - Metric
+- - Rhythmic
+- - Tonal
+- - Overtonal/Associational
+- - Intellectual
+- - Vertical (moving camera, audio/visual)
 
 ### Discussions
 
@@ -180,13 +205,13 @@ Recommended:
 2. Step 2
 - Note 2
 
-## Lesson 3:
+## Lesson 3: Cinéma Pur
 
 [Handout: Cinéma Pur](/handout_module_2.html)
 
 From the 1930s to the 1950s, montage sequences often combined numerous short shots with special optical effects (fades, dissolves, split screens, double and triple exposures) dance and music. 
 
-The [Cinéma Pur](https://en.wikipedia.org/wiki/Cin%C3%A9ma_pur) movement was to create a cinema that focused on the pure elements of film like motion, light, visual composition, and rhythm. It was begun by European filmmakers [René Clair](https://en.wikipedia.org/wiki/Ren%C3%A9_Clair), [Fernand Léger](https://en.wikipedia.org/wiki/Fernand_L%C3%A9ger), [Hans Richter](https://en.wikipedia.org/wiki/Hans_Richter_(artist), [Viking Eggeling](https://en.wikipedia.org/wiki/Viking_Eggeling), [Walter Ruttmann](https://en.wikipedia.org/wiki/Walter_Ruttmann), [Man Ray](https://en.wikipedia.org/wiki/Man_Ray) and [Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel_Duchamp). Often these abstract art films showed patterns in motion, creating visually pleasing or intriguing compositions that reflected cinema’s essential power. Films like Man With A Movie Camera, Ballet Mécanique, Symphony Diagonale, and Berlin: Symphony of a Great City are quintessential examples of Cinéma Pur. 
+The [Cinéma Pur](https://en.wikipedia.org/wiki/Cin%C3%A9ma_pur) movement was to create a cinema that focused on the pure elements of film like motion, light, visual composition, and rhythm. It was begun by European filmmakers [René Clair](https://en.wikipedia.org/wiki/Ren%C3%A9_Clair), [Fernand Léger](https://en.wikipedia.org/wiki/Fernand_L%C3%A9ger), [Hans Richter](https://en.wikipedia.org/wiki/Hans_Richter_(artist)), [Viking Eggeling](https://en.wikipedia.org/wiki/Viking_Eggeling), [Walter Ruttmann](https://en.wikipedia.org/wiki/Walter_Ruttmann), [Man Ray](https://en.wikipedia.org/wiki/Man_Ray) and [Marcel Duchamp](https://en.wikipedia.org/wiki/Marcel_Duchamp). Often these abstract art films showed patterns in motion, creating visually pleasing or intriguing compositions that reflected cinema’s essential power. Films like Man With A Movie Camera, Ballet Mécanique, Symphony Diagonale, and Berlin: Symphony of a Great City are quintessential examples of Cinéma Pur. 
 
 For this exercise, you will experiment with the layering of indexical material to create new visual associations and meanings using a select range of optical effects. Experiment superimposing contrasting imagery — abstract and realistic, light and dark, graphic and photographic, fast and slow, human and machine. Be prepared to discuss the emergence of this third image with a statement of intent.
 
@@ -217,8 +242,23 @@ Required:
 
 ### Lecture Notes
 
-* Cinéma Pur
-* Introduction to Composition
+- [Cinéma Pur](https://en.wikipedia.org/wiki/Cin%C3%A9ma_pur)
+- - Story/Narrative Reduction
+- - Dziga Vertov, Man with a Movie opening shot
+- - Film / cinema as an art form separate from literature / theater
+- - Signature techniques include:
+- - - Stop motion
+- - - Slow motion
+- - - Sped up film
+- - - Timelapse
+- - - [Trick shots](https://en.wikipedia.org/wiki/Special_effect)
+- Introduction to Composition
+- - Mixing
+- - Fading
+- - [Mattes](https://en.wikipedia.org/wiki/Matte_(filmmaking))
+- - Additive vs Overlay
+- - Transparency / Alpha channels
+- - Masking
 
 ### Discussions
 
@@ -302,8 +342,9 @@ Steps starting from new project,
 #### Masking
 
 1. What is masking?
-- Masking is the process of adding alpha channels to an existing stream
-- Masking category of FX includes Layer Mask, Chroma Mask and Shape Mask
+- Masking is the process of adding alpha channels to an existing stream; useful for compositing layers together in 'over' mode
+- Imagine poking holes in a piece of paper so it shows through to what is behind it
+- Masking category of FX includes options such as Chroma Mask (replace a color with alpha), Quad Mask and Shape Mask (cut out shapes and patterns from an image), and the Layer Mask (use a secondary video stream as a luma key)
 2. Luma Key examples 
 - Load 'Luma Key Example' template
 - - Note that the 'Layer Mask' FX is applied to 'Front' and only the sections where the 'Mask' layer is white show through

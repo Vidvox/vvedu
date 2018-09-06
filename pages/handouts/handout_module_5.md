@@ -19,7 +19,35 @@ Paintings or other, more 'worked,' visual forms, provide a second meaning to the
 
 Regardless of treatment, consider how the aesthetics influence the mood and meaning of the imagery, the tone and themes in the music, and your desired intent. 
 
-## Lesson 1: Mood board / storyboarding
+## Lesson 1: Styling Your Look
+
+We should consider how effects and digital manipulation influences the interpretation of our imagery. They will have their own connotations and history. For instance, effects that simulate an old VHS tape or an analogue synth may tie it to a certain era, e.g., the “Stranger Things” opening title.
+
+### Lesson Overview
+
+* Styling with LUTs
+* Minimalism
+* Retro
+* Glitch
+* 3D Graphics
+
+### Reference Links
+
+### Resources
+
+### Related Tutorials and Case Studies
+
+* Using LUT based FX in VDMX
+* VDMX Visual FX Overview
+* How To Create A Classic Music Video “Zooming Feedback” Style Effect
+* CandyStations live visuals for Sufjan Stevens Age of Adz
+* Creating a Retro Halloween style in VDMX
+
+### Homework
+
+* Create an mix that uses at least three different styles as a sketch for your final project.
+
+## Lesson 2: Mood board / storyboarding
 
 A visual performer will need to plan out the theme, setting, and mood for a performance or a production before any editing, composing or programming begins. They will also want to plan out, or “[storyboard](https://en.wikipedia.org/wiki/Storyboard)” a script for choreographing various forms to music.
 
@@ -50,33 +78,4 @@ Next, storyboard the desired sequence for your music. In the animation industry,
 * Using selected music, create a mood board and 24-frame storyboard for final project.
 
 https://en.wikipedia.org/wiki/Storyboard
-
-## Lesson 2: Styling Your Look
-
-We should consider how effects and digital manipulation influences the interpretation of our imagery. They will have their own connotations and history. For instance, effects that simulate an old VHS tape or an analogue synth may tie it to a certain era, e.g., the “Stranger Things” opening title.
-
-### Lesson Overview
-
-* Styling with LUTs
-* Minimalism
-* Retro
-* Glitch
-* 3D Graphics
-
-### Reference Links
-
-### Resources
-
-### Related Tutorials and Case Studies
-
-* Using LUT based FX in VDMX
-* VDMX Visual FX Overview
-* How To Create A Classic Music Video “Zooming Feedback” Style Effect
-* CandyStations live visuals for Sufjan Stevens Age of Adz
-* Creating a Retro Halloween style in VDMX
-
-### Homework
-
-* Create an mix that uses at least three different styles as a sketch for your final project.
-
 

@@ -78,9 +78,24 @@ Though not required for this lesson, the following extra equipment can be used f
 
 ### Lecture Notes
 
-1. What is a video signal?
-2. What are the different types of media files for live visuals?
-3. What is a video codec?
+- What are visuals? A historical context.
+- - Theater
+- - Light projections
+- - Film
+- - Video
+- What is video?
+- - What is a video signal?
+- - - How is video different from film?
+- - - Analog (eg NTSC, PAL) vs Digital
+- - How is video transmitted and stored?
+- - - Types of cables
+- - - Physical media and digital files
+- What is a media codec?
+- - How do image / video codecs work?
+- - What image / video codecs are commonly used today?
+- Video generators
+- - Analog synthesizers
+- - Digital video synthesizers: Using code to create interactive imagery
 
 ### Discussions
 
@@ -264,8 +279,14 @@ Though not required for this lesson, the following extra equipment can be used f
 
 ### Lecture Notes
 
-* What are audio / sound inputs?
-* What are MIDI, DMX and OSC? In what ways are they different?
+- What are audio / sound inputs?
+- What are MIDI, DMX and OSC? In what ways are they different?
+- - What is MIDI?
+- - What is DMX?
+- - What is OSC?
+- - A comparison of MIDI / DMX / OSC
+- - Choosing a MIDI / DMX / OSC controller
+- What is video videoinstrumentalism?
 
 ### Discussions
 
