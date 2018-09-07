@@ -304,7 +304,6 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 
 * Use tiling effects and data-sources to create animated generative patterns.
 * Syncing tile generators / effects to music
-* Time-delay video frames
 
 ### Special Equipment
 

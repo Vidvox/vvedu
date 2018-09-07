@@ -25,18 +25,23 @@ This week, we will create a shape-based color organ, creating and performing for
 
 ### Lesson Overview
 
-* Triggering content with Audio/MIDI
-* Manipulating color with Audio/MIDI
-* Audio visualizers (waveforms, FFT, spectrogram)
+* Triggering content with sound/MIDI impulse
+* * Prev / next / rand
+* * Triggering a specific clip
+* * Quantized triggering
+* Manipulating color with sound/MIDI
+* * RGB vs HSV (HSB)
+* * 'Audio Level to Color'
+* * Color organ generator and sound synth
 
-* Create two layers/media bins of shapes (i.e., Booba/Kiki): 
-* * Organic 
-* * Polygonal 
-* Link percussional frequencies to polygons and melodic frequencies to organic
-* Link colors to musical tones (ref Kandinsky primer)
-* * Melodic (cool)
-* * Percussional (warm)
-* Augment with audio visualizers (waveforms, FFT, spectrogram)
+### Lecture Notes
+
+- What does is the color of a sound / tone?
+- - [Color Organs](https://en.wikipedia.org/wiki/Color_organ)
+- - [Kandinksy](https://en.wikipedia.org/wiki/Wassily_Kandinsky)
+- - Color scales
+- - Translations between sounds and imagery
+- Color representations – RGB vs HSV
 
 ### Reference Links
 
@@ -58,18 +63,32 @@ This week, we will create a shape-based color organ, creating and performing for
 
 * Create and record a ~60 second ‘color organ’ using selected music
 
-## Lesson 2: Generative Patterns
+## Lesson 2: Audio Visualizers and the Shape of Sounds
 
 As discussed in Stills To Motion module, we are hardwired to find patterns in shapes that are similar and arranged closely together. In this module, we can explore pattern making as a synaesthetic device, influencing the frequency, amplitude and continuity of repetitive shapes and images to rhythmic effect.
 
 ### Lesson Overview
 
-* Tile effects
-* Patterns with code (ISF compositions eg Goto10)
+* What is the shape of a sound?
+* Audio Visualizers:
+* * VU Meters
+* * Waveform and FFT Visualizers
+* * Audio Spectrograms
+* * ProjectMilkSyphon
+* * Booba/Kiki ISFs
 
-* Use tiling effects and data-sources to create animated generative patterns.
-* Syncing tile effects to music
-* Time-delay video frames
+* Create two layers/media bins of shapes (i.e., Booba/Kiki): 
+* * Organic 
+* * Polygonal 
+* Augment with audio visualizers (waveforms, FFT, spectrogram)
+
+### Lecture Notes
+
+- What is the shape of a sound?
+- - [Booba/Kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
+- - Waveform visualization
+- - FFT visualization
+- - Audio Spectrograms
 
 ### Reference Links
 
@@ -89,53 +108,68 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 
 ### Homework
 
+* Create and record three Booba/Kiki shape-based sequences ~10 seconds each using different forms of music and sounds effects.
+
+## Lesson 3: Generative Patterns
+
+As discussed in Stills To Motion module, we are hardwired to find patterns in shapes that are similar and arranged closely together. In this module, we can explore pattern making as a synaesthetic device, influencing the frequency, amplitude and continuity of repetitive shapes and images to rhythmic effect.
+
+### Lesson Overview
+
+* Tile effects
+* Patterns with code (eg Goto10, Sol LeWitt)
+* Introduction to the ISF Editor / GLSL (optional, advanced)
+* * Making a solid color generator
+* * Making a basic pattern generator (strips, checkerboards)
+* * Remixing compositions
+
+* Use tiling effects and data-sources to create animated generative patterns.
+* Syncing tile generators / effects to music
+
+### Lecture Notes
+
+- [Patterns](https://en.wikipedia.org/wiki/Pattern)
+- - Properties of patterns
+- - - Symmetry
+- - - Rotation
+- - - Chaos, flow, meanders
+- - - Fractals
+- - Patterns in nature
+- - - Snowflakes
+- - - Spirals
+- - - Waves, dunes
+- - - Bubbles, foam
+- - - Cracks
+- - - Spots and stripes
+- - Geometric patterns
+- - - Tiling
+- - - Visual motifs 
+- Introduction to GLSL (optional)
+- - What are shaders?
+- - Why are they fast?
+- - Tools for writing shaders
+- - Examples of patterns made with GLSL
+
+### Reference Links
+
+* [The Book of Shaders Chapter 9: Patterns](https://thebookofshaders.com/09/)
+* [10print](https://10print.org/)
+* [SimoNeri - Natural Rhythms](https://simoneri.com/works_category/natural-rhythms/)
+* Godseye Tile
+
+### Resources
+
+* ISF pattern compositions
+* [Soundflower](https://github.com/mattingalls/Soundflower/releases)
+
+### Related Tutorials and Case Studies
+
+* [Creating and installing ISF generators](https://vdmx.vidvox.net/tutorials/creating-and-installing-isf-generators)
+* [ISF from Silvia Fabiani](https://vdmx.vidvox.net/blog/isf-from-silvia-fabiani)
+
+### Homework
+
 * Create and record three black and white shape-based sequences using variations of the Gestalt principles
 * * ~10 seconds without music
 * * ~10 seconds with music, adjusting timing for tempo
 
-## Lesson 3: Collaborating with Musicians
-
-In the case where visuals and lighting are being performed live along with music, there is the possibility for both sides to respond and react, in the way the members of a band can improvise or riff off each other, or create an informal jam session to try out new ideas.
-
-When collaborating with musicians directly on the creation of new work, visual artists have an opportunity to influence the way that the sound and imagery are connected in time and feeling. For live performances this also allows for the possibility of sharing timecode and other control information between systems for an added level of synchronization.
-
-### Lesson Overview
-
-* The Control Surface plugin
-* MIDI software
-* OSC / OSCQuery
-
-* Creating custom interface layouts with the Control Surface plugin
-* Advanced MIDI synchronization
-* * MIDI Clock sync from Ableton Live to VDMX
-* * Ableton Link
-* * Sending MIDI triggers and control values from Ableton Live to VDMX
-* OSCQuery in VDMX
-* * Web page control
-* * OSCQuery Client plugin
-* * Using OSCQuery Helper and MIDI OSCQuery Helper
-
-### Reference Links
-
-* History of MIDI
-* About OSCQuery
-
-### Resources
-
-* [MIDI OSCQuery Helper](https://docs.vidvox.net/freebies_midi_oscquery_helper.html)
-* [OSCQuery Helper](https://docs.vidvox.net/freebies_oscquery_helper.html)
-* Ableton Live sample project
-
-### Related Tutorials and Case Studies
-
-* [The ECLECTIC METHOD REMIX, Part Three - Working with Ableton Live](https://vdmx.vidvox.net/tutorials/the-eclectic-method-remix-part-three-working-with-ableton-live)
-* [Using Ableton Link with VDMX](https://vdmx.vidvox.net/tutorials/ableton-link-in-vdmx)
-* [Receiving MIDI Clock from Ableton Live](https://vdmx.vidvox.net/tutorials/receiving-midi-clock-from-ableton-live-in-vdmx)
-* [Receiving MTC from QLab in VDMX](https://vdmx.vidvox.net/tutorials/receiving-midi-smpte-time-code-mtc-in-vdmx)
-* [Syncing the playback of multiple movies in VDMX over a network using OSC](https://vdmx.vidvox.net/tutorials/syncing-the-playhead-of-multiple-movies-in-vdmx)
-* [More fun audio analysis techniques](https://vdmx.vidvox.net/tutorials/more-fun-audio-analysis-techniques)
-* [How to Turn an Old Building into an Interactive Driving Range ](https://vdmx.vidvox.net/tutorials/how-to-turn-an-old-building-into-an-interactive-driving-range-by-lumenal-code)
-
-### Homework
-
-* Create a 5 minute improvised piece using three different shapes and a background choreographed to music using audio reactivity and MIDI/OSC control.

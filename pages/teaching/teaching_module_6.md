@@ -48,8 +48,6 @@ Multiple cameras can present different views of the performer at the same time, 
 * Timecode plugin
 * * MTC, LTC and OSC sync
 * * Time markers
-* Preparing cues
-* * Using the Cue List plugin in VDMX
 * Using materials from other people
 * * Creative Commons: Share, Collaborate, Remix, Reuse
 * * What is fair use?
@@ -58,52 +56,145 @@ Multiple cameras can present different views of the performer at the same time, 
 ### Special Equipment
 
 Required:
-- 
-- 
+- Software or hardware for sending MTC
+- LTC audio test file
+- Software to receive MTC
+- Software to receive LTC
 
 Recommended:
-- 
-- 
+- NDI® test video feeds
+- Syphon test apps
+- Multiple web-cameras
+- BlackMagic, Magewell or similar capture devices
+- - Devices that can provide HDMI/SDI feeds for capture
+- [OSC Test app](http://vidvox.com/rays_oddsnends/vvopensource_downloads/OSCTestApp_0.2.4.zip)
 
 ### Lecture Notes
 
-* Using materials from other people
+- Using materials from other people
+- - Creative Commons
+- - Fair Use
+- - Works for Hire
+- Introduction to timecode
+- - MTC and LTC
 
 ### Discussions
 
 ### Demonstrations
 
 #### Multiple Inputs / Outputs in VDMX
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Creating a multi-live input setup, VDMX as a live feed switcher
+- Open the Media Browser from the Window menu (cmd+3)
+- - Add Live Inputs, NDI, Syphon feeds to Media Bin page
+- - Close Media Browser
+- Trigger each feed to activate / demonstrate connection
+- From the Workspace Inspector > Plugins
+- - For each live video feed, add a 'Preview Window' plugin and set the source
+- - Optional: Use the 'Mouse Down' data-source from each Preview Window plugin to trigger the appropriate clip in the bin
+- - - Inspect the Media Bin
+- - - Use the Triggers tab to create and assign data-source receivers
+- - - Enable the 'Eject on empty file' option so that clicking not on a clip ejects / cuts to black
+2. Multi-live input pre-vis
+- Add a Movie Recorder plugin to the project
+- - Capture short video loops or still images from each live feed
+- - These images and video loops can now be used as “stand ins” when real live feed are not available
+3. Create a dual screen output setup; or skip initial setup steps and load “Dual Screen Example“ template (jump to System Prefs:Displays)
+- From the Workspace Inspector > Layers
+- - Adjust the width of the canvas to 2x its current size
+- - Use the Layer Composition controls to position Layer 1:
+- - - Use “onscreen” position mode
+- - - Set x position to far left (0.0)
+- - Duplicate Layer 1 and rename to Layer 2
+- - Use the Layer Composition controls to position Layer 2:
+- - - Set x position to far left (1.0)
+- Optional: Create and configure a second media bin for triggering to Layer 2
+- Open System Preferences:Displays and configure external displays as needed
+- Open the Fullscreen Options panel (cmd+f)
+- - Select the ‘Fullscreen’ tab to switch to fullscreen mode
+- - Select monitors to stretch the canvas across
 
 #### Timecode plugin
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
 
-#### Preparing cues
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+This demonstration and additional techniques can be found in the [Timecode plugin tutorial](https://vdmx.vidvox.net/tutorials/introduction-to-timecode)
+
+Timecode Overview:
+- A single Timecode plugin can only receive from one source at a time- it can receive from MTC (MIDI Timecode), LTC (Linear timecode), or from any data source in VDMX (including any MIDI/OSC/DMX data VDMX receives). Timecode plugins can also generate their own timecode locally, using a variety of framerates.
+- The values received by a Timecode plugin are published in VDMX as a data source as a floating-point number describing the time in seconds.
+- These values can be used to drive Cue Lists, LFOs, control movie playback directly, etc.
+- A single timecode plugin can have multiple reference times, which are configured in its inspector- the time passed since the last reference time is published as a data source in VDMX, along with the index and name of the reference time.
+- A single timecode plugin can publish its value to multiple destinations, in multiple formats. Values can be sent to other devices using MTC, LTC, and OSC.
+- Step Sequencer and LFO plugins can time-sync with Timecode plugins just like Clock plugins.
+
+1. Using Timecode
+- From the Workspace Inspector > Plugins
+- - Add a Timecode plugin
+- - Use the “Reference Times” tab:
+- - - Add time index 00:00:00.01
+- - - Add time index 00:00:30.01
+- - - Add time index 00:01:00.01
+- - - Add time index 00:02:00.01
+- - Demonstrate main interface:
+- - - Jump to last ref time button
+- - - Pause / resume button
+- - - Ref times pop-up button
+- - - - Use UI Inspector to assign shortcuts to jump to specific ref times
+- Add sample media to project
+- Inspect Media Bin
+- - In the Control tab set the Trigger by Index receiver to use Timecode > ”Last ref index” data-source
+- - Demonstrate switching between ref times with pop-up button
+- From the Workspace Inspector > Layers
+- - Add Layer 2 and set source to 'SMPTE Clock.fs'
+- - Use the UI Inspector to adjust the parameters of the SMPTE time slider in the Layer Source controls:
+- - - Add a data-receiver and set to use Timecode > “Time since last ref” data-source
+- - - Use the sub-inspector to specify that the values are not normalized
+2. Receiving MTC
+- Launch MTC sending software
+- - Configure to send MTC “To VDMX”
+- Return to VDMX
+- Inspect the Timecode plugin
+- - Set the Timecode Source: to MTC
+- - Select the “To VDMX” option
+- - Optional: Enable 'Jam Sync' and stop sending MTC; observe that timecode continues after signal is dropped
+3. Receiving LTC
+- Launch LTC sending software or connect external sound feed to audio input device
+- - If using sample LTC audio file, you can use QuickTime Player, iTunes or any standard soundfile playback software.
+- - If using LTC software or an LTC audio file on the same computer, set sound output device to Soundflower
+- Return to VDMX
+- Inspect the Timecode plugin
+- - Set the Timecode Source: to LTC
+- - Select the appropriate sound input device (eg Soundflower)
+- - Optional: Enable 'Jam Sync' and stop sending LTC; observe that timecode continues after signal is dropped
+4. Sending Timecode from VDMX as LTC, MTC, and OSC
+- Inspect the Timecode plugin
+- Switch to the “Sending” tab
+- - Use the + button to add 3x senders
+- - - Configure senders to send MTC, LTC and OSC
+- - - Use MTC, LTC and OSC test software to demonstrate received streams
+- - - Tip: You can use a second Timecode plugin
 
 ### Exercises
 
-#### Exercise 1
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Creating a multi-live input setup, VDMX as a live feed switcher
+1. Create a project using several live inputs, NDI streams and Syphon sources as described above.
+- For each stream, create a preview window
+- Use Media Bin data-sources to switch between feeds
+- Challenge: Start from the Two Channel Mixer template and create a live feed mixer 
+2. Pre-vis inputs
+- Use a Movie Recorder to capture short loops and images for each input
+- Use photos / videos from non-connected cameras to try out other possible camera angles
 
-#### Exercise 2
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Timecode Reference Points
+1. Start from the Simple Player template or an existing project
+- Add media files to Media Bin
+- Add a Timecode plugin
+- - Use the Timecode plugin inspector > Reference Times tab 
+- - - Add several time markers
+- Use the “Last ref index” data-source to automatically switch media files
+- Use the other data-sources from the Timecode plugin to control playback and FX parameters
+- When using LFO and Step Sequencer plugins to animate properties, try setting the quantization source to use a Timecode plugin instead of a Clock plugin
+2. Optional challenge: Work with another student to sync Timecode plugins on two computers
+- Pick one machine to generate and send Timecode and one machine to receive Timecode
+- Which protocol (LTC, MTC) will you use? How will the data get from one machine to another?
 
 ## Lesson 2: Technical Riders and Contracts
 
@@ -121,28 +212,10 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 
 * What jobs are involved in a large show production?
 * What is a technical rider?
-* Overview of cables, adapters and other equipment.
+* Review of cables, adapters and other equipment.
 * Client contracts.
-* Working with lighting designers.
-
-* Jobs
-* * Artists / Performers (openers, headliners)
-* * Tour & Show Managers
-* * Technicians
-* * Lighting designers (LDs)
-* * Camera operators
-* * Stage hands
-* * "Runners"
-* Considerations for different types of performance venues
-* * Clubs
-* * Arenas
-* * Festival shows
-* * Theaters
-* * Art galleries
-* What goes in a technical rider
-* What goes in a contract
 * Working with lighting designers
-* * Design considerations; when can light / video elements work together, when do they work better alone?
+
 * DMX and VDMX
 * * Using VDMX as a DMX controlled media server
 * * Sending DMX from VDMX
@@ -159,25 +232,82 @@ Recommended:
 
 ### Lecture Notes
 
-* Technical rider examples and templates
-* History of DMX / ArtNet
+- What jobs are involved in a large show production?
+- - Artists / Performers (openers, headliners)
+- - Tour & Show Managers
+- - Technicians
+- - Lighting designers (LDs)
+- - Camera operators
+- - Stage hands
+- - "Runners"
+- Technical rider examples and templates
+- - Review of cables, adapters and other equipment
+- - Considerations for different types of performance venues
+- - - Clubs
+- - - Arenas
+- - - Festival shows
+- - - Theaters
+- - - Art galleries
+- Contracts
+- - When do you need a contract?
+- - What goes in a contract?
+- History of DMX / ArtNet
 
 ### Discussions
 
-* 
-* 
+* Working with lighting designers
+* * Design considerations; when can light / video elements work together, when do they work better alone?
 
 ### Demonstrations
 
 #### Using VDMX as a DMX controlled media server
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+
+*This demonstration is similar to [the two channel DMX controlled video mixer](http://vdmx.vidvox.net/tutorials/the-two-channel-dmx-controlled-video-mixer) example.*
+
+1. Configure VDMX Preferences:DMX and System Preferences:Network; and any other related tools for your ArtNet equipment
+- If needed, open the System Preferences:Network and configure settings for the network port
+- If needed, launch any software for configuring your ArtNet devices (eg the NMU tool for ENTTEC devices)
+- - Use the device to set the subnet / universe
+- - Set the device to input DMX (send ArtNet)
+- Open VDMX Preferences:DMX
+- - Select the desired ArtNet Network using the menu selection
+- - - If possible, use an Ethernet based solution
+- - Set the number of input ports to 1 (or higher if demonstrating multiple universes)
+- - Set the subnet / universe to match the device you will be receiving from
+- - - Optional: In some cases you can use the automatic setup option for inputs to configure the subnet / universe pairs for input ports
+- - Close the VDMX Preferences
+2. Start from the ‘Simple Mixer’ template, or an existing project file
+- Optional: Add a ‘Sticky’ plugin to the project that we can use to take notes about DMX mappings
+- Add sample media files (movies, etc)
+- DMX can be assigned like MIDI and OSC:
+- - Right click on the “Crossfader” slider and use the “Detect DMX” option
+- - - Send DMX values from lighting board / test controller to create assignment
+- - Use the UI Inspector to manually add receivers
+- - - Address paths take the form of “/DMX/**{port number}**/**{channel number}**”
+- Create consecutive DMX channel assignments for properties such as:
+- - - *note that this final setup step can be skipped, instead use load the ‘DMX Video Mixer’ template for a completed setup*
+- - Global:
+- - - Master fade level
+- - - Page selection (use UI Inspector > Nav, “Choose by Index” receiver)
+- - - Crossfade
+- - Individual layers:
+- - - Clip Select (use Media Bin inspector > Control, “Trigger by Index” receiver)
+- - - Movie Time
+- - - Movie Rate (optional: limit min / max range)
+- - - Movie Volume
+- - - Movie inpoint (use UI Inspector, create receiver, set to “min“ instead of “val“ mode
+- - - Movie outpoint (use UI Inspector, create receiver, set to “max“ instead of “val“ mode
+- - - Add “Control Controls“ FX and assign contrast / saturation settings
 
 #### Sending DMX from VDMX
-1. Step 1
-- Note 1
+
+*This demonstration is similar to [sending DMX from a color picker](https://vdmx.vidvox.net/tutorials/sending-dmx-values-from-a-vdmx-color-picker)*
+
+1. Configure VDMX Preferences:DMX and System Preferences:Network; and any other related tools for your ArtNet equipment
+- If needed, launch any software for configuring your ArtNet devices (eg the NMU tool for ENTTEC devices)
+- - Use the device to set the subnet / universe
+- - Set the device to output DMX (receive ArtNet)
+- Open VDMX Preferences:DMX
 2. Step 2
 - Note 2
 
@@ -217,6 +347,9 @@ Recommended:
 * Video editing tools
 * * Introduction to iMovie / ScreenFlow and basic non-linear editing
 * * Creating a demo reel
+* Preparing cues
+* * Using the Cue List plugin in VDMX
+* * Cue List import / export
 
 ### Special Equipment
 
@@ -243,6 +376,12 @@ Recommended:
 - Note 2
 
 #### Creating a demo reel
+1. Step 1
+- Note 1
+2. Step 2
+- Note 2
+
+#### Preparing cues
 1. Step 1
 - Note 1
 2. Step 2

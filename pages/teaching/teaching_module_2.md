@@ -172,6 +172,9 @@ Recommended:
 - - Overtonal/Associational
 - - Intellectual
 - - Vertical (moving camera, audio/visual)
+- Measuring time
+- - SMPTE
+- - Clock time / musical time
 
 ### Discussions
 

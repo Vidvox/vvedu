@@ -29,6 +29,7 @@ One of the most powerful aspects of working with “live” video is the ability
 
 ### Lesson Overview
 
+What are visuals? A historical context.
 Inputs / Sources
 * Pre-rendered files
 * Interactive generators
@@ -47,6 +48,27 @@ Outputs
 * System Preferences: Displays
 * Color calibration
 
+### Lecture Notes
+
+- What are visuals? A historical context.
+- - Theater
+- - Light projections
+- - Film
+- - Video
+- What is video?
+- - What is a video signal?
+- - - How is video different from film?
+- - - Analog (eg NTSC, PAL) vs Digital
+- - How is video transmitted and stored?
+- - - Types of cables
+- - - Physical media and digital files
+- What is a media codec?
+- - How do image / video codecs work?
+- - What image / video codecs are commonly used today?
+- Video generators
+- - Analog synthesizers
+- - Digital video synthesizers: Using code to create interactive imagery
+
 ### Reference Links
 
 * [Recommended video codecs for VDMX](https://docs.vidvox.net/vdmx_video_codecs.html)
@@ -57,6 +79,7 @@ Outputs
 * [YouTube.com](https://www.youtube.com/)
 * [Vimeo.com](https://www.vimeo.com/)
 * [What's In A GIF?](http://giflib.sourceforge.net/whatsinagif/bits_and_bytes.html)
+* [How does analog video work?](https://www.slideshare.net/DSPIP/analog-video)
 
 ### Resources
 
@@ -112,6 +135,17 @@ This week, we will explore interactive concepts that extend the moving image bey
 * * Adding UI items
 * * Custom layouts
 * * Control from webpage
+
+### Lecture Notes
+
+- What are audio / sound inputs?
+- What are MIDI, DMX and OSC? In what ways are they different?
+- - What is MIDI?
+- - What is DMX?
+- - What is OSC?
+- - A comparison of MIDI / DMX / OSC
+- - Choosing a MIDI / DMX / OSC controller
+- What is video videoinstrumentalism?
 
 ### Reference Links
 

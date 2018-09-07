@@ -43,6 +43,25 @@ We will then explore the [law of continuation](https://www.interaction-design.or
 * * Implement the same linear motion for each circle (position, zoom, et al)
 * * Apply LFO’s/Num FX to create a phased continuation (delay, etc)
 
+### Lecture Notes
+
+- Introduction to Gestalt principles
+- - What is the “unified whole”?
+- - - Visual perception and grouping
+- - Similarity
+- - Continuation
+- - Closure
+- - Proximity
+- - Figure and Ground
+- - Symmetry and order
+- The Law of Similarity
+- - Similarity is influenced by the shape, size and color of the elements
+- - Designing with Similarity in Mind
+- - Breaking the law of similarity
+- The Law of Continuation
+- - Perceived motion / flow
+- - Negative space
+
 ### Reference Links
 
 * [Variations on a Circle](https://www.youtube.com/watch?v=TnU88XWYjEs&index=22&t=65s&list=PL9C7F0FD297628D28)
@@ -89,6 +108,19 @@ Finally, refine the timing of your final composition to music by syncing the mot
 * * Looping motion using math
 * RGB circles using position/rotation LFO’s
 * Refine timing to music using step sequencer and cue list
+
+### Lecture Notes
+
+- Introduction to Color
+- - [Additive color palette](https://en.wikipedia.org/wiki/Additive_color)
+- - [Subtractive color](https://en.wikipedia.org/wiki/Tertiary_color)
+- - Color and Gestalt principles
+- [Choreography](https://en.wikipedia.org/wiki/Choreography)
+- - Sequence design
+- - Busby Berkeley
+- - Saul Bass
+- - [Death Cab for Cutie - You Are A Tourist, Official Video](https://www.youtube.com/watch?v=qkk5wViJo-I)
+
 
 ### Reference Links
 

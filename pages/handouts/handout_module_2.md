@@ -28,6 +28,7 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 
 ### Lesson Overview
 
+* Introduction to Montage
 * Using the Kuleshov example project
 * Loading media files into Kuleshov project
 * Capturing video clips
@@ -36,6 +37,22 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 * Uploading recordings to Vimeo / Youtube
 * Discussion: Silence vs Music
 * Types of shots in film
+
+### Lecture Notes
+
+- Introduction to Montage
+- - [What is montage?](https://en.wikipedia.org/wiki/Montage_(filmmaking))
+- - [Soviet montage theory](https://en.wikipedia.org/wiki/Soviet_montage_theory)
+- The Kuleshov Effect
+- - What is The Kuleshov Effect?
+- - Original Kuleshov Effect video
+- - Hitchcock on The Kuleshov Effect
+- - Ed Wood on making a movie from b-roll
+- The Shot and the Language of Film
+- - What is the learned Language of Film?
+- - What are some common types of shots in film / video?
+- - - Establishing shot
+- - - Long shot, medium shot, close up, extreme close up
 
 ### Reference Links
 
@@ -95,6 +112,27 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 * Create the three primary rhythmic sequences using provided video clips 
 * Record edits with provided audio samples, experimenting with different tempos and structures (beats per minute, seconds, etc)
 
+### Lecture Notes
+
+- [Continuity editing](https://en.wikipedia.org/wiki/Continuity_editing)
+- - Diegetic sound
+- - Match on action
+- - Cutting on action
+- - Shot / reverse shot
+- - [The 30 degree rule](https://en.wikipedia.org/wiki/30-degree_rule)
+- - [The 180 degree rule](https://en.wikipedia.org/wiki/180-degree_rule)
+- Montage editing methods
+- - Attractions
+- - Metric
+- - Rhythmic
+- - Tonal
+- - Overtonal/Associational
+- - Intellectual
+- - Vertical (moving camera, audio/visual)
+- Measuring time
+- - SMPTE
+- - Clock time / musical time
+
 ### Reference Links
 
 * [Montage theory](https://en.wikipedia.org/wiki/Soviet_montage_theory)
@@ -152,6 +190,26 @@ For this exercise, you will experiment with the layering of indexical material t
 
 * Using longer clips as a backing track and mixing in elements over it.
 * Using clips with high motion vs slow motion, motion in different directions.
+
+### Lecture Notes
+
+- [Cinéma Pur](https://en.wikipedia.org/wiki/Cin%C3%A9ma_pur)
+- - Story/Narrative Reduction
+- - Dziga Vertov, Man with a Movie opening shot
+- - Film / cinema as an art form separate from literature / theater
+- - Signature techniques include:
+- - - Stop motion
+- - - Slow motion
+- - - Sped up film
+- - - Timelapse
+- - - [Trick shots](https://en.wikipedia.org/wiki/Special_effect)
+- Introduction to Composition
+- - Mixing
+- - Fading
+- - [Mattes](https://en.wikipedia.org/wiki/Matte_(filmmaking))
+- - Additive vs Overlay
+- - Transparency / Alpha channels
+- - Masking
 
 ### Reference Links
 

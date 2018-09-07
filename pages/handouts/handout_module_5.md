@@ -31,6 +31,8 @@ We should consider how effects and digital manipulation influences the interpret
 * Glitch
 * 3D Graphics
 
+### Lecture Notes
+
 ### Reference Links
 
 ### Resources
@@ -62,6 +64,8 @@ Next, storyboard the desired sequence for your music. In the animation industry,
 
 * Creating “mood boards” to define style and general aesthetics 
 * Storyboarding for pacing and spacing of visual events and transitions, i.e., “extremes and in-betweens”
+
+### Lecture Notes
 
 ### Reference Links
 

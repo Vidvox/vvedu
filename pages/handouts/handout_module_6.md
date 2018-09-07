@@ -53,6 +53,8 @@ Multiple cameras can present different views of the performer at the same time, 
 * * What is fair use?
 * * Works for hire
 
+### Lecture Notes
+
 ### Reference Links
 
 * [Creative Commons](https://creativecommons.org/)
@@ -99,28 +101,34 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * What is a technical rider?
 * Overview of cables, adapters and other equipment.
 * Client contracts.
-* Working with lighting designers.
 
-* Jobs
-* * Artists / Performers (openers, headliners)
-* * Tour & Show Managers
-* * Technicians
-* * Lighting designers (LDs)
-* * Camera operators
-* * Stage hands
-* * "Runners"
-* Considerations for different types of performance venues
-* * Clubs
-* * Arenas
-* * Festival shows
-* * Theaters
-* * Art galleries
-* What goes in a technical rider
-* What goes in a contract
-* Working with lighting designers
-* * Design considerations; when can light / video elements work together, when do they work better alone?
-* * Using VDMX as a DMX controlled media server
-* * Sending DMX from VDMX
+* Working with lighting designers.
+* Design considerations; when can light / video elements work together, when do they work better alone?
+* Using VDMX as a DMX controlled media server
+* Sending DMX from VDMX
+
+### Lecture Notes
+
+- What jobs are involved in a large show production?
+- - Artists / Performers (openers, headliners)
+- - Tour & Show Managers
+- - Technicians
+- - Lighting designers (LDs)
+- - Camera operators
+- - Stage hands
+- - "Runners"
+- Technical rider examples and templates
+- - Review of cables, adapters and other equipment
+- - Considerations for different types of performance venues
+- - - Clubs
+- - - Arenas
+- - - Festival shows
+- - - Theaters
+- - - Art galleries
+- Contracts
+- - When do you need a contract?
+- - What goes in a contract?
+- History of DMX / ArtNet
 
 ### Reference Links
 
@@ -172,6 +180,8 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * Video editing tools
 * * Introduction to iMovie / ScreenFlow and basic non-linear editing
 * * Creating a demo reel
+
+### Lecture Notes
 
 ### Reference Links
 
