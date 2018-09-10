@@ -180,33 +180,96 @@ Recommended:
 
 ### Demonstrations
 
-#### Sequencing content using Media Bins, Layer Controls, and Data Sources
-* Linear and non-linear playback
-* Cycles and Loops
-* Linking Data Sources
-* * Keyboard / MIDI / OSC
-* * Clock
-* * Audio
+#### Basic Regular rhythm
 
-#### Cycles and Loops
+1. Use the Step Sequencer to trigger media files
+- Load the “Simple Player” template
+- Add provided sample media files to media bin
+- Assign the next or random button in the media bin to Clock 1 > Every Beat
+2. Using the Clock
+- From the Workspace Inspector > Plugins, open the clock into its own window
+- Adjust Clock BPM to adjust rate of sequence playback
+- Note that clock can be synchronized to MIDI clock / sound input
+3. Basic quantization
+- Disable existing automations
+- In the Media Bin use the T: menu and set to On Measure
+- Trigger clips; observe the triggers are quantized to the measure
+- In the Layer Source Controls, click the clock button to enable quantization
+- Trigger clips; observe the triggers and playback are quantized to the measure
+4. Clock time to seconds:
+- At 120 BPM, 1 beat is 0.5 seconds (60 seconds / 120 beats)
+- - At 4 beats per measure, at 120 BPM, 1 measure is 2 seconds
+- At 60 BPM, 1 beat is 1 seconds (60 seconds / 60 beats)
+- - At 4 beats per measure, at 60 BPM, 1 measure is 4 seconds
+
+#### File management in VDMX
+
+Continuing from above...
+
+1. Selecting clips
+- Hold the shift key and click on a clip to select it
+- Hold the shift key and drag to select multiple clips
+2. Moving and copying clips
+- Click and drag a selection to move it
+- Hold option while clicking and drag a selection to copy it
+3. Pages
+- The sidebar in the media bin can be used to organize clips in pages
+- Use the +/- buttons to add and remove pages
+- Pages can be renamed
+- Drag / copy-drag media from visible page to sidebar
+- Inspect media bin
+- - In the Menus tab, switch to the list of pages
+- - Use controls to adjust which pages are visible in the Pages menu
+- Sidebar can be expanded or hidden
+4. The Workspace Inspector > Files
+- cmd+click on a media file to inspect it
+- Default settings for source, FX and composition controls can be set
+- File / page organization can also be accomplished from the workspace inspector
+
+#### Create the three primary rhythmic sequences using provided video clips 
+
+Follow the below steps, or use the provided sample project and skip to step 3
+
+1. Use the Step Sequencer to trigger media files
+- Load the “Simple Player” template
+- Add provided sample media files to media bin
+- From the Workspace Inspector > Plugins, add a Step Sequencer plugin
+- - Set the number of rows for the default track to match number of page clips
+- - Use the track sub-inspector > options to disable normalized values
+- In the Media Bin inspector > Control, set the “Trigger by Index” data-receiver to the step sequencer track
+2. Adjust step sequencer track to adjust patterns
+- Change the number of measures (M:)
+- Change the total number of columns
+- cmd+click on a column to have it skipped
+- Use the Section Preset bar to create presets
+3. Create sequences based on,
+- Regular rhythm: Intervals between images are the same in duration (i.e., one second per image)
+- Progressive rhythm: The duration of images are changed over a progression, getting faster towards the end (2 sec, 1 sec, ½ sec, and so on)
+- Flowing (organic) rhythm: Occurs when the images or intervals are organic, used to create a feeling of visual polyphony. Think VJ’ing to wind chimes.
 
 ### Exercises
 
 #### Create the three primary rhythmic sequences using provided video clips 
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
 
-#### File management in VDMX
-1. 
-- Note 1
+Follow the below steps, or use the provided sample project and skip to step 3
 
-#### Record edits with provided audio samples, experimenting with different tempos and structures (beats per minute, seconds, etc)
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Use the Step Sequencer to trigger media files
+- Load the “Simple Player” template
+- Add provided sample media files to media bin
+- From the Workspace Inspector > Plugins, add a Step Sequencer plugin
+- - Set the number of rows for the default track to match number of page clips
+- - Use the track sub-inspector > options to disable normalized values
+- In the Media Bin inspector > Control, set the “Trigger by Index” data-receiver to the step sequencer track
+2. Adjust step sequencer track to adjust patterns
+- Change the number of measures (M:)
+- Change the total number of columns
+- cmd+click on a column to have it skipped
+- Use the Section Preset bar to create presets
+3. Create sequences based on,
+- Regular rhythm: Intervals between images are the same in duration (i.e., one second per image)
+- Progressive rhythm: The duration of images are changed over a progression, getting faster towards the end (2 sec, 1 sec, ½ sec, and so on)
+- Flowing (organic) rhythm: Occurs when the images or intervals are organic, used to create a feeling of visual polyphony. Think VJ’ing to wind chimes.
+4. Use the Movie Recorder plugin to capture edits with provided audio samples, experimenting with different tempos and structures (beats per minute, seconds, etc)
 
 ## Lesson 3: Cinéma Pur
 

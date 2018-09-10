@@ -51,6 +51,9 @@ Required downloads:
 - - Color scales
 - - Translations between sounds and imagery
 - Color representations – RGB vs HSV
+- Color similarity
+- - Complimentary colors (varying hue)
+- - Shades (varying saturation / brightness)
 
 ### Discussions
 
@@ -180,6 +183,7 @@ Required downloads:
 * * Audio Spectrograms
 * * ProjectMilkSyphon
 * * Booba/Kiki ISFs
+* * Rutt Etra
 
 * Create two layers/media bins of shapes (i.e., Booba/Kiki): 
 * * Organic 

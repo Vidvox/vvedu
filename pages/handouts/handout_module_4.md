@@ -48,7 +48,6 @@ This week, we will create a shape-based color organ, creating and performing for
 * [Center for Visual Music](https://www.centerforvisualmusic.org/)
 * [Colour and Sound](https://www.flutopedia.com/sound_color.htm)
 * [Colour and the Notes of the Octave](http://www.davidrokeby.com/Culturall2/40_colour.html)
-* [Booba/Kiki](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 
 ### Resources
 
@@ -76,6 +75,7 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 * * Audio Spectrograms
 * * ProjectMilkSyphon
 * * Booba/Kiki ISFs
+* * Rutt Etra
 
 * Create two layers/media bins of shapes (i.e., Booba/Kiki): 
 * * Organic 
@@ -92,14 +92,11 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 
 ### Reference Links
 
-* [The Book of Shaders Chapter 9: Patterns](https://thebookofshaders.com/09/)
-* [10print](https://10print.org/)
-* [SimoNeri - Natural Rhythms](https://simoneri.com/works_category/natural-rhythms/)
-* Godseye Tile
+* [Booba/Kiki](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 
 ### Resources
 
-* ISF pattern compositions
+* ISF Booba/Kiki compositions
 
 ### Related Tutorials and Case Studies
 

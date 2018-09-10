@@ -223,8 +223,11 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 ### Special Equipment
 
 Required:
-- 
-- 
+- DMX Equipment
+- - DMX -> ArtNet device
+- - ArtNet -> DMX device
+- - DMX controllable light(s)
+- - DMX cables
 
 Recommended:
 - 
@@ -308,22 +311,33 @@ Recommended:
 - - Use the device to set the subnet / universe
 - - Set the device to output DMX (receive ArtNet)
 - Open VDMX Preferences:DMX
-2. Step 2
-- Note 2
+- - Configure DMX sending ports
+2. Sending from UI items
+- Create a Control Surface plugin
+- - Add a Color Wheel
+- - Use UI Inspector to configure sending DMX for your demonstration fixture
+- - Add any additional UI items and configure sending DMX for your demonstration fixture
 
 ### Exercises
 
-#### Exercise 1
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Technical Riders
+1. Create a flowchart that explains the audio / video / data routing for:
+- Simple Player template
+- Simple Mixer template
+- 4 Channel Mixer template
+- Your own project files
+- Your home entertainment system
 
-#### Exercise 2
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Send DMX colors
+1. Use a Control Surface to send DMX values to a fixture
+2. Use data-sources to control DMX sending
+- Assign MIDI or OSC to sliders and buttons 
+- Use a Step Sequencer plugin with a color track to sequence colors for output
+- Use an LFO plugin to adjust color controls
+3. Use Control Surface section presets and local UI item presets to switch between automations
+
+#### Advanced: Media Server control of VDMX
+1. Use your preferred DMX media server software along with the “DMX Video Mixer” template
 
 ## Lesson 3: Getting gig ready, Rehearsals and Performances
 
@@ -354,12 +368,14 @@ Recommended:
 ### Special Equipment
 
 Required:
-- 
-- 
+- Hard drives / USB thumbdrives
 
 Recommended:
-- 
-- 
+- GitHub account
+- Google Drive / CloudFlare / etc
+
+Optional:
+- Carbon Copy Cloner
 
 ### Lecture Notes
 
@@ -369,34 +385,62 @@ Recommended:
 
 ### Demonstrations
 
-#### Introduction to iMovie / ScreenFlow and basic non-linear editing
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
-
-#### Creating a demo reel
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Creating back ups
+1. Backing up to hard drives / USB thumbdrives
+2. GitHub
+3. Online backups
 
 #### Preparing cues
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+1. Adding Cues
+- Start from the Simple Mixer template
+- Add a Cue List plugin
+- Use the default data-source to control the mixer position
+- Add media files to project
+- Drag media files into list of cues to create file triggers
+- - Demonstrate adjusting target layer
+- From the Cue List inspector
+- - Add a Color data-source
+- - Use the sub-inspector to directly send the color as OSC / DMX
+2. Time display and sync
+- Add a Timecode plugin to the project
+- From the Cue List inspector in the Time section
+- - Demonstrate each of the display formats:
+- - - Index
+- - - Beats
+- - - Measures
+- - - Seconds
+- - - SMPTE
+- Cue List can be synchronized to a Clock or Timecode plugin
+- - Time signature format automatically changes to match
+- - Lock to sync option disables time jumping
+- - Timecode sync can be nudged forward or backwards
+3. Cue import / export
+- From the Options section of the Cue List, click the Export CSV button
+- - Save the list of cues as a CSV – comma separate values
+- Open CSV file in text editor or spreadsheet software
+- CSV is easily written or modified by hand
+- Change times and values in CSV file and save the file
+- From the Options section of the Cue List, click the Import CSV button
+- - Import the modified CSV file
+- Optional: Demonstrate using Google Sheets with CSV files
 
 ### Exercises
 
-#### Exercise 1
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Creating back ups
+1. Local storage
+- Get an external hard drive or USB thumbdrive with enough capacity for your video library
+- Create a back up of your media files and any 3rd party plugins
+- - Make sure to copy any installed resources in VDMX assets
+- - Custom installed ISF (/Library/Graphics/ISF and ~/Library/Graphics/ISF)
+2. Online storage
+- Codeback using Git
+- - Create a GitHub (or similar) account
+- - Create a repository for your ISF, QC and other code compositions
+- Optional: File backup with Google Drive / CloudFlare / etc
+- - Create an account with an online back up service
+- - Back up your media and other important files
 
-#### Exercise 2
-1. Step 1
-- Note 1
-2. Step 2
-- Note 2
+#### Preparing cues
+1. Add Cue List control to an existing project
+2. Export cues as a CSV
+3. Modify time values to match interesting points in a song and re-import CSV file

@@ -1,9 +1,9 @@
 ---
 title: Glossary
 keywords: 
-last_updated: August 28, 2018
+last_updated: September 10, 2018
 tags: [Glossary]
-summary: "Read Me For Teachers"
+summary: "Glossary"
 sidebar: home_sidebar
 permalink: ref_glossary.html
 folder: reference

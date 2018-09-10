@@ -79,6 +79,10 @@ entries:
     - title: Bibliography
       url: /ref_bibliography.html
       output: web, pdf
+      
+    - title: Course Downloads
+      url: /ref_downloads.html
+      output: web, pdf
 
   - title: Teaching Materials
     output: web, pdf

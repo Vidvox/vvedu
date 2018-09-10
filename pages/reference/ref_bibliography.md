@@ -1,7 +1,7 @@
 ---
 title: Bibliography
 keywords: 
-last_updated: August 28, 2018
+last_updated: September 10, 2018
 tags: [Bibliography]
 summary: "Course Bibliography"
 sidebar: home_sidebar
