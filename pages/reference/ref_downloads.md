@@ -14,6 +14,7 @@ folder: reference
 1. **“Live” Visuals**: [Handout](/vvedu/handout_module_1.html) / [Lesson Plans](/vvedu/teaching_module_1.html)
 - Input to Output:
 - - [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/M1-L1.zip)
+- - [Syphon Test apps](https://github.com/Syphon/Simple/releases/latest)
 - Responsiveness:
 - - [Sample project](https://s3.amazonaws.com/vidvox/vvedu/M1-L2.zip)
 2. **Introduction to Montage**: [Handout](/vvedu/handout_module_2.html) / [Lesson Plans](/vvedu/teaching_module_2.html)

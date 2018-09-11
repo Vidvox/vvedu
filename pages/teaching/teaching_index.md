@@ -77,6 +77,4 @@ Along with the handouts for each module, this course guide includes several othe
 
 ## Creating Your Own Version Of These Pages
 
-This project can be found and branched on [GitHub](https://github.com/vidvox/vvedu).
-
-More information on how to create your own version is coming soon!
+These course materials are totally free to re-use for educational purposes. The related files can be found and branched on [GitHub](https://github.com/vidvox/vvedu).

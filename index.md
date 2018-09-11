@@ -17,13 +17,19 @@ Like the world of professional music, modern live video art has developed severa
 
 While these are very different fields, there is often a large overlap in the skill sets involved. Many VJs eventually find themselves specializing in one or more of these areas, or at least assisting on projects that fall outside of the scope of traditional production techniques. Likewise, many people who start in these fields may find VJing to be something they want to learn more about.
 
-# About This Course
+## About This Course
 
 This set of coursework is designed for educators and students to learn about the techniques being used to create live visual performances and investigate how these same skills can be applied to innovate on traditional forms of video production.
 
 The lesson plans provided are broken up into separate modules that can be followed in order or put together in sub-collections that best fit with the focus for your class.
 
-# Historical Context
+### Creating Your Own Version Of These Pages
+
+These course materials are totally free to re-use for educational purposes. We fully encourage teachers and educators to use these resources as-is, or to remix / reinvent / reuse any parts that they find useful. 
+
+The related files can be found and branched on [GitHub](https://github.com/vidvox/vvedu).
+
+## Historical Context
 
 In the historical context of live performance, VJ’ing stems from the field of “Projection Design,” a term chosen by scenic artists to refer to designers who worked with film and video projectors in theater. The term now generally refers to putting an image on the stage that is ephemeral.
 
@@ -50,7 +56,7 @@ In film, both the dialogue and the image are needed to perceive what is taking p
 Projection design seems to take its theory from film more than theater or music. In this field, one assumes that film is everyone's first language. The perpetual challenge of live performance seems to be how to incorporate prevailing mediums into a live performance setting. If projection design is the aesthetic frontier in live performance, how we think about projection is changing audience perception.
 
 
-# Why do visuals matter? 
+## Why do visuals matter? 
 
 So, is this field of visual design — generally speaking — always beneficial? Why crystallize a series of images for an audience, who left to their own devices might develop their own visual relationship with the music or text, unaided by a designer's visual interpretation?
 
@@ -59,7 +65,7 @@ Visuals have a powerful and integral relationship with narrative. Lighting offer
 Because the nature of the medium contrasts the fleshy, human-based presence onstage with the ephemeral, it can extrapolate on the subtexts within the story and music, highlighting events that are otherwise impossible to achieve onstage with practical sets and costumes.
 
 
-## Why live visuals? 
+### Why live visuals? 
 
 Projection design can also amplify “liveness,” perhaps the most debated quality in performance design. Elements of interactivity or real-time events, with the possible exception of live cameras, are typically avoided in “big” theatrical projection design. Exceptions are “downtown theater” groups that specialize in integrating live media into their productions, such as [The Wooster Group](https://thewoostergroup.org/blog/), [The Builders Association](https://www.thebuildersassociation.org/), [Early Morning Opera](http://earlymorningopera.com/wp/about/), et al. [The Light Surgeons](http://www.lightsurgeons.com/) are a unique group of musicians and visualists who work with cinematic narrative.
 
