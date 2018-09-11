@@ -50,6 +50,8 @@ Outputs
 
 ### Lecture Notes
 
+[Input to Output Lecture Notes](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
+
 - What are visuals? A historical context.
 - - Theater
 - - Light projections
@@ -65,9 +67,6 @@ Outputs
 - What is a media codec?
 - - How do image / video codecs work?
 - - What image / video codecs are commonly used today?
-- Video generators
-- - Analog synthesizers
-- - Digital video synthesizers: Using code to create interactive imagery
 
 ### Reference Links
 
@@ -83,6 +82,7 @@ Outputs
 
 ### Resources
 
+* [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/W1-L1.zip)
 * [The AVF Batch Exporter](https://docs.vidvox.net/freebies_avf_batch_exporter.html)
 * [VDMX Sample Media files](https://docs.vidvox.net/vdmx_sample_media.html)
 * [Project Milk Syphon](https://docs.vidvox.net/freebies_project_milk_syphon.html)
@@ -149,6 +149,7 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Reference Links
 
+* [Sample project](https://s3.amazonaws.com/vidvox/vvedu/W1-L2.zip)
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 * MIDI Controllers discussion thread on forums
 

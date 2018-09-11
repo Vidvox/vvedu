@@ -101,5 +101,5 @@ description: ""
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: http://vidvox.github.io/
-baseurl: /vidiotuniversity
+url: http://vidvox.github.io/vvedu
+baseurl: /vvedu

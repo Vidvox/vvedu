@@ -70,6 +70,14 @@ Or browse from popular controller makers,
 * [Numark](https://www.numark.com/product_category/controllers)
 * [Serato](https://serato.com/dj/hardware?type=controller) (many digital DJ controllers send off MIDI that can be used for live visuals)
 
+Discussion around MIDI controllers can be found on the [VIDVOX forums favorite MIDI controller thread](https://discourse.vidvox.net/t/favorite-midi-controller-thread/46/1).
+
+### Video Inputs
+
+Though not required, it is recommended to have a webcam or other method to get live video signals into your computer.
+
+Discussion around video input devices can be found on the [VIDVOX forums video capture thread](https://discourse.vidvox.net/t/video-capture-devices-thread/72/1).
+
 ## Online Accounts
 
 ### Video Sharing

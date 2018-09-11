@@ -70,6 +70,8 @@ One of the most powerful aspects of working with “live” video is the ability
 
 ### Special Equipment
 
+- [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/W1-L1.zip)
+
 Though not required for this lesson, the following extra equipment can be used for in class demos and exercises as described below:
 - Blackmagic Input / Output devices (or similar)
 - External monitors or projectors (and appropriate cables) for fullscreen outputs
@@ -271,6 +273,8 @@ This week, we will explore interactive concepts that extend the moving image bey
 * * Control from webpage - for situations where a MIDI / OSC controller is not available, custom interfaces can be created with the Control Surface and controlled from a smart phone or tablet
 
 ### Special Equipment
+
+- [Sample project](https://s3.amazonaws.com/vidvox/vvedu/W1-L2.zip)
 
 Though not required for this lesson, the following extra equipment can be used for in class demos and exercises as described below:
 - One or more MIDI controller

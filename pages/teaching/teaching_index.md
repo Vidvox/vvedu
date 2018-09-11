@@ -71,12 +71,12 @@ It is recommended that you go through the materials from each module yourself, i
 ### Additional Resources For Teachers and Students
 
 Along with the handouts for each module, this course guide includes several other useful resources, such as:
-* The glossary section
-* The bibliography section
-* Resource download links
+* [The glossary section](/ref_glossary.html)
+* [The bibliography section](/ref_bibliography.html)
+* [Resource download links](/ref_downloads.html)
 
 ## Creating Your Own Version Of These Pages
 
-This project can be found and branched on GitHub.
+This project can be found and branched on [GitHub](https://github.com/vidvox/vvedu).
 
 More information on how to create your own version is coming soon!
