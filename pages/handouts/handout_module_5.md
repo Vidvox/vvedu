@@ -37,6 +37,8 @@ We should consider how effects and digital manipulation influences the interpret
 
 ### Resources
 
+* [Retro Logo Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L1.zip)
+
 ### Related Tutorials and Case Studies
 
 * Using LUT based FX in VDMX
@@ -71,7 +73,7 @@ Next, storyboard the desired sequence for your music. In the animation industry,
 
 ### Resources
 
-* Storyboard template and examples
+* [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
 
 ### Related Tutorials and Case Studies
 

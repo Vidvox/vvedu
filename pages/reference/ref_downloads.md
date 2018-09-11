@@ -40,9 +40,9 @@ folder: reference
 - - [Pattern Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L3.zip)
 5. **Aesthetic Overview**: [Handout](/vvedu/handout_module_5.html) / [Lesson Plans](/vvedu/teaching_module_5.html)
 - Styling Your Look:
-- - Halloween Project
+- - [Retro Logo Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L1.zip)
 - Mood board / Storyboarding:
-- - Stargate Project
+- - [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
 6. **Show and Event Production**: [Handout](/vvedu/handout_module_6.html) / [Lesson Plans](/vvedu/teaching_module_6.html)
 - Pre-Production and Show Design:
 - - Timecode Example

@@ -45,8 +45,7 @@ We should consider how effects and digital manipulation influences the interpret
 ### Special Equipment
 
 Required:
-- 'Archival / Modern' sample set
-- 
+- [Retro Logo Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L1.zip)
 
 Recommended:
 - 
@@ -58,7 +57,7 @@ Recommended:
 
 ### Discussions
 
-* 
+* What are some other categories and examples of style in cinema, comics, paintings and other visual mediums?
 
 ### Demonstrations
 
@@ -276,7 +275,7 @@ In this demonstration we'll be making a space themed mood board and evolve that 
 ### Special Equipment
 
 Required:
-- 
+ - [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
 
 Recommended:
 - Space Mood Board collection
