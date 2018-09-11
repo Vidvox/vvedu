@@ -19,7 +19,7 @@ There is a theory that we are all synesthetes on some level. Take for instance [
 
 ## Lesson 1: Abstract Visualization / Color Organ
 
-[Handout: Abstract Visualization / Color Organ](/handout_module_4.html)
+[Handout: Abstract Visualization / Color Organ](/vvedu/handout_module_4.html)
 
 The synaesthetic relationship between sound and vision continues to be explored by scientists artists working today. “Color scales,” dating back to Isaac Newton, attempt to scientifically correlate musical scales with colors. ”[Color Organs](https://en.wikipedia.org/wiki/Color_organ),” instruments that generate colors based on notes, date back to the 1850s and continue to be developed. [Wassily Kandinksy](https://en.wikipedia.org/wiki/Wassily_Kandinsky), one of the founders of non-objective painting, went so far as to create a color code for sounds. He intended for his pieces to be both seen and heard, titling them as “compositions.”
 
@@ -172,7 +172,7 @@ Required downloads:
 
 ## Lesson 2: Audio Visualizers and the Shape of Sounds
 
-[Handout:  Audio Visualizers](/handout_module_4.html)
+[Handout:  Audio Visualizers](/vvedu/handout_module_4.html)
 
 ### Lesson Overview
 
@@ -293,7 +293,7 @@ or use the pre-made project file.
 
 ## Lesson 3: Generative Patterns
 
-[Handout: Generative Patterns](/handout_module_4.html)
+[Handout: Generative Patterns](/vvedu/handout_module_4.html)
 
 As discussed in Stills To Motion module, we are hardwired to find patterns in shapes that are similar and arranged closely together. In this module, we can explore pattern making as a synaesthetic device, influencing the frequency, amplitude and continuity of repetitive shapes and images to rhythmic effect.
 

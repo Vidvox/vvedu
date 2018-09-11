@@ -21,7 +21,7 @@ Regardless of treatment, consider how the aesthetics influence the mood and mean
 
 ## Lesson 1: Styling Your Look
 
-[Handout: Styling Your Look](/handout_module_5.html)
+[Handout: Styling Your Look](/vvedu/handout_module_5.html)
 
 We should consider how effects and digital manipulation influences the interpretation of our imagery. They will have their own connotations and history. For instance, effects that simulate an old VHS tape or an analogue synth may tie it to a certain era, e.g., the “Stranger Things” opening title.
 
@@ -253,7 +253,7 @@ Note: This is based on [Halloween visual style in VDMX](https://vdmx.vidvox.net/
 
 ## Lesson 2: Mood board / storyboarding
 
-[Handout: Mood board / storyboarding](/handout_module_5.html)
+[Handout: Mood board / storyboarding](/vvedu/handout_module_5.html)
 
 A visual performer will need to plan out the theme, setting, and mood for a performance or a production before any editing, composing or programming begins. They will also want to plan out, or “[storyboard](https://en.wikipedia.org/wiki/Storyboard)” a script for choreographing various forms to music.
 

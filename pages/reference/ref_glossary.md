@@ -11,24 +11,6 @@ folder: reference
 
 ## Show Production Terms
 
-### Documents
-
-**Contract**: 
-
-**Mood board**:
-
-**Storyboard**:
-
-**Technical Rider**: 
-
-### Ownership
-
-**Copyright**: 
-
-**Creative Commons**:
-
-**Fair Use**: 
-
 ### Places
 
 **Control Booth / Lighting Booth**: - *"The control booth, control room, lighting box, technical booth, tech booth, or just booth to theatre or television technicians is the area designated for the operation of technical equipment (lighting and sound), and is sometimes the location of the deputy stage manager's (DSM) station as well as the lighting controls and sound board. Often one or two followspots are located in the booth as well. Generally it is an enclosed space with a large sliding window with a good view of the stage. In a proscenium theater, it is centered in the back of the house. It might be on the ground floor, but is sometimes placed at the balcony level."* - [Wikipedia](https://en.wikipedia.org/wiki/Control_booth)

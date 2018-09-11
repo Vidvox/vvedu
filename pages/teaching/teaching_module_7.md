@@ -11,7 +11,7 @@ folder: teaching
 
 ## Lesson 1: Collaborating with Musicians
 
-[Handout: Generative Patterns](/handout_module_4.html)
+[Handout: Generative Patterns](/vvedu/handout_module_4.html)
 
 In the case where visuals and lighting are being performed live along with music, there is the possibility for both sides to respond and react, in the way the members of a band can improvise or riff off each other, or create an informal jam session to try out new ideas.
 

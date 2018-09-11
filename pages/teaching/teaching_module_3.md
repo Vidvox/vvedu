@@ -21,7 +21,7 @@ In this module, you will learn a range of basic compositional and motion design 
 
 ## Lesson 1: Stills to Motion
 
-[Handout: Stills to Motion](/handout_module_3.html)
+[Handout: Stills to Motion](/vvedu/handout_module_3.html)
 
 [Gestalt](http://graphicdesign.spokanefalls.edu/tutorials/process/gestaltprinciples/gestaltprinc.htm), a psychology term meaning “unified whole,” contains laws of visual perception developed by German psychologists in the 1920s. Its principles explain how we can perceive a succession of stills images as fluid reality.
 
@@ -132,7 +132,7 @@ Required:
 
 ## Lesson 2: Color and Choreography
 
-[Handout: Color and Choreography](/handout_module_3.html)
+[Handout: Color and Choreography](/vvedu/handout_module_3.html)
 
 To create a more complex visual, a VJ will conceptualize and compose the choreography of various elements temporally (timing) and spatially (arrangement). By manipulating the basic shapes’ attributes over time and space using controlled animation, we can extend the motion design fundamentals into dynamic, [synaesthetic](https://www.dictionary.com/browse/synaesthetic) compositions. 
 

@@ -17,7 +17,7 @@ The input and output of your images will have a great influence on content, cont
 
 ## Lesson 1: Input to Output
 
-[Handout: Input To Output](/handout_module_1.html#lesson-1-video-input-to-output)
+[Handout: Input To Output](/vvedu/handout_module_1.html#lesson-1-video-input-to-output)
 
 In this lesson we will explore the three most basic parts of our VJ toolkit – inputs, filters and outputs.
 
@@ -245,7 +245,7 @@ Continuing from above.
 
 ## Lesson 2: Responsiveness
 
-[Handout: Responsiveness](https://dlublin.github.io/vidiotuniversity/handout_module_1.html#lesson-2-responsiveness)
+[Handout: Responsiveness](/vvedu/handout_module_1.html#lesson-2-responsiveness)
 
 VJ’ing design is a [cybernetic](https://en.wikipedia.org/wiki/Cybernetics) art form; we are essentially creating a visual instrument. The goal of many visual performers is to have a close and immediate interface with computers, to make them expressive. Their goal is to use these machines to emote, thereby making the computer's presence invisible. 
 

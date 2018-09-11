@@ -21,7 +21,7 @@ In our first module, Montage, you will learn a range of basic editing and layeri
 
 ## Lesson 1: The Cut
 
-[Handout: The Cut](/handout_module_2.html)
+[Handout: The Cut](/vvedu/handout_module_2.html)
 
 One of the oldest examples of montage editing is called the “Kuleshov Effect.” This experiment demonstrated cinema’s unique capacity as an art form to conjure emotional reactions from the relationship between indexical images. 
 
@@ -121,7 +121,7 @@ Note: In a classroom setting, you may find it useful to skip having the part of 
 
 ## Lesson 2: Rhythmic Sequence
 
-[Handout: The Rhythmic Sequence](/handout_module_2.html)
+[Handout: The Rhythmic Sequence](/vvedu/handout_module_2.html)
 
 Eisenstein's montage theories are based on the idea that montage originates in the "collision" between different shots in an illustration of the idea of thesis and antithesis. His collisions of shots were based on conflicts of scale, volume, rhythm, motion (speed, as well as direction of movement within the frame), as well as more conceptual values such as class.
 
@@ -273,7 +273,7 @@ Follow the below steps, or use the provided sample project and skip to step 3
 
 ## Lesson 3: Cinéma Pur
 
-[Handout: Cinéma Pur](/handout_module_2.html)
+[Handout: Cinéma Pur](/vvedu/handout_module_2.html)
 
 From the 1930s to the 1950s, montage sequences often combined numerous short shots with special optical effects (fades, dissolves, split screens, double and triple exposures) dance and music. 
 

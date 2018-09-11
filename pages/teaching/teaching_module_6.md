@@ -341,7 +341,7 @@ Recommended:
 
 ## Lesson 3: Getting gig ready, Rehearsals and Performances
 
-[Handout: Getting gig ready, Rehearsals and Performances](/handout_module_6.html)
+[Handout: Getting gig ready, Rehearsals and Performances](/vvedu/handout_module_6.html)
 
 ### Lesson Overview
 

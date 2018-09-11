@@ -71,9 +71,9 @@ It is recommended that you go through the materials from each module yourself, i
 ### Additional Resources For Teachers and Students
 
 Along with the handouts for each module, this course guide includes several other useful resources, such as:
-* [The glossary section](/ref_glossary.html)
-* [The bibliography section](/ref_bibliography.html)
-* [Resource download links](/ref_downloads.html)
+* [The glossary section](/vvedu/ref_glossary.html)
+* [The bibliography section](/vvedu/ref_bibliography.html)
+* [Resource download links](/vvedu/ref_downloads.html)
 
 ## Creating Your Own Version Of These Pages
 
