@@ -70,7 +70,7 @@ One of the most powerful aspects of working with “live” video is the ability
 
 ### Special Equipment
 
-- [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/W1-L1.zip)
+- [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/M1-L1.zip)
 
 Though not required for this lesson, the following extra equipment can be used for in class demos and exercises as described below:
 - Blackmagic Input / Output devices (or similar)
@@ -274,7 +274,7 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Special Equipment
 
-- [Sample project](https://s3.amazonaws.com/vidvox/vvedu/W1-L2.zip)
+- [Sample project](https://s3.amazonaws.com/vidvox/vvedu/M1-L2.zip)
 
 Though not required for this lesson, the following extra equipment can be used for in class demos and exercises as described below:
 - One or more MIDI controller

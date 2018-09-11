@@ -206,6 +206,7 @@ Recommended:
 - - Waveform visualization
 - - FFT visualization
 - - Audio Spectrograms
+- - Rutt Etra
 
 ### Discussions
 

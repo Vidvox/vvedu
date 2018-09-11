@@ -82,7 +82,7 @@ Outputs
 
 ### Resources
 
-* [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/W1-L1.zip)
+* [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/M1-L1.zip)
 * [The AVF Batch Exporter](https://docs.vidvox.net/freebies_avf_batch_exporter.html)
 * [VDMX Sample Media files](https://docs.vidvox.net/vdmx_sample_media.html)
 * [Project Milk Syphon](https://docs.vidvox.net/freebies_project_milk_syphon.html)
@@ -149,9 +149,9 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Reference Links
 
-* [Sample project](https://s3.amazonaws.com/vidvox/vvedu/W1-L2.zip)
+* [Sample project](https://s3.amazonaws.com/vidvox/vvedu/M1-L2.zip)
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
-* MIDI Controllers discussion thread on forums
+* [MIDI Controllers discussion thread on forums](https://discourse.vidvox.net/t/favorite-midi-controller-thread/46/1)
 
 ### Related Tutorials and Case Studies
 

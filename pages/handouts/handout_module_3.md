@@ -131,7 +131,7 @@ Finally, refine the timing of your final composition to music by syncing the mot
 
 ### Resources
 
-* Bouncing out of phase RGB circles driven by LFOs 
+* [Motion Design Play Example](https://s3.amazonaws.com/vidvox/vvedu/M3-L1.zip)
 
 ### Related Tutorials and Case Studies
 

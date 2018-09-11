@@ -61,11 +61,10 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 
 ### Resources
 
-* Kuleshov Sample Clips and Project
+* [Kuleshov Example Clips](https://s3.amazonaws.com/vidvox/vvedu/M2-L1.zip)
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 * [Freesound.org](Freesound.org)
 * [YouTube Royalty Free Library](https://www.youtube.com/audiolibrary/music)
-Sample template for sequencing clips
 
 ### Related Tutorials and Case Studies
 
@@ -144,6 +143,7 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 
 ### Resources
 
+* [Rhythmic Sequence Example](https://s3.amazonaws.com/vidvox/vvedu/M2-L2.zip)
 * [Freesound.org](Freesound.org)
 * [YouTube Royalty Free Library](https://www.youtube.com/audiolibrary/music)
 Sample template for sequencing clips
