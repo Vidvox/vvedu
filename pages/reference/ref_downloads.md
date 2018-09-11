@@ -23,12 +23,12 @@ folder: reference
 - Rhythmic Sequence:
 - - [Rhythmic Sequence Example](https://s3.amazonaws.com/vidvox/vvedu/M2-L2.zip)
 - Cinéma Pur:
-- - Cinéma Pur Examples
+- - [Luma Key Mixer and Example Media](https://s3.amazonaws.com/vidvox/vvedu/M2-L3.zip)
 3. **Introduction to Motion Design**: [Handout](/vvedu/handout_module_3.html) / [Lesson Plans](/vvedu/teaching_module_3.html)
 - Stills to Motion:
 - - [Motion Design Play](https://s3.amazonaws.com/vidvox/vvedu/M3-L1.zip)
 - Color and Choreography:
-- - Motion Design Color Play
+- - [Motion Design Color Play](https://s3.amazonaws.com/vidvox/vvedu/M3-L2.zip)
 4. **Visual Music**: [Handout](/vvedu/handout_module_4.html) / [Lesson Plans](/vvedu/teaching_module_4.html)
 - Abstract Visualization / Color Organ:
 - - [Color Organ Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L1.zip)

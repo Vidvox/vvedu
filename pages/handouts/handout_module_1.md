@@ -70,6 +70,10 @@ Outputs
 
 ### Reference Links
 
+* [Nam June Paik - Videofilm Concert](https://www.youtube.com/watch?v=VEAUjFLSqXY)
+* [Coldcut – Timber](https://www.youtube.com/watch?v=5-wl7Xk5FoY)
+* [Emergency Broadcast Network – We Will Rock You ](https://www.youtube.com/watch?v=2OfFloEMhcg)
+
 * [Recommended video codecs for VDMX](https://docs.vidvox.net/vdmx_video_codecs.html)
 * [Converting media files to HAP](http://hap.video/using-hap.html)
 * [Video codec usage comparisons and benchmarks](http://hap.video/benchmarks.html)

@@ -15,10 +15,14 @@ topnav_dropdowns:
     - title: Handouts
       folderitems:
         - title: Handout 1
-          url: /handout_1.html
+          url: /handout_module_1.html
         - title: Handout 2
-          url: /handout_2.html
+          url: /handout_module_2.html
         - title: Handout 3
-          url: /handout_3.html
+          url: /handout_module_3.html
         - title: Handout 4
-          url: /handout_4.html
+          url: /handout_module_4.html
+        - title: Handout 5
+          url: /handout_module_5.html
+        - title: Handout 6
+          url: /handout_module_6.html

@@ -221,8 +221,7 @@ For this exercise, you will experiment with the layering of indexical material t
 
 ### Resources
 
-* Mixer, chroma mask and layer mask templates
-* Sample hi-con, motion graphics
+* [Luma Key Mixer and Example Media](https://s3.amazonaws.com/vidvox/vvedu/M2-L3.zip)
 
 ### Related Tutorials and Case Studies
 

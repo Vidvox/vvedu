@@ -48,7 +48,7 @@ We will then explore the [law of continuation](https://www.interaction-design.or
 ### Special Equipment
 
 Required:
-- ISF shape generator examples 
+- [Motion Design Play](https://s3.amazonaws.com/vidvox/vvedu/M3-L1.zip)
 
 ### Lecture Notes
 
@@ -161,6 +161,9 @@ Finally, refine the timing of your final composition to music by syncing the mot
 * Refine timing to music using step sequencer
 
 ### Special Equipment
+
+Required:
+- [Motion Design Color Play](https://s3.amazonaws.com/vidvox/vvedu/M3-L2.zip)
 
 ### Lecture Notes
 
