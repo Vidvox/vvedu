@@ -17,7 +17,7 @@ This course will be organized around introducing students to a wide range of met
 
 Weekly assignments will be given. They will typically relate to a worksop and will usually extend into longer projects. Critiques will take place at the end of every project, and students’ active engagement forum discussion will play a vital role in establishing an atmosphere of collaboration and shared learning.
 
-More information can be found on the [Course Syllabus](/course_syllabus.html) page, which should be provided to students.
+More information can be found on the [Course Syllabus](/vvedu/course_syllabus.html) page, which should be provided to students.
 
 ### Module Design
 
@@ -27,24 +27,24 @@ The lesson plans provided are broken up into separate modules that can be follow
 
 #### About the Modules
 
-1. [**“Live” Visuals**](/teaching_module_1.html)
+1. [**“Live” Visuals**](/vvedu/teaching_module_1.html)
 - Input to Output
 - Responsiveness
-2. [**Introduction to Montage**](/teaching_module_2.html)
+2. [**Introduction to Montage**](/vvedu/teaching_module_2.html)
 - The Cut
 - Rhythmic Sequence
 - Cinéma Pur
-3. [**Introduction to Motion Design**](/teaching_module_3.html)
+3. [**Introduction to Motion Design**](/vvedu/teaching_module_3.html)
 - Stills to Motion
 - Color and Choreography
-4. [**Visual Music**](/teaching_module_4.html)
+4. [**Visual Music**](/vvedu/teaching_module_4.html)
 - Abstract Visualization / Color Organ
 - Audio Visualizers and the Shape of Sounds
 - Generative Patterns
-5. [**Aesthetic Overview**](/teaching_module_5.html)
+5. [**Aesthetic Overview**](/vvedu/teaching_module_5.html)
 - Styling Your Look
 - Mood board / Storyboarding
-6. [**Show and Event Production**](/teaching_module_6.html)
+6. [**Show and Event Production**](/vvedu/teaching_module_6.html)
 - Pre-Production and Show Design
 - Technical Riders and Contracts
 - Getting gig ready, Rehearsals and Performances
