@@ -56,10 +56,11 @@ Multiple cameras can present different views of the performer at the same time, 
 ### Special Equipment
 
 Required:
-- Software or hardware for sending MTC
-- LTC audio test file
-- Software to receive MTC
-- Software to receive LTC
+- [Timecode Example Project](https://s3.amazonaws.com/vidvox/vvedu/M6-L1.zip)
+- LTC audio test file (create your own online – [http://elteesee.pehrhovey.net/](http://elteesee.pehrhovey.net/))
+- Software to receive LTC (such as [LockStep](https://figure53.com/lockstep/))
+- Software to receive MTC (such as [TimecodeDisplay](http://figure53.com/downloads/TimecodeDisplay.zip))
+- Software or hardware for sending MTC (such as [LockStep](https://figure53.com/lockstep/))
 
 Recommended:
 - NDI® test video feeds

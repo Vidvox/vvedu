@@ -46,7 +46,11 @@ folder: reference
 - - [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
 6. **Show and Event Production**: [Handout](/vvedu/handout_module_6.html) / [Lesson Plans](/vvedu/teaching_module_6.html)
 - Pre-Production and Show Design:
-- - Timecode Example
+- - Timecode Example Project
+- - LTC audio test file (create your own online, [http://elteesee.pehrhovey.net/](http://elteesee.pehrhovey.net/))
+- - Software to receive LTC (such as [LockStep](https://figure53.com/lockstep/))
+- - Software to receive MTC (such as [TimecodeDisplay](http://figure53.com/downloads/TimecodeDisplay.zip))
+- - Software or hardware for sending MTC (such as [LockStep](https://figure53.com/lockstep/))
 - Technical Riders and Contracts:
 - - Sample Technical Rider
 - - Sample Contract

@@ -42,18 +42,27 @@ Multiple cameras can present different views of the performer at the same time, 
 
 ### Lesson Overview
 
-* Multiple Inputs / Outputs in VDMX
+* Using materials from other people
+* * Creative Commons: Share, Collaborate, Remix, Reuse
+* * What is fair use?
+* * Works for hire
+* Introduction to Timecode
+* * MTC and LTC
 * Timecode plugin
 * * MTC, LTC and OSC sync
 * * Time markers
 * Preparing cues
 * * Using the Cue List plugin in VDMX
-* Using materials from other people
-* * Creative Commons: Share, Collaborate, Remix, Reuse
-* * What is fair use?
-* * Works for hire
+* Multiple Inputs / Outputs in VDMX
 
 ### Lecture Notes
+
+- Using materials from other people
+- - Creative Commons
+- - Fair Use
+- - Works for Hire
+- Introduction to timecode
+- - MTC and LTC
 
 ### Reference Links
 
@@ -68,6 +77,12 @@ Multiple cameras can present different views of the performer at the same time, 
 * [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md)
 
 ### Resources
+
+* [Timecode Example Project](https://s3.amazonaws.com/vidvox/vvedu/M6-L1.zip)
+* LTC audio test file (create your own online, [http://elteesee.pehrhovey.net/](http://elteesee.pehrhovey.net/))
+* Software to receive LTC (such as [LockStep](https://figure53.com/lockstep/))
+* Software to receive MTC (such as [TimecodeDisplay](http://figure53.com/downloads/TimecodeDisplay.zip))
+* Software or hardware for sending MTC (such as [LockStep](https://figure53.com/lockstep/))
 
 ### Related Tutorials and Case Studies
 
@@ -182,6 +197,16 @@ Another detail we will look at in this lesson are the various jobs that are cruc
 * * Creating a demo reel
 
 ### Lecture Notes
+
+- Rehearsals and revisions
+- - Preparing for rehearsals
+- - Constructive feedback
+- - Revision plans
+- Preparing a rig for travel
+- - Getting road ready
+- Performances
+- - Setup
+- - Teardown
 
 ### Reference Links
 
