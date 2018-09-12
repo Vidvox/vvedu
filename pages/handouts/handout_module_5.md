@@ -25,13 +25,26 @@ We should consider how effects and digital manipulation influences the interpret
 
 ### Lesson Overview
 
-* Styling with LUTs
-* Minimalism
-* Retro
-* Glitch
-* 3D Graphics
+* Aesthetic Overview
+* Styling with FX and LUTs
+* DJ / VJ Techniques
+* * Mix / crossfade
+* * Time jumping / scratching
+* * Audio and Visual FX
+* * 2 vs 4 channel setups
 
 ### Lecture Notes
+
+- Aesthetic Overview
+- - Minimalism
+- - Retro
+- - Glitch
+- - 3D Graphics
+- - Samples
+- - - Live
+- - - Archival
+- - - Modern
+- DJ / VJ Techniques
 
 ### Reference Links
 
@@ -69,11 +82,28 @@ Next, storyboard the desired sequence for your music. In the animation industry,
 
 ### Lecture Notes
 
+- [Moodboards](https://en.wikipedia.org/wiki/Mood_board)
+- - Used to help define style, feeling and general aesthetics
+- Usually an informal process. Start with using whatever tools you feel most comfortable with, then compile into a PDF or other collection for sharing with collaborators
+- - Can be made up of images, sounds, videos, gifs, text and any other media that helps describe the ideas
+- - Okay to use stock footage, snippits from films, images from the net; we are not going to use these materials, nor copy them, for the final product, but we can use them for inspiration, to describe particular styles and to better understand existing visual languages
+- [Storyboards](https://en.wikipedia.org/wiki/Storyboard)
+- - Takes the elements derived from the mood board and places them in time, typically matching up events such as style changes with important moments in other elements of the show production, such as the music or theater scene changes.
+- - Typically made with images, laying out sequences like a “comic book” or photo novella.
+- - Can be used to describe the progression of a single short clip / loop, or the thematic progression over an entire performance; a project may contain several storyboards
+- - Storyboards are commonly used for animation, film, theater and related fields.
+- - In the animation industry, storyboards are comprised of “extremes and in-betweens.” Extremes are moments that set the exact mood, emotion, or key image in a sequence. In-betweens are the transitional frames that move from one extreme to the next.
+
 ### Reference Links
+
+* [NASA Images](https://www.nasa.gov/multimedia/imagegallery/index.html)
+* [The aesthetics of science fiction spaceship design](https://uwspace.uwaterloo.ca/handle/10012/4935)
+* [Google Image Search](https://images.google.com/)
 
 ### Resources
 
 * [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
+* [Space Mood Board](https://s3.amazonaws.com/vidvox/vvedu/M5-L2-SpaceMoodExample.zip)
 
 ### Related Tutorials and Case Studies
 
@@ -82,6 +112,3 @@ Next, storyboard the desired sequence for your music. In the animation industry,
 ### Homework
 
 * Using selected music, create a mood board and 24-frame storyboard for final project.
-
-https://en.wikipedia.org/wiki/Storyboard
-

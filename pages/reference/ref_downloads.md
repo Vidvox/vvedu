@@ -42,6 +42,7 @@ folder: reference
 - Styling Your Look:
 - - [Retro Logo Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L1.zip)
 - Mood board / Storyboarding:
+- - [Space Mood Board](https://s3.amazonaws.com/vidvox/vvedu/M5-L2-SpaceMoodExample.zip)
 - - [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
 6. **Show and Event Production**: [Handout](/vvedu/handout_module_6.html) / [Lesson Plans](/vvedu/teaching_module_6.html)
 - Pre-Production and Show Design:

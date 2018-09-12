@@ -379,6 +379,16 @@ Optional:
 
 ### Lecture Notes
 
+- Rehearsals and revisions
+- - Preparing for rehearsals
+- - Constructive feedback
+- - Revision plans
+- Preparing a rig for travel
+- - Getting road ready
+- Performances
+- - Setup
+- - Teardown
+
 ### Discussions
 
 * Packing checklist template
