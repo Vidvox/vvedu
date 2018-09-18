@@ -81,8 +81,8 @@ Though not required for this lesson, the following extra equipment can be used f
 
 ### Lecture Notes
 
-[Input to Output Lecture Video](https://vimeo.com/289316023)
-[Input to Output Lecture Slides](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
+- [Input to Output Lecture Video](https://vimeo.com/289316023)
+- [Input to Output Lecture Slides](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
 
 - What are visuals? A historical context.
 - - Theater
@@ -292,8 +292,8 @@ Though not required for this lesson, the following extra equipment can be used f
 
 ### Lecture Notes
 
-[Responsiveness Lecture Video](https://vimeo.com/290539286)
-[Responsiveness Slides Notes](https://docs.google.com/presentation/d/1Dd04BLD53DW9HhfK7iyAmnumrnaLyUA8HimJAjkzSrY)
+- [Responsiveness Lecture Video](https://vimeo.com/290539286)
+- [Responsiveness Slides Notes](https://docs.google.com/presentation/d/1Dd04BLD53DW9HhfK7iyAmnumrnaLyUA8HimJAjkzSrY)
 
 - What is responsiveness?
 - What is a cybernetic artform?
