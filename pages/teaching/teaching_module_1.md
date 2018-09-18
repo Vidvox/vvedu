@@ -81,6 +81,7 @@ Though not required for this lesson, the following extra equipment can be used f
 
 ### Lecture Notes
 
+[Input to Output Lecture Video](https://vimeo.com/289316023)
 [Input to Output Lecture Slides](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
 
 - What are visuals? A historical context.
@@ -109,6 +110,8 @@ Though not required for this lesson, the following extra equipment can be used f
 * What shows / artists / music / movies / and other media has inspired you?
 
 ### Demonstrations
+
+[Input to Output Demonstration Video](https://vimeo.com/289319159)
 
 In this demonstration you will walk through the basic steps for loading a template, trying different media source types, adding FX, using fullscreen output and recording a movie to disk.
 
@@ -289,6 +292,7 @@ Though not required for this lesson, the following extra equipment can be used f
 
 ### Lecture Notes
 
+[Responsiveness Lecture Video](https://vimeo.com/290539286)
 [Responsiveness Slides Notes](https://docs.google.com/presentation/d/1Dd04BLD53DW9HhfK7iyAmnumrnaLyUA8HimJAjkzSrY)
 
 - What is responsiveness?
@@ -310,6 +314,8 @@ Though not required for this lesson, the following extra equipment can be used f
 * Why use MIDI and OSC instruments / controllers for live performance?
 
 ### Demonstrations
+
+[Responsiveness Demonstration Video](https://vimeo.com/290573189)
 
 For these demonstration, begin from using the modified 'Simple Player' template project from the previous lesson.
 

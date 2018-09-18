@@ -27,6 +27,12 @@ Finally the result is sent to a place where it can be viewed, output to a screen
 
 One of the most powerful aspects of working with “live” video is the ability to experiment with the addition of live-camera feeds into your project. Consider how the live presence of your face/body influences the meaning of your imagery. You are now part of the subject matter, so consider your relationship to the pre-existing forms.
 
+### Videos and Slides
+
+[Input to Output Lecture Video](https://vimeo.com/289316023)
+[Input to Output Lecture Slides](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
+[Input to Output Demonstration Video](https://vimeo.com/289319159)
+
 ### Lesson Overview
 
 What are visuals? A historical context.
@@ -49,8 +55,6 @@ Outputs
 * Color calibration
 
 ### Lecture Notes
-
-[Input to Output Lecture Slides](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
 
 - What are visuals? A historical context.
 - - Theater
@@ -123,6 +127,12 @@ The presence of real-time effects and audio-responsive imagery increases the syn
 
 This week, we will explore interactive concepts that extend the moving image beyond the timeline to real-time interactive expression, using data mappings from physical interfaces such as keyboards, MIDI, OSC and DMX lighting boards.
 
+### Videos and Slides
+
+[Responsiveness Lecture Video](https://vimeo.com/290539286)
+[Responsiveness Lecture Slides](https://docs.google.com/presentation/d/1Dd04BLD53DW9HhfK7iyAmnumrnaLyUA8HimJAjkzSrY)
+[Responsiveness Demonstration Video](https://vimeo.com/290573189)
+
 ### Lesson Overview
 
 * What is responsiveness?
@@ -145,8 +155,6 @@ This week, we will explore interactive concepts that extend the moving image bey
 * * Control from webpage
 
 ### Lecture Notes
-
-[Responsiveness Lecture Slides](https://docs.google.com/presentation/d/1Dd04BLD53DW9HhfK7iyAmnumrnaLyUA8HimJAjkzSrY)
 
 - What is responsiveness?
 - What is a cybernetic artform?
@@ -179,6 +187,7 @@ This week, we will explore interactive concepts that extend the moving image bey
 * [The ECLECTIC METHOD REMIX, Part Two - Jamming](https://vdmx.vidvox.net/tutorials/the-eclectic-method-remix-part-two-jamming)
 * [PZYK SKAN – EEG Controlled Sound and Visuals](https://vdmx.vidvox.net/blog/pzyk-skan-eeg-controlled-visuals)
 * [FaceOSC](https://vimeo.com/26098366)
+* [Making custom Face Tracking FX in Quartz Composer](https://vdmx.vidvox.net/tutorials/making-face-tracking-fx-for-vdmx-with-quartz-composer)
 
 ### Homework
 

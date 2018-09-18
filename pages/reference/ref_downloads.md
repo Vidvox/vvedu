@@ -15,10 +15,14 @@ folder: reference
 - Input to Output:
 - - [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/M1-L1.zip)
 - - [Syphon Test apps](https://github.com/Syphon/Simple/releases/latest)
+- - [Input to Output Lecture Video](https://vimeo.com/289316023)
 [Input to Output Lecture Slides](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
+- - [Input to Output Demonstration Video](https://vimeo.com/289319159)
 - Responsiveness:
 - - [Sample project](https://s3.amazonaws.com/vidvox/vvedu/M1-L2.zip)
+- - [Responsiveness Lecture Video](https://vimeo.com/290539286)
 - - [Responsiveness Lecture Slides](https://docs.google.com/presentation/d/1Dd04BLD53DW9HhfK7iyAmnumrnaLyUA8HimJAjkzSrY)
+- - [Responsiveness Demonstration Video](https://vimeo.com/290573189)
 2. **Introduction to Montage**: [Handout](/vvedu/handout_module_2.html) / [Lesson Plans](/vvedu/teaching_module_2.html)
 - The Cut:
 - - [Kuleshov Example Clips](https://s3.amazonaws.com/vidvox/vvedu/M2-L1.zip)
