@@ -34,6 +34,7 @@ One of the most powerful aspects of working with “live” video is the ability
 * What is a video signal?
 * What are the different types of media files for live visuals?
 * What is a video codec?
+* What is video videoinstrumentalism?
 
 * Inputs / Sources in VDMX
 * * Pre-rendered files
@@ -80,6 +81,8 @@ Though not required for this lesson, the following extra equipment can be used f
 
 ### Lecture Notes
 
+[Input to Output Lecture Slides](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
+
 - What are visuals? A historical context.
 - - Theater
 - - Light projections
@@ -98,6 +101,7 @@ Though not required for this lesson, the following extra equipment can be used f
 - Video generators
 - - Analog synthesizers
 - - Digital video synthesizers: Using code to create interactive imagery
+- What is video videoinstrumentalism?
 
 ### Discussions
 
@@ -259,7 +263,9 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Lesson Overview
 
-* What are audio / sound inputs?
+* What is responsiveness?
+* What is a cybernetic artform?
+* What are physical and sensory inputs?
 * What are MIDI, DMX and OSC? In what ways are they different?
 
 * Add audio reactivity to FX and layer parameters
@@ -283,14 +289,20 @@ Though not required for this lesson, the following extra equipment can be used f
 
 ### Lecture Notes
 
-- What are audio / sound inputs?
+[Responsiveness Slides Notes](https://docs.google.com/presentation/d/1Dd04BLD53DW9HhfK7iyAmnumrnaLyUA8HimJAjkzSrY)
+
+- What is responsiveness?
+- What is a cybernetic artform?
+- What physical interfaces are used to “perform” with computers / machines?
 - What are MIDI, DMX and OSC? In what ways are they different?
 - - What is MIDI?
 - - What is DMX?
 - - What is OSC?
 - - A comparison of MIDI / DMX / OSC
 - - Choosing a MIDI / DMX / OSC controller
-- What is video videoinstrumentalism?
+- What are sensory inputs?
+- - Sound
+- - Visual
 
 ### Discussions
 

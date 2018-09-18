@@ -15,8 +15,10 @@ folder: reference
 - Input to Output:
 - - [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/M1-L1.zip)
 - - [Syphon Test apps](https://github.com/Syphon/Simple/releases/latest)
+[Input to Output Lecture Slides](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
 - Responsiveness:
 - - [Sample project](https://s3.amazonaws.com/vidvox/vvedu/M1-L2.zip)
+- - [Responsiveness Lecture Slides](https://docs.google.com/presentation/d/1Dd04BLD53DW9HhfK7iyAmnumrnaLyUA8HimJAjkzSrY)
 2. **Introduction to Montage**: [Handout](/vvedu/handout_module_2.html) / [Lesson Plans](/vvedu/teaching_module_2.html)
 - The Cut:
 - - [Kuleshov Example Clips](https://s3.amazonaws.com/vidvox/vvedu/M2-L1.zip)
@@ -46,7 +48,7 @@ folder: reference
 - - [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
 6. **Show and Event Production**: [Handout](/vvedu/handout_module_6.html) / [Lesson Plans](/vvedu/teaching_module_6.html)
 - Pre-Production and Show Design:
-- - Timecode Example Project
+- - [Timecode Example Project](https://s3.amazonaws.com/vidvox/vvedu/M6-L1.zip)
 - - LTC audio test file (create your own online, [http://elteesee.pehrhovey.net/](http://elteesee.pehrhovey.net/))
 - - Software to receive LTC (such as [LockStep](https://figure53.com/lockstep/))
 - - Software to receive MTC (such as [TimecodeDisplay](http://figure53.com/downloads/TimecodeDisplay.zip))

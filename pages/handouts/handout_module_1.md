@@ -50,7 +50,7 @@ Outputs
 
 ### Lecture Notes
 
-[Input to Output Lecture Notes](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
+[Input to Output Lecture Slides](https://docs.google.com/presentation/d/12Arx326oMkRXVu9xjnftlviyvkbhXMy1qJ31yW3yVuc)
 
 - What are visuals? A historical context.
 - - Theater
@@ -67,6 +67,7 @@ Outputs
 - What is a media codec?
 - - How do image / video codecs work?
 - - What image / video codecs are commonly used today?
+- What is video videoinstrumentalism?
 
 ### Reference Links
 
@@ -124,8 +125,11 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Lesson Overview
 
-* What are audio / sound inputs?
+* What is responsiveness?
+* What is a cybernetic artform?
+* What are physical and sensory inputs?
 * What are MIDI, DMX and OSC? In what ways are they different?
+
 * Using MIDI and OSC instruments / controllers
 * Using the Control Surface plugin to create a virtual instrument
 
@@ -142,19 +146,28 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Lecture Notes
 
-- What are audio / sound inputs?
+[Responsiveness Lecture Slides](https://docs.google.com/presentation/d/1Dd04BLD53DW9HhfK7iyAmnumrnaLyUA8HimJAjkzSrY)
+
+- What is responsiveness?
+- What is a cybernetic artform?
+- What physical interfaces are used to “perform” with computers / machines?
 - What are MIDI, DMX and OSC? In what ways are they different?
 - - What is MIDI?
 - - What is DMX?
 - - What is OSC?
 - - A comparison of MIDI / DMX / OSC
 - - Choosing a MIDI / DMX / OSC controller
-- What is video videoinstrumentalism?
+- What are sensory inputs?
+- - Sound
+- - Visual
 
 ### Reference Links
 
 * [Sample project](https://s3.amazonaws.com/vidvox/vvedu/M1-L2.zip)
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
+* [Facetracker](http://facetracker.net/) / [FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases)
+* [TouchOSC](https://hexler.net/software/touchosc)
+* [Lemur](https://liine.net/en/products/lemur/)
 * [MIDI Controllers discussion thread on forums](https://discourse.vidvox.net/t/favorite-midi-controller-thread/46/1)
 
 ### Related Tutorials and Case Studies
@@ -165,6 +178,7 @@ This week, we will explore interactive concepts that extend the moving image bey
 * [Using game controllers in VDMX](https://vdmx.vidvox.net/tutorials/using-video-game-controllers-with-vdmx)
 * [The ECLECTIC METHOD REMIX, Part Two - Jamming](https://vdmx.vidvox.net/tutorials/the-eclectic-method-remix-part-two-jamming)
 * [PZYK SKAN – EEG Controlled Sound and Visuals](https://vdmx.vidvox.net/blog/pzyk-skan-eeg-controlled-visuals)
+* [FaceOSC](https://vimeo.com/26098366)
 
 ### Homework
 
