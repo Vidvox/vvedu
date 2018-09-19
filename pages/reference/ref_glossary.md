@@ -65,11 +65,11 @@ File formats are the wrappers for different types of digital documents used by c
 
 **Audio/Video Digitizers**: These devices can be used to connect various kinds of analog and digital audio/video cables to software running on a computer, making it possible to record, process, mix and re-output the signals.
 
-**Lighting Console**: 
+**Lighting Console**: *"A lighting control console (also called a lightboard, lighting board, or lighting desk) is an electronic device used in theatrical lighting design to control multiple lights at once. They are used throughout the entertainment industry and are normally placed at the Front of House (FOH) position or in a control booth."* - [Wikipedia](https://en.wikipedia.org/wiki/Lighting_control_console)
 
-**MIDI Instrument / Controller**: 
+**MIDI Instrument / Controller**: *"MIDI was invented so that electronic or digital musical instruments could communicate with each other and so that one instrument can control another. For example, a MIDI-compatible sequencer can trigger beats produced by a drum sound module. Analog synthesizers that have no digital component and were built prior to MIDI's development can be retrofit with kits that convert MIDI messages into analog control voltages. When a note is played on a MIDI instrument, it generates a digital signal that can be used to trigger a note on another instrument. The capability for remote control allows full-sized instruments to be replaced with smaller sound modules, and allows musicians to combine instruments to achieve a fuller sound, or to create combinations of synthesized instrument sounds, such as acoustic piano and strings. MIDI also enables other instrument parameters (volume, effects, etc.) to be controlled remotely."* – [Wikipedia](https://en.wikipedia.org/wiki/MIDI#Instrument_control)
 
-**Tablet Computer**: 
+**Tablet Computer**: *"A tablet computer, commonly shortened to tablet, is a mobile device, typically with a mobile operating system and LCD touchscreen display processing circuitry, and a rechargeable battery in a single thin, flat package. Tablets, being computers, do what other personal computers do, but lack some I/O capabilities that others have. Modern tablets largely resemble modern smartphones, the only differences being that tablets are relatively larger than smartphones, with screens 7 inches (18 cm) or larger, measured diagonally, and may not support access to a cellular network."* – [Wikipedia](https://en.wikipedia.org/wiki/Tablet_computer)
 
 ### Protocols
 
@@ -89,4 +89,4 @@ Protocols are used to pass information such as audio, video and control data fro
 
 *This simple yet powerful protocol provides everything needed for real-time control of sound and other media processing while remaining flexible and easy to implement."* - [http://opensoundcontrol.org/](http://opensoundcontrol.org/)
 
-**OSC Query**: An extension to OSC that adds the ability for applications to remotely browse and access parameters of other software.
+**OSCQuery**: An extension to OSC that adds the ability for applications to remotely browse and access parameters of other software. Read more on the [OSCQuery homepage](https://vdmx.vidvox.net/blog/oscquery).
