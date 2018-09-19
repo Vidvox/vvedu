@@ -191,4 +191,4 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Homework
 
-* Record 5 clips, using any single source type (eg live web-cam), with different sets of FX applied while using audio analysis, MIDI or OSC to control the parameters.
+* Record 5 short “gestures” as a single movie file, using any single source type (eg live web-cam), with different sets of FX applied while using audio analysis, MIDI or OSC to control the parameters. Each gesture should be no longer than 4-16 seconds in length with a short pause (“rest”) in between each section.
