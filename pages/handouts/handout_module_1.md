@@ -180,6 +180,7 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Related Tutorials and Case Studies
 
+* [Creating slider presets](https://vdmx.vidvox.net/tutorials/creating-slider-presets)
 * [4 Layer Korg nanoKontrol Template](https://vdmx.vidvox.net/tutorials/4-layer-korg-nanokontrol2-template)
 * [Enabling MIDI and OSC Echo Mode](https://vdmx.vidvox.net/tutorials/using-echo-mode-for-easy-setup-midi-and-osc-talkback-in-vdmx)
 [Setting up MIDI Bin sync with the APC20](https://vdmx.vidvox.net/tutorials/setting-up-media-bin-ui-sync-with-the-apc20-apc40)

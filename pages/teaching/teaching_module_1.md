@@ -414,6 +414,17 @@ Other OSC demo tips:
 - Adjust UI items in the VDMX control surface and observe that they change in the browser
 - Optional: Have students open the link on their smart phones, tablets, or desktop computers and let them remote control the output. Another suggestion is to have a tablet or smart phone already loaded with this page to pass around.
 
+#### Slider Presets
+1. Click on a slider that is connected to an FX parameter to inspect it
+- Switch to the 'Presets' tab of the UI Inspector
+- Add a preset that set the slider to manual control
+- - Use the sub-inspector to configure preset properties, such as whether or not the value gets restored.
+- Configure the slider to receive from a data-source
+- Add another preset for the receiving state
+2. Switching presets
+- Demonstrate clicking on buttons in slider UI to switch presets
+- Use the UI Inspector > Presets tab to detect shortcuts (key / MIDI / OSC) to switch presets
+
 ### Exercises
 
 #### Audio Analysis
@@ -444,3 +455,7 @@ Other OSC demo tips:
 - Link controls to FX-chains and other parameters
 - Use audio, MIDI, OSC and keyboard data-sources to drive UI elements in the Control Surface plugin
 - Use the 'Section Presets' in the Control Surface plugin to save and load UI element collections and routings
+
+#### Slider Presets
+- Configure FX parameter sliders to have 2 or more presets
+- Assign shortcuts (key / MIDI / OSC) for changing between slider presets
