@@ -44,7 +44,7 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 ### Special Equipment
 
 Required:
-- Kuleshov Sample Clips and Project
+- [Kuleshov Example Clips](https://s3.amazonaws.com/vidvox/vvedu/M2-L1.zip)
 - [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
 Recommended:
@@ -52,19 +52,21 @@ Recommended:
 
 ### Lecture Notes
 
+- [The Cut Lecture Video](https://vimeo.com/291593254)
+- [The Cut Lecture Slides](https://docs.google.com/presentation/d/1brbWwWiMFxLv5Jot7NzHLRbHtLZAw7vRfcY_qu-lIcE/)
+
 - Introduction to Montage
 - - [What is montage?](https://en.wikipedia.org/wiki/Montage_(filmmaking))
 - - [Soviet montage theory](https://en.wikipedia.org/wiki/Soviet_montage_theory)
 - The Kuleshov Effect
 - - What is The Kuleshov Effect?
 - - Original Kuleshov Effect video
-- - Hitchcock on The Kuleshov Effect
-- - Ed Wood on making a movie from b-roll
+- - [Hitchcock on The Kuleshov Effect](https://www.youtube.com/watch?v=TNVf1N34-io)
+- - [Ed Wood on making a movie from b-roll](https://www.youtube.com/watch?v=AZ27yxX_CGM&feature=youtu.be&t=59s)
 - The Shot and the Language of Film
 - - What is the learned Language of Film?
-- - What are some common types of shots in film / video?
-- - - Establishing shot
-- - - Long shot, medium shot, close up, extreme close up
+- - [What are some common types of shots in film / video?](https://www.bhphotovideo.com/explora/video/tips-and-solutions/filmmaking-101-camera-shot-types)
+- - - Long shot, medium shot, close up, extreme close up, etc
 
 ### Discussions
 
@@ -179,6 +181,8 @@ Recommended:
 ### Discussions
 
 ### Demonstrations
+
+- [The Cut Demonstration Video](https://vimeo.com/291746109)
 
 #### Basic Regular rhythm
 

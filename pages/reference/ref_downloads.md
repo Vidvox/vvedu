@@ -26,6 +26,9 @@ folder: reference
 2. **Introduction to Montage**: [Handout](/vvedu/handout_module_2.html) / [Lesson Plans](/vvedu/teaching_module_2.html)
 - The Cut:
 - - [Kuleshov Example Clips](https://s3.amazonaws.com/vidvox/vvedu/M2-L1.zip)
+- - [The Cut Lecture Video](https://vimeo.com/291593254)
+- - [The Cut Lecture Slides](https://docs.google.com/presentation/d/1brbWwWiMFxLv5Jot7NzHLRbHtLZAw7vRfcY_qu-lIcE/)
+- - [The Cut Demonstration Video](https://vimeo.com/291746109)
 - Rhythmic Sequence:
 - - [Rhythmic Sequence Example](https://s3.amazonaws.com/vidvox/vvedu/M2-L2.zip)
 - Cinéma Pur:

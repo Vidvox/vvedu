@@ -19,12 +19,17 @@ A central technique of VJ’ing is the remix, a collection of cuts. In cinema, w
 
 In our first module, Montage, you will learn a range of basic editing and layering principles, developing their timing skills as they develop sensitivity to successiveness, temporal order, and simultaneity. These will be used to contrast clock-time with subjective time, duration, temporal continuity, the feelings of anticipation and expectation, and the shifting of temporal perspectives as it relates to content.
 
-
 ## Lesson 1: The Cut
 
 One of the oldest examples of montage editing is called the “Kuleshov Effect.” This experiment demonstrated cinema’s unique capacity as an art form to conjure emotional reactions from the relationship between indexical images. 
 
 You will use this cornerstone of editing as your first VJ’ing exercise, eliciting different responses and correlations by strategically ordering content. Finally, you will experiment with different ‘soundtracks’ to greater influence emotion and meaning.
+
+### Videos and Slides
+
+* [The Cut Lecture Video](https://vimeo.com/291593254)
+* [The Cut Lecture Slides](https://docs.google.com/presentation/d/1brbWwWiMFxLv5Jot7NzHLRbHtLZAw7vRfcY_qu-lIcE/)
+* [The Cut Demonstration Video](https://vimeo.com/291746109)
 
 ### Lesson Overview
 
@@ -58,6 +63,8 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 
 * [The Kuleshov Effect](https://en.wikipedia.org/wiki/Kuleshov_effect)
 * [Hitchcock explains montage and Kuleshov](https://www.youtube.com/watch?v=NG0V7EVFZt4)
+* [Ed Wood on making a movie from stock footage](https://www.youtube.com/watch?v=AZ27yxX_CGM&feature=youtu.be&t=59s)
+* [Filmmaking 101: Camera Shot Types](https://www.bhphotovideo.com/explora/video/tips-and-solutions/filmmaking-101-camera-shot-types)
 
 ### Resources
 
@@ -68,6 +75,7 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 
 ### Related Tutorials and Case Studies
 
+* [KuleshovBot](https://twitter.com/kuleshovbot)
 * [Using the Simple Player template](https://vdmx.vidvox.net/tutorials/using-the-simple-player-template)
 * [Case study: The ECLECTIC METHOD REMIX, Part One - Making Loops](https://vdmx.vidvox.net/tutorials/the-eclectic-method-remix-part-one-making-loops)
 
