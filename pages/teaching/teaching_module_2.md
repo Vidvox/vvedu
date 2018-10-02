@@ -74,6 +74,8 @@ Recommended:
 
 ### Demonstrations
 
+- [The Cut Demonstration Video](https://vimeo.com/291746109)
+
 #### Using the Kuleshov example project
 1. Open the Kuleshov example project
 - Relink media files using automatic or manual relinking
@@ -151,7 +153,7 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 ### Special Equipment
 
 Required:
-- The Rhythmic Sequence Sample Clips and Project
+- [Rhythmic Sequence Example](https://s3.amazonaws.com/vidvox/vvedu/M2-L2.zip)
 - [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
 Recommended:
@@ -159,9 +161,12 @@ Recommended:
 
 ### Lecture Notes
 
+- [Rhythmic Sequence Lecture Video](https://vimeo.com/292973511)
+- [Rhythmic Sequence Lecture Slides](https://docs.google.com/presentation/d/1aHhi-ZmS8uyZP6Q-Jfn0WfHPjHoJOnXZ3EED9ueLoDQ/edit?usp=sharing)
+
 - [Continuity editing](https://en.wikipedia.org/wiki/Continuity_editing)
-- - Diegetic sound
-- - Match on action
+- - [Diegetic sound](http://www.filmsound.org/terminology/diegetic.htm)
+- - [Match on action](https://www.youtube.com/results?search_query=Match+on+action)
 - - Cutting on action
 - - Shot / reverse shot
 - - [The 30 degree rule](https://en.wikipedia.org/wiki/30-degree_rule)
@@ -182,7 +187,7 @@ Recommended:
 
 ### Demonstrations
 
-- [The Cut Demonstration Video](https://vimeo.com/291746109)
+- [Rhythmic Sequence Demonstration Video](https://vimeo.com/293019326)
 
 #### Basic Regular rhythm
 

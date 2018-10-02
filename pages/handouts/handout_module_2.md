@@ -106,6 +106,12 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 * Progressive rhythm: The duration of images are changed over a progression, getting faster towards the end (2 sec, 1 sec, ½ sec, and so on)
 * Flowing (organic) rhythm: Occurs when the images or intervals are organic, used to create a feeling of visual polyphony. Think VJ’ing to wind chimes.
 
+### Videos and Slides
+
+* [Rhythmic Sequence Lecture Video](https://vimeo.com/292973511)
+* [Rhythmic Sequence Lecture Slides](https://docs.google.com/presentation/d/1aHhi-ZmS8uyZP6Q-Jfn0WfHPjHoJOnXZ3EED9ueLoDQ/edit?usp=sharing)
+* [Rhythmic Sequence Demonstration Video](https://vimeo.com/293019326)
+
 ### Lesson Overview
 
 * Sequencing content using Media Bins, Layer Controls, and Data Sources
@@ -151,7 +157,7 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 
 ### Resources
 
-* [Rhythmic Sequence Example](https://s3.amazonaws.com/vidvox/vvedu/M2-L2.zip)
+* [Rhythmic Sequence VDMX Example](https://s3.amazonaws.com/vidvox/vvedu/M2-L2.zip)
 * [Freesound.org](Freesound.org)
 * [YouTube Royalty Free Library](https://www.youtube.com/audiolibrary/music)
 Sample template for sequencing clips

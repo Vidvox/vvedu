@@ -31,6 +31,9 @@ folder: reference
 - - [The Cut Demonstration Video](https://vimeo.com/291746109)
 - Rhythmic Sequence:
 - - [Rhythmic Sequence Example](https://s3.amazonaws.com/vidvox/vvedu/M2-L2.zip)
+- - [Rhythmic Sequence Lecture Video](https://vimeo.com/292973511)
+- - [Rhythmic Sequence Lecture Slides](https://docs.google.com/presentation/d/1aHhi-ZmS8uyZP6Q-Jfn0WfHPjHoJOnXZ3EED9ueLoDQ/edit?usp=sharing)
+- - [Rhythmic Sequence Demonstration Video](https://vimeo.com/293019326)
 - Cinéma Pur:
 - - [Luma Key Mixer and Example Media](https://s3.amazonaws.com/vidvox/vvedu/M2-L3.zip)
 3. **Introduction to Motion Design**: [Handout](/vvedu/handout_module_3.html) / [Lesson Plans](/vvedu/teaching_module_3.html)
