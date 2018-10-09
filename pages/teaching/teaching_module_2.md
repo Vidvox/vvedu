@@ -316,6 +316,9 @@ Required:
 
 ### Lecture Notes
 
+- [Cinéma Pur Lecture Video](https://vimeo.com/294225836)
+- [Cinéma Pur Lecture Slides](https://docs.google.com/presentation/d/1Xe8NnDK_yzSSNny8tI4A9mlO0peNlK1aakyCchoZeDU/)
+
 - [Cinéma Pur](https://en.wikipedia.org/wiki/Cin%C3%A9ma_pur)
 - - Story/Narrative Reduction
 - - Dziga Vertov, Man with a Movie opening shot
@@ -329,16 +332,20 @@ Required:
 - Introduction to Composition
 - - Mixing
 - - Fading
-- - [Mattes](https://en.wikipedia.org/wiki/Matte_(filmmaking))
 - - Additive vs Overlay
 - - Transparency / Alpha channels
 - - Masking
+- - - Luma Key (brightness)
+- - - Chroma Key (color)
+- - [Mattes](https://en.wikipedia.org/wiki/Matte_(filmmaking))
 
 ### Discussions
 
-* 
+* What are some of your favorite examples of usage of stop motion, slow motion, sped up, timelapse, etc?
 
 ### Demonstrations
+
+- [Layer Composition Basics Demonstration](https://vimeo.com/294220015)
 
 #### Two-Channel Mixer
 Steps using templates,
@@ -440,15 +447,6 @@ Steps starting from new project,
 - - - Use 'Show Alpha' to preview the alpha stream
 - - - Try using 'Hard Cutoff' when dealing with noisy footage
 - - - Dilate and blur options can be used to tweak edges
-
-* Create three montage sequences using the provided video clips 
-* * Layer Opacity
-* * Additive Mode
-* * Layer Mask
-* Record edits with provided audio samples
-
-* Using longer clips as a backing track and mixing in elements over it.
-* Using clips with high motion vs slow motion, motion in different directions.
 
 ### Exercises
 

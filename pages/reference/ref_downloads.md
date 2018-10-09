@@ -36,6 +36,9 @@ folder: reference
 - - [Rhythmic Sequence Demonstration Video](https://vimeo.com/293019326)
 - Cinéma Pur:
 - - [Luma Key Mixer and Example Media](https://s3.amazonaws.com/vidvox/vvedu/M2-L3.zip)
+- - [Cinéma Pur Lecture Video](https://vimeo.com/294225836)
+- - [Cinéma Pur Lecture Slides](https://docs.google.com/presentation/d/1Xe8NnDK_yzSSNny8tI4A9mlO0peNlK1aakyCchoZeDU/)
+- - [Layer Composition Basics Demonstration](https://vimeo.com/294220015)
 3. **Introduction to Motion Design**: [Handout](/vvedu/handout_module_3.html) / [Lesson Plans](/vvedu/teaching_module_3.html)
 - Stills to Motion:
 - - [Motion Design Play](https://s3.amazonaws.com/vidvox/vvedu/M3-L1.zip)

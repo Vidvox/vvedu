@@ -186,6 +186,12 @@ The [Cinéma Pur](https://en.wikipedia.org/wiki/Cin%C3%A9ma_pur) movement was to
 
 For this exercise, you will experiment with the layering of indexical material to create new visual associations and meanings using a select range of optical effects. Experiment superimposing contrasting imagery — abstract and realistic, light and dark, graphic and photographic, fast and slow, human and machine. Be prepared to discuss the emergence of this third image with a statement of intent.
 
+### Videos and Slides
+
+* [Cinéma Pur Lecture Video](https://vimeo.com/294225836)
+* [Cinéma Pur Lecture Slides](https://docs.google.com/presentation/d/1Xe8NnDK_yzSSNny8tI4A9mlO0peNlK1aakyCchoZeDU/)
+* [Layer Composition Basics Demonstration](https://vimeo.com/294220015)
+
 ### Lesson Overview
 
 * Two-Channel Mixer
@@ -220,10 +226,12 @@ For this exercise, you will experiment with the layering of indexical material t
 - Introduction to Composition
 - - Mixing
 - - Fading
-- - [Mattes](https://en.wikipedia.org/wiki/Matte_(filmmaking))
 - - Additive vs Overlay
 - - Transparency / Alpha channels
 - - Masking
+- - - Luma Key (brightness)
+- - - Chroma Key (color)
+- - [Mattes](https://en.wikipedia.org/wiki/Matte_(filmmaking))
 
 ### Reference Links
 
@@ -231,7 +239,9 @@ For this exercise, you will experiment with the layering of indexical material t
 * [Man With A Movie Camera](https://www.youtube.com/watch?v=z97Pa0ICpn8)
 * [Five wonderful effects in Man with a Movie Camera](https://www.bfi.org.uk/news-opinion/news-bfi/features/five-wonderful-effects-man-movie-camera)
 * [‘Recent Arts’ from Valentina Berthelon and Tobias Freund](https://www.xlr8r.com/reviews/tobias-freund-valentina-berthelon-recent-arts)
-* [HERMAN KOLGEN / SEISMIK](https://vdmx.vidvox.net/blog/herman-kolgen-seismik)
+* [Entr'acte (René Clair, 1924): Opening scene](https://www.youtube.com/watch?v=lV7IK50TcCI)
+* [L'Etoile de Mer (Man Ray, 1928)](https://www.youtube.com/watch?v=CLgp5nKCFNg)
+* [What is a Matte painting?](https://www.youtube.com/watch?v=AI4ukxnv378)
 
 ### Resources
 
@@ -239,6 +249,7 @@ For this exercise, you will experiment with the layering of indexical material t
 
 ### Related Tutorials and Case Studies
 
+* [HERMAN KOLGEN / SEISMIK](https://vdmx.vidvox.net/blog/herman-kolgen-seismik)
 * [Luma Key Techniques for Layer Composition](https://vdmx.vidvox.net/tutorials/masking-techniques-for-layer-composition)
 * [The Layer Mask FX](https://vdmx.vidvox.net/tutorials/applying-a-mask-to-a-layer)
 * [Chroma Key Basics](https://vdmx.vidvox.net/tutorials/chromakey-basics)
@@ -252,3 +263,5 @@ For this exercise, you will experiment with the layering of indexical material t
 * * Layer Opacity
 * * Layer Mode (Add, et al)
 * * Layer Mask (still or moving)
+* Using longer clips as a backing track and mixing in elements over it.
+* Using clips with high motion vs slow motion, motion in different directions.
