@@ -52,6 +52,9 @@ Required:
 
 ### Lecture Notes
 
+- [Stills To Motion Lecture Video](https://vimeo.com/295228229)
+- [Stills To Motion Lecture Slides](https://docs.google.com/presentation/d/16zkw1_xCrl2uQbStT3nbwuHxTOZ7FfQHrpaMm7UuIlc)
+
 - Introduction to Gestalt principles
 - - What is the “unified whole”?
 - - - Visual perception and grouping
@@ -71,7 +74,11 @@ Required:
 
 ### Discussions
 
+- What are some examples of Gestalt Principles in the wild, such as company logos, iconography, and elsewhere in the world of design?
+
 ### Demonstrations
+
+- [Stills To Motion Demonstration Video](https://vimeo.com/295263632)
 
 #### Animating basic shapes
 1. Load the Simple Player template as a starting point

@@ -42,6 +42,10 @@ folder: reference
 3. **Introduction to Motion Design**: [Handout](/vvedu/handout_module_3.html) / [Lesson Plans](/vvedu/teaching_module_3.html)
 - Stills to Motion:
 - - [Motion Design Play](https://s3.amazonaws.com/vidvox/vvedu/M3-L1.zip)
+- - [Stills To Motion Lecture Video](https://vimeo.com/295228229)
+- - [Stills To Motion Lecture Slides](https://docs.google.com/presentation/d/16zkw1_xCrl2uQbStT3nbwuHxTOZ7FfQHrpaMm7UuIlc)
+- - [Stills To Motion Demonstration Video](https://vimeo.com/295263632)
+
 - Color and Choreography:
 - - [Motion Design Color Play](https://s3.amazonaws.com/vidvox/vvedu/M3-L2.zip)
 4. **Visual Music**: [Handout](/vvedu/handout_module_4.html) / [Lesson Plans](/vvedu/teaching_module_4.html)

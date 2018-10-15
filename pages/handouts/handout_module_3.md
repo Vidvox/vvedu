@@ -27,7 +27,13 @@ To begin our exploration into motion design, we will start by implementing some 
 
 According to the [laws of similarity and proximity](https://www.interaction-design.org/literature/article/the-law-of-similarity-gestalt-principles-1), our brains find pattern and unity when objects look similar to one another and are arranged closely together. So we will begin by evenly spacing and pacing three layers of the same shape.
 
-We will then explore the [law of continuation](https://www.interaction-design.org/literature/article/laws-of-proximity-uniform-connectedness-and-continuation-gestalt-principles-2), by first applying the same linear movement to each shape, then by influencing its arc of motion in a relational way. 
+We will then explore the [law of continuation](https://www.interaction-design.org/literature/article/laws-of-proximity-uniform-connectedness-and-continuation-gestalt-principles-2), by first applying the same linear movement to each shape, then by influencing its arc of motion in a relational way.
+
+### Videos and Slides
+
+* [Stills To Motion Lecture Slides](https://docs.google.com/presentation/d/16zkw1_xCrl2uQbStT3nbwuHxTOZ7FfQHrpaMm7UuIlc)
+* [Stills To Motion Lecture Video](https://vimeo.com/295228229)
+* [Stills To Motion Demonstration Video](https://vimeo.com/295263632)
 
 ### Lesson Overview
 
