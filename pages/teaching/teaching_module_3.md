@@ -186,7 +186,7 @@ Required:
 
 ### Discussions
 
-- 
+- What are some of your favorite modern title sequences from movies / music videos?
 
 ### Demonstrations
 

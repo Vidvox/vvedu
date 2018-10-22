@@ -133,6 +133,7 @@ Finally, refine the timing of your final composition to music by syncing the mot
 * [Busby Berkeley clip](https://www.youtube.com/watch?v=kIO9y1xMPIA)
 * [The Dot and The Line](https://www.youtube.com/watch?v=hgqUya0kGPA)
 * [How Saul Bass Changed Film and TV Forever](https://www.wired.com/2016/10/design-legend-saul-bass-changed-film-tv-forever/)
+* [Saul Bass title sequence reel](https://www.youtube.com/watch?v=qqM3McG4-LE)
 * [Death Cab for Cutie - You Are A Tourist, Official Video](https://www.youtube.com/watch?v=qkk5wViJo-I)
 
 ### Resources

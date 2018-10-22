@@ -35,10 +35,6 @@ In the historical context of live performance, VJ’ing stems from the field of 
 
 The origin of the field is debatable. It is often referred to as the new fad in live performance, and there are pioneering projection designers who stake a claim on its emergence. However, history shows evidence of mutable images complementing music and storytelling long before the 1980’s.
 
-One of the first examples of projections in theater is from the 1920’s. German Director [Erwin Piscator](https://en.wikipedia.org/wiki/Erwin_Piscator) frequently used movie projectors to enhance his productions with the Berliner Ensemble. Set designer [Josef Svoboda](https://en.wikipedia.org/wiki/Josef_Svoboda)’s multimedia installations Laterna Magika and Polyekran introduced the combination of live dancers and filmed projections.
-
-Liquid light shows surfaced in the mid-1960’s and early 1970’s, with groups such as The [Joshua Light Show](http://www.joshualightshow.com/), accompanying performances of rock and psychedelic music. 
-
 [Moving panoramas from the eighteenth century](http://www.open.edu/openlearn/history-the-arts/visual-art/virtual-reality-19th-century-style-the-history-the-panorama-and-balloon-view) were contiguous views of passing scenery as if seen from a boat or a train window. Installed on immense spools, they were scrolled past the audience behind a cutout drop-scene or proscenium which hid the mechanism from public view. The moving panorama usually had a narrator, styled as its “Delineator” or “Professor,” who described the scenes as they passed and added to the drama of the events depicted. 
 
 In [Balinese shadow puppetry, or Wayang](https://en.wikipedia.org/wiki/Wayang), silhouettes of flat puppets dance behind translucent rice paper screen, backlit by flickering candles or a coconut husk oil lamp. Narrated by a priest, these stories communicate Bali's history, religious and spiritual teachings, poetry, and philosophy.
@@ -49,11 +45,17 @@ A major inflection point in the theatrical arts happened in 1895 with the introd
 
 As the motion picture gained popularity, the theater struggled to compete, even though early cinema modeled itself on theater. As Philip Auslander states in his book, [Liveness](https://www.amazon.com/Liveness-Performance-Mediatized-Philip-Auslander/dp/0415773539), “The narrative structures and visual devices of cinema, including the close-up and the fade-in/fade-out, and parallel editing, had all been fully developed on the stage before becoming the foundations of the new medium’s language.” 
 
+One of the first examples of projections in theater is from the 1920’s. German Director [Erwin Piscator](https://en.wikipedia.org/wiki/Erwin_Piscator) frequently used movie projectors to enhance his productions with the Berliner Ensemble. Set designer [Josef Svoboda](https://en.wikipedia.org/wiki/Josef_Svoboda)’s multimedia installations Laterna Magika and Polyekran introduced the combination of live dancers and filmed projections.
+
+Liquid light shows surfaced in the mid-1960’s and early 1970’s, with groups such as The [Joshua Light Show](http://www.joshualightshow.com/), accompanying performances of rock and psychedelic music.
+
+In 1951 the first video tape recorder captured live images from television cameras by converting the camera's electrical impulses and saving the information onto magnetic video tape. One of the founders of the video art movement, [Nam June Paik](https://en.wikipedia.org/wiki/Nam_June_Paik), used early video recorders and started to hack the electron tubes on televisions in the early 60's. Around the same time other artists like Lillian Schwartz, Steina and Woody Vasulka and Dave Jones worked out of places like Bell Labs and the Experimental Television Center to do things with video signals and early computers outside of the mainstream.
+
 In film, both the dialogue and the image are needed to perceive what is taking place. This makes communication more efficient. Film is denotative as a photographic, natural representation of places and characters and events. 
 
 [Three-point editing](https://wolfcrow.com/blog/what-is-three-point-editing-and-four-point-editing/) is easily accepted as an accurate way of experiencing time and events. One theory for why we accept this odd, non-linear way of storytelling is that even though we experience time linearly, we remember and dream in an edited way. We keep what is important, and discard what is less so. If you try to recall a day in your life, it’s likely you experience it in selected scenes, rather than a seamless playback.
 
-Projection design seems to take its theory from film more than theater or music. In this field, one assumes that film is everyone's first language. The perpetual challenge of live performance seems to be how to incorporate prevailing mediums into a live performance setting. If projection design is the aesthetic frontier in live performance, how we think about projection is changing audience perception.
+Projection design as a whole builds its theory from a combination of film and theater and music. In this visual field, one assumes that film is everyone's first language. The perpetual challenge of live performance seems to be how to incorporate prevailing mediums into a live performance setting. If projection design is the aesthetic frontier in live performance, how we think about projection is changing audience perception?
 
 
 ## Why do visuals matter? 
