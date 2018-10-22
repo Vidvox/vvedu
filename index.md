@@ -47,9 +47,9 @@ As the motion picture gained popularity, the theater struggled to compete, even 
 
 One of the first examples of projections in theater is from the 1920’s. German Director [Erwin Piscator](https://en.wikipedia.org/wiki/Erwin_Piscator) frequently used movie projectors to enhance his productions with the Berliner Ensemble. Set designer [Josef Svoboda](https://en.wikipedia.org/wiki/Josef_Svoboda)’s multimedia installations Laterna Magika and Polyekran introduced the combination of live dancers and filmed projections.
 
-Liquid light shows surfaced in the mid-1960’s and early 1970’s, with groups such as The [Joshua Light Show](http://www.joshualightshow.com/), accompanying performances of rock and psychedelic music.
-
 In 1951 the first video tape recorder captured live images from television cameras by converting the camera's electrical impulses and saving the information onto magnetic video tape. One of the founders of the video art movement, [Nam June Paik](https://en.wikipedia.org/wiki/Nam_June_Paik), used early video recorders and started to hack the electron tubes on televisions in the early 60's. Around the same time other artists like Lillian Schwartz, Steina and Woody Vasulka and Dave Jones worked out of places like Bell Labs and the Experimental Television Center to do things with video signals and early computers outside of the mainstream.
+
+Liquid light shows surfaced in the mid-1960’s and early 1970’s, with groups such as The [Joshua Light Show](http://www.joshualightshow.com/), accompanying performances of rock and psychedelic music.
 
 In film, both the dialogue and the image are needed to perceive what is taking place. This makes communication more efficient. Film is denotative as a photographic, natural representation of places and characters and events. 
 
