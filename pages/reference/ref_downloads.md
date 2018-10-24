@@ -49,6 +49,9 @@ folder: reference
 - - [Stills To Motion Demonstration Video](https://vimeo.com/295263632)
 - Color and Choreography:
 - - [Motion Design Color Play](https://s3.amazonaws.com/vidvox/vvedu/M3-L2.zip)
+- - [Color and Choreography Lecture Video](https://vimeo.com/296772620)
+- - [Color and Choreography Lecture Slides](https://docs.google.com/presentation/d/1MUXuQuX7H9lMkbyojrh3fhCq4EkcimED9G2H5fxZsb0/)
+- - [Color and Choreography Demonstration Video](https://vimeo.com/296780585)
 
 4. **Visual Music**: [Handout](/vvedu/handout_module_4.html) / [Lesson Plans](/vvedu/teaching_module_4.html)
 - Abstract Visualization / Color Organ:

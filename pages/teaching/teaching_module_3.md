@@ -174,6 +174,9 @@ Required:
 
 ### Lecture Notes
 
+- [Color and Choreography Lecture Video](https://vimeo.com/296772620)
+- [Color and Choreography Lecture Slides](https://docs.google.com/presentation/d/1MUXuQuX7H9lMkbyojrh3fhCq4EkcimED9G2H5fxZsb0/)
+
 - Introduction to Color
 - - [Additive color palette](https://en.wikipedia.org/wiki/Additive_color)
 - - [Subtractive color](https://en.wikipedia.org/wiki/Tertiary_color)
@@ -189,6 +192,8 @@ Required:
 - What are some of your favorite modern title sequences from movies / music videos?
 
 ### Demonstrations
+
+- [Color and Choreography Demonstration Video](https://vimeo.com/296780585)
 
 #### Animating shapes and colors using control plugins
 

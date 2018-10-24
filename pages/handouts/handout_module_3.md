@@ -101,6 +101,12 @@ We will then augment the color relationships by experimenting with layer modes (
 
 Finally, refine the timing of your final composition to music by syncing the motion to the clock (BPM), step sequencers, and/or the cue list for optimal control.
 
+### Videos and Slides
+
+* [Color and Choreography Lecture Video](https://vimeo.com/296772620)
+* [Color and Choreography Lecture Slides](https://docs.google.com/presentation/d/1MUXuQuX7H9lMkbyojrh3fhCq4EkcimED9G2H5fxZsb0/)
+* [Color and Choreography Demonstration Video](https://vimeo.com/296780585)
+
 ### Lesson Overview
 
 * Animating shapes using control plugins
@@ -135,6 +141,7 @@ Finally, refine the timing of your final composition to music by syncing the mot
 * [How Saul Bass Changed Film and TV Forever](https://www.wired.com/2016/10/design-legend-saul-bass-changed-film-tv-forever/)
 * [Saul Bass title sequence reel](https://www.youtube.com/watch?v=qqM3McG4-LE)
 * [Death Cab for Cutie - You Are A Tourist, Official Video](https://www.youtube.com/watch?v=qkk5wViJo-I)
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 
 ### Resources
 
@@ -144,6 +151,7 @@ Finally, refine the timing of your final composition to music by syncing the mot
 
 * [Step Sequencer Color Tracks](https://vdmx.vidvox.net/tutorials/step-sequencer-color-tracks)
 * [Mixing, Adjusting and Generating Complementary Color Data-Sources in VDMX](https://vdmx.vidvox.net/tutorials/generating-complementary-colors-in-vdmx-with-qc)
+* [Charles Atlas](https://vdmx.vidvox.net/blog/charles-atlas-tesseract)
 
 ### Homework
 
