@@ -55,6 +55,9 @@ folder: reference
 
 4. **Visual Music**: [Handout](/vvedu/handout_module_4.html) / [Lesson Plans](/vvedu/teaching_module_4.html)
 - Abstract Visualization / Color Organ:
+- - [Abstract Visualization / Color Organ Lecture Video](https://vimeo.com/298011493)
+- - [Color Organs Lecture Slides](https://docs.google.com/presentation/d/1CXTZIQMsFSYijJiDYXgIL2Lk0V4NThpMwxAFhXb1g00/)
+- - [Abstract Visualization / Color Organ Demonstration Video](https://vimeo.com/298017047)
 - - [Color Organ Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L1.zip)
 - - [SimpleSynth](http://notahat.com/simplesynth/) or comparable app
 - - [MIDI Monitor](https://www.snoize.com/MIDIMonitor/) or comparable app

@@ -23,6 +23,12 @@ The synaesthetic relationship between sound and vision continues to be explored 
 
 This week, we will create a shape-based color organ, creating and performing forms and colors that represent specific sounds using our inner synesthete. 
 
+### Videos and Slides
+
+* [Abstract Visualization / Color Organ Lecture Video](https://vimeo.com/298011493)
+* [Color Organs Lecture Slides](https://docs.google.com/presentation/d/1CXTZIQMsFSYijJiDYXgIL2Lk0V4NThpMwxAFhXb1g00/)
+* [Abstract Visualization / Color Organ Demonstration Video](https://vimeo.com/298017047)
+
 ### Lesson Overview
 
 * Triggering content with sound/MIDI impulse
