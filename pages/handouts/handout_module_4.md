@@ -74,6 +74,12 @@ This week, we will create a shape-based color organ, creating and performing for
 
 As discussed in Stills To Motion module, we are hardwired to find patterns in shapes that are similar and arranged closely together. In this module, we can explore pattern making as a synaesthetic device, influencing the frequency, amplitude and continuity of repetitive shapes and images to rhythmic effect.
 
+### Videos and Slides
+
+* [The Shape of Sound Lecture Video](https://vimeo.com/299289480)
+* [The Shape of Sound Lecture Slides](https://docs.google.com/presentation/d/1giyeLz_rahweklOKErqaniub83oKtCK51acqb7LU2qo/)
+* [The Shape of Sound Demonstration Video](https://vimeo.com/299322555)
+
 ### Lesson Overview
 
 * What is the shape of a sound?
@@ -101,10 +107,18 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 ### Reference Links
 
 * [Booba/Kiki](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
+* [Aphex Twin: Equation](https://www.youtube.com/watch?v=M9xMuPWAZW8)
+* [Rutt Etra synthesizer](https://www.youtube.com/watch?v=hdL7teOKdtg)
+* [Rutt Etra walk through](https://vimeo.com/98999296)
+* [Vasulkas: Transformations](https://youtu.be/gHy3DCpZM6o?t=10)
+* [The Wobbulator](https://vimeo.com/16906546)
+* [The Joshua Light Show: Fulldome](https://www.youtube.com/watch?v=6dD3tiJydIU)
+* [LZX Video Synthesizers](https://www.lzxindustries.net/)
 
 ### Resources
 
-* [Booba/Kiki Example ISF](https://s3.amazonaws.com/vidvox/vvedu/M4-L2.zip)
+* [VU Meter + Booba/Kiki Example ISF](https://s3.amazonaws.com/vidvox/vvedu/M4-L2.zip)
+* [ProjectMilkSyphon](https://vdmx.vidvox.net/blog/projectmilksyphon)
 
 ### Related Tutorials and Case Studies
 

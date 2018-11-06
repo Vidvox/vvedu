@@ -63,6 +63,10 @@ folder: reference
 - - [MIDI Monitor](https://www.snoize.com/MIDIMonitor/) or comparable app
 - Audio Visualizers and the Shape of Sounds:
 - - [Booba/Kiki Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L2.zip)
+- - [The Shape of Sound Lecture Video](https://vimeo.com/299289480)
+- - [The Shape of Sound Lecture Slides](https://docs.google.com/presentation/d/1giyeLz_rahweklOKErqaniub83oKtCK51acqb7LU2qo/)
+* [The Shape of Sound Demonstration Video](https://vimeo.com/299322555)
+
 - Generative Patterns:
 - - [Pattern Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L3.zip)
 

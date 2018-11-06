@@ -60,6 +60,8 @@ Required downloads:
 
 ### Discussions
 
+- 
+
 ### Demonstrations
 
 - [Abstract Visualization / Color Organ Demonstration Video](https://vimeo.com/298017047)
@@ -198,6 +200,7 @@ Required downloads:
 ### Special Equipment
 
 Required:
+- [VU Meter + Booba/Kiki Example ISF](https://s3.amazonaws.com/vidvox/vvedu/M4-L2.zip)
 - Example audio tracks, eg [YouTube Royalty Free Library](https://www.youtube.com/audiolibrary/music)
 - [Project Milk Syphon](https://docs.vidvox.net/freebies_project_milk_syphon.html)
 
@@ -205,6 +208,9 @@ Recommended:
 - [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
 ### Lecture Notes
+
+- [The Shape of Sound Lecture Video](https://vimeo.com/299289480)
+- [The Shape of Sound Lecture Slides](https://docs.google.com/presentation/d/1giyeLz_rahweklOKErqaniub83oKtCK51acqb7LU2qo/)
 
 - What is the shape of a sound?
 - - [Booba/Kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
@@ -215,10 +221,12 @@ Recommended:
 
 ### Discussions
 
-* How do we describe shapes?
-* Booba vs Kiki
+* How do we describe shapes? (what words do we use?)
+* Along the lines of Booba vs Kiki, are there particular shapes that you think correspond to different types of sounds or words?
 
 ### Demonstrations
+
+- [The Shape of Sound: Demonstration Video](https://vimeo.com/299322555)
 
 For the below demonstrations, begin by,
 1. Start from 'Simple Player' template
