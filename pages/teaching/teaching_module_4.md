@@ -326,12 +326,15 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 ### Special Equipment
 
 Required:
-- ISF pattern compositions
+- [ISF Pattern Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L3.zip)
 
 Recommended:
 - [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
 ### Lecture Notes
+
+- [Generative Patterns Lecture Video](https://vimeo.com/300620381)
+- [Generative Patterns Lecture Slides](https://docs.google.com/presentation/d/1XK6XZoEVUJylwANOwnqy4-Fsg_s24-IkM3v_DB3ljEs/)
 
 - [Patterns](https://en.wikipedia.org/wiki/Pattern)
 - - Properties of patterns
@@ -349,6 +352,11 @@ Recommended:
 - - Geometric patterns
 - - - Tiling
 - - - Visual motifs 
+- - - Kaleidoscope
+- - Music Patterns
+- - - Temporal
+- - - Harmonic
+- - - Melodic
 - Introduction to GLSL (optional)
 - - What are shaders?
 - - Why are they fast?
@@ -360,6 +368,8 @@ Recommended:
 * 
 
 ### Demonstrations
+
+- [Generative Patterns Demonstration Video](https://vimeo.com/300632634)
 
 #### Tile effects
 1. Start from the 'Simple Player' template

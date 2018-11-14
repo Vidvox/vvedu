@@ -133,6 +133,12 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 
 As discussed in Stills To Motion module, we are hardwired to find patterns in shapes that are similar and arranged closely together. In this module, we can explore pattern making as a synaesthetic device, influencing the frequency, amplitude and continuity of repetitive shapes and images to rhythmic effect.
 
+### Videos and Slides
+
+* [Generative Patterns Lecture Video](https://vimeo.com/300620381)
+* [Generative Patterns Lecture Slides](https://docs.google.com/presentation/d/1XK6XZoEVUJylwANOwnqy4-Fsg_s24-IkM3v_DB3ljEs/)
+* [Generative Patterns Demonstration Video](https://vimeo.com/300632634)
+
 ### Lesson Overview
 
 * Tile effects
@@ -178,7 +184,7 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 
 ### Resources
 
-* [Pattern Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L3.zip)
+* [ISF Pattern Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L3.zip)
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
 ### Related Tutorials and Case Studies
@@ -188,7 +194,7 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 
 ### Homework
 
-* Create and record three black and white shape-based sequences using variations of the Gestalt principles
-* * ~10 seconds without music
-* * ~10 seconds with music, adjusting timing for tempo
+* Create and record black and white or color patterns:
+* * four still image capture 
+* * two video sequences, about 10 seconds each
 

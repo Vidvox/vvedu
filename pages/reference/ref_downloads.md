@@ -65,10 +65,12 @@ folder: reference
 - - [Booba/Kiki Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L2.zip)
 - - [The Shape of Sound Lecture Video](https://vimeo.com/299289480)
 - - [The Shape of Sound Lecture Slides](https://docs.google.com/presentation/d/1giyeLz_rahweklOKErqaniub83oKtCK51acqb7LU2qo/)
-* [The Shape of Sound Demonstration Video](https://vimeo.com/299322555)
-
+- - [The Shape of Sound Demonstration Video](https://vimeo.com/299322555)
 - Generative Patterns:
 - - [Pattern Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L3.zip)
+- - [Generative Patterns Lecture Video](https://vimeo.com/300620381)
+- - [Generative Patterns Lecture Slides](https://docs.google.com/presentation/d/1XK6XZoEVUJylwANOwnqy4-Fsg_s24-IkM3v_DB3ljEs/)
+- - [Generative Patterns Demonstration Video](https://vimeo.com/300632634)
 
 5. **Aesthetic Overview**: [Handout](/vvedu/handout_module_5.html) / [Lesson Plans](/vvedu/teaching_module_5.html)
 - Styling Your Look:
