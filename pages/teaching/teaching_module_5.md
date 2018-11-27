@@ -45,6 +45,9 @@ Recommended:
 
 ### Lecture Notes
 
+- [Styling Your Look Lecture Video](https://vimeo.com/303160359)
+- [Styling Your Look Lecture Slides](https://docs.google.com/presentation/d/1m-juxqZ6y7FalY_8e5CY6V7S85p4JU2MwYMnTszMGvw/)
+
 - Aesthetic Overview
 - - Minimalism
 - - Retro
@@ -62,6 +65,8 @@ Recommended:
 * In what ways are DJing and VJing similar? What techniques crossover?
 
 ### Demonstrations
+
+- [Styling Your Look Demonstration Video](https://vimeo.com/303156297)
 
 #### Styling with LUTs and Color Effects
 
@@ -110,6 +115,9 @@ Note: Due to a GPU driver bug in 10.13, LUT based FX in VDMX may not work on som
 - Zooming Feedback
 2. Minimalism
 - Duotone (Using black or white and one color) / Triotone (Using black and white and one mid color)
+- Edge Detection
+- Invert / Strobe
+- Halftone (grayscale)
 3. Glitch
 - Bad TV
 - Collage

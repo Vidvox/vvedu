@@ -23,6 +23,12 @@ Regardless of treatment, consider how the aesthetics influence the mood and mean
 
 We should consider how effects and digital manipulation influences the interpretation of our imagery. They will have their own connotations and history. For instance, effects that simulate an old VHS tape or an analogue synth may tie it to a certain era, e.g., the “Stranger Things” opening title.
 
+### Videos and Slides
+
+* [Styling Your Look Lecture Video](https://vimeo.com/303160359)
+* [Styling Your Look Lecture Slides](https://docs.google.com/presentation/d/1m-juxqZ6y7FalY_8e5CY6V7S85p4JU2MwYMnTszMGvw/)
+* [Styling Your Look Demonstration Video](https://vimeo.com/303156297)
+
 ### Lesson Overview
 
 * Aesthetic Overview
@@ -48,21 +54,28 @@ We should consider how effects and digital manipulation influences the interpret
 
 ### Reference Links
 
+* [Ethel - Documerica](https://www.youtube.com/watch?v=tkMn9EbxPy4)
+* [Eclectic Method - Guns](https://www.youtube.com/watch?v=14InQ-T7LQs)
+* [NONOTAK - LATE SPECULATION](https://www.youtube.com/watch?v=UfjCQfOvcKU)
+* [Electric Sheep](https://electricsheep.org/)
+
 ### Resources
 
 * [Retro Logo Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L1.zip)
 
 ### Related Tutorials and Case Studies
 
-* Using LUT based FX in VDMX
-* VDMX Visual FX Overview
-* How To Create A Classic Music Video “Zooming Feedback” Style Effect
-* CandyStations live visuals for Sufjan Stevens Age of Adz
-* Creating a Retro Halloween style in VDMX
+* [Using LUT based FX in VDMX](https://vdmx.vidvox.net/tutorials/lut-fx-in-vdmx)
+* [How To Create A Classic Music Video “Zooming Feedback” Style Effect](https://vdmx.vidvox.net/tutorials/zooming-feedback-effect)
+* [Minimalist visuals in VDMX](https://vdmx.vidvox.net/tutorials/minimalism-in-vdmx)
+* [CandyStations live visuals for Sufjan Stevens Age of Adz](https://vdmx.vidvox.net/blog/candystations-live-visuals-for-sufjan-stevens-age-of-adz-and-sneak-peek-at-planetarium)
+* [Creating a Retro Halloween style in VDMX](https://vdmx.vidvox.net/tutorials/create-retro-halloween-visual-styles-in-vdmx)
+* [DJ Mixer EQ Style Masking FX for VDMX](https://vdmx.vidvox.net/tutorials/dj-mixer-eq-style-masking-fx-for-vdmx)
+* [Creating a “LiveLeak” Background Fill FX in VDMX](https://vdmx.vidvox.net/tutorials/creating-a-liveleak-background-fill-fx-in-vdmx)
 
 ### Homework
 
-* Create an mix that uses at least three different styles as a sketch for your final project.
+* Create an mix that uses at least three different styles as a test sketches for your final project.
 
 ## Lesson 2: Mood board / storyboarding
 

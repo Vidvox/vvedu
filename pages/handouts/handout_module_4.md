@@ -180,7 +180,6 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 * [The Book of Shaders Chapter 9: Patterns](https://thebookofshaders.com/09/)
 * [10print](https://10print.org/)
 * [SimoNeri - Natural Rhythms](https://simoneri.com/works_category/natural-rhythms/)
-* Godseye Tile
 
 ### Resources
 

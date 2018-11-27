@@ -75,6 +75,9 @@ folder: reference
 5. **Aesthetic Overview**: [Handout](/vvedu/handout_module_5.html) / [Lesson Plans](/vvedu/teaching_module_5.html)
 - Styling Your Look:
 - - [Retro Logo Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L1.zip)
+- - [Styling Your Look Lecture Video](https://vimeo.com/303160359)
+- - [Styling Your Look Lecture Slides](https://docs.google.com/presentation/d/1m-juxqZ6y7FalY_8e5CY6V7S85p4JU2MwYMnTszMGvw/)
+- - [Styling Your Look Demonstration Video](https://vimeo.com/303156297)
 - Mood board / Storyboarding:
 - - [Space Mood Board](https://s3.amazonaws.com/vidvox/vvedu/M5-L2-SpaceMoodExample.zip)
 - - [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
