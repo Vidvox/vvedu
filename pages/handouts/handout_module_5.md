@@ -58,6 +58,7 @@ We should consider how effects and digital manipulation influences the interpret
 * [Eclectic Method - Guns](https://www.youtube.com/watch?v=14InQ-T7LQs)
 * [NONOTAK - LATE SPECULATION](https://www.youtube.com/watch?v=UfjCQfOvcKU)
 * [Electric Sheep](https://electricsheep.org/)
+* [Sounds of the Future: A Historical Primer on Synths in Sci-Fi Movies](https://flypaper.soundfly.com/tips/sounds-future-history-primer-synths-sci-fi-movies/)
 
 ### Resources
 
@@ -84,6 +85,12 @@ A visual performer will need to plan out the theme, setting, and mood for a perf
 Start by creating a primer, or “[mood board](http://www.gomoodboard.com/),” for the overall style, palette, and patina for the visual design. This may include a collection of colors, graphics, textures, image references, screen grabs, etcetera. Lay them out using your preferred image viewer (Finder, Preview, Bridge, et al) or make a collage Photoshop. [Pinterest](https://www.pinterest.com/) is another resource for collecting images of a certain theme.
 
 Next, storyboard the desired sequence for your music. In the animation industry, storyboards are comprised of “extremes and in-betweens.” Extremes are moments that set the exact mood, emotion, or key image in a sequence. In-betweens are the transitional frames that move from one extreme to the next. 
+
+### Videos and Slides
+
+* [Mood boards and Storyboards Lecture Video](https://vimeo.com/304475352)
+* [Mood boards and Storyboards Lecture Slides](https://docs.google.com/presentation/d/1FrmfLHSkFJJFFCXqd2GlObHf19n-nPL1EQvr0ESrUYg)
+* [Mood boards and Storyboards Demonstration Video](https://vimeo.com/304497668)
 
 ### Lesson Overview
 

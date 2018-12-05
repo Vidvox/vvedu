@@ -19,6 +19,7 @@ folder: reference
 * [Survey of Alternative Displays](http://blairneal.com/survey-of-alternative-displays/)
 * [Guide to Projectors for Interactive Installations](https://github.com/laserpilot/Guide_To_Projectors_For_Interactive_Installations/blob/master/Guide%20to%20Projectors%20for%20Interactive%20Installations.md)
 * [Guide to Cameras for Interactive Installations](https://github.com/laserpilot/Guide_To_Cameras_Interactive_Installations/blob/master/Guide_To_Cameras_For_Interactive_Installations.md)
+* [Everything is a Remix](https://www.everythingisaremix.info/)
 
 ## Books
 * [Film Form: Essays in Film Theory by Sergei Eisenstein](https://www.amazon.com/Film-Form-Essays-Theory/dp/0156309203/)
@@ -30,4 +31,10 @@ folder: reference
 * [Picturing Time, The Work of Etieene-Jules Marey](https://www.press.uchicago.edu/ucp/books/book/chicago/P/bo3684366.html), Sons & Lumieres, Centre Pompidou  
 * [Stopping Time](https://www.amazon.com/Stopping-Time-Photographs-Harold-Edgerton/dp/0810927179), The Photographs of Harold Edgerton, Gus Kayafas and Estelle Jussim, Harry N. Abrams, 2000
 * [Rhythm Science](https://www.amazon.com/Rhythm-Science-Mediaworks-Pamphlets-Subliminal/dp/026263287X), Paul D. Miller, The MIT Press, 2004
-* [In the Blink of an Eye](https://www.amazon.com/Blink-Eye-Perspective-Film-Editing/dp/1879505622), Walter Murch, Silman-James, 2 Revised Edition, 2001  
+* [In the Blink of an Eye](https://www.amazon.com/Blink-Eye-Perspective-Film-Editing/dp/1879505622), Walter Murch, Silman-James, 2 Revised Edition, 2001
+* [Remix: Making Art and Commerce Thrive in the Hybrid Economy](https://www.amazon.com/Remix-Making-Commerce-Thrive-Economy/dp/0143116134), Lawrence Lessig, Penguin Press HC, 2008
+
+## Films and Videos
+
+* [RiP: A Remix Manifesto](https://www.youtube.com/watch?v=quO_Dzm4rnk), Brett Gaylor, The National Film Board of Canada, 2008
+* [Everything is a Remix](https://www.youtube.com/watch?v=nJPERZDfyWc), Kirby Ferguson, 2015

@@ -292,6 +292,9 @@ Recommended:
 
 ### Lecture Notes
 
+- [Mood boards and Storyboards Lecture Video](https://vimeo.com/304475352)
+- [Mood boards and Storyboards Lecture Slides](https://docs.google.com/presentation/d/1FrmfLHSkFJJFFCXqd2GlObHf19n-nPL1EQvr0ESrUYg)
+
 - [Moodboards](https://en.wikipedia.org/wiki/Mood_board)
 - - Used to help define style, feeling and general aesthetics
 - Usually an informal process. Start with using whatever tools you feel most comfortable with, then compile into a PDF or other collection for sharing with collaborators
@@ -309,6 +312,8 @@ Recommended:
 * Example mood board: Space
 
 ### Demonstrations
+
+- [Mood boards and Storyboards Demonstration Video](https://vimeo.com/304497668)
 
 #### Creating mood boards
 

@@ -81,6 +81,9 @@ folder: reference
 - Mood board / Storyboarding:
 - - [Space Mood Board](https://s3.amazonaws.com/vidvox/vvedu/M5-L2-SpaceMoodExample.zip)
 - - [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
+- - [Mood boards and Storyboards Lecture Video](https://vimeo.com/304475352)
+- - [Mood boards and Storyboards Lecture Slides](https://docs.google.com/presentation/d/1FrmfLHSkFJJFFCXqd2GlObHf19n-nPL1EQvr0ESrUYg)
+- - [Mood boards and Storyboards Demonstration Video](https://vimeo.com/304497668)
 
 6. **Show and Event Production**: [Handout](/vvedu/handout_module_6.html) / [Lesson Plans](/vvedu/teaching_module_6.html)
 - Pre-Production and Show Design:
