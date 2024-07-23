@@ -44,7 +44,7 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 ### Special Equipment
 
 Required:
-- [Kuleshov Example Clips](https://s3.amazonaws.com/vidvox/vvedu/M2-L1.zip)
+- [Kuleshov Example Clips](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M2-L1.zip)
 - [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
 Recommended:
@@ -153,7 +153,7 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 ### Special Equipment
 
 Required:
-- [Rhythmic Sequence Example](https://s3.amazonaws.com/vidvox/vvedu/M2-L2.zip)
+- [Rhythmic Sequence Example](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M2-L2.zip)
 - [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
 Recommended:
@@ -312,7 +312,7 @@ For this exercise, you will experiment with the layering of indexical material t
 ### Special Equipment
 
 Required:
-- [Luma Key Mixer and Example Media](https://s3.amazonaws.com/vidvox/vvedu/M2-L3.zip)
+- [Luma Key Mixer and Example Media](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M2-L3.zip)
 
 ### Lecture Notes
 

@@ -78,7 +78,7 @@ Multiple cameras can present different views of the performer at the same time, 
 
 ### Resources
 
-* [Timecode Example Project](https://s3.amazonaws.com/vidvox/vvedu/M6-L1.zip)
+* [Timecode Example Project](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M6-L1.zip)
 * LTC audio test file (create your own online, [http://elteesee.pehrhovey.net/](http://elteesee.pehrhovey.net/))
 * Software to receive LTC (such as [LockStep](https://figure53.com/lockstep/))
 * Software to receive MTC (such as [TimecodeDisplay](http://figure53.com/downloads/TimecodeDisplay.zip))

@@ -38,7 +38,7 @@ We should consider how effects and digital manipulation influences the interpret
 ### Special Equipment
 
 Required:
-- [Retro Logo Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L1.zip)
+- [Retro Logo Project](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M5-L1.zip)
 
 Recommended:
 - 
@@ -285,10 +285,10 @@ In this demonstration we'll be making a space themed mood board and evolve that 
 ### Special Equipment
 
 Required:
- - [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
+ - [Stargate Project](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M5-L2.zip)
 
 Recommended:
-- [Space Mood Board](https://s3.amazonaws.com/vidvox/vvedu/M5-L2-SpaceMoodExample.zip)
+- [Space Mood Board](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M5-L2-SpaceMoodExample.zip)
 
 ### Lecture Notes
 
