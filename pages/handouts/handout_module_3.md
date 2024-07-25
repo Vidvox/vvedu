@@ -74,7 +74,7 @@ We will then explore the [law of continuation](https://www.interaction-design.or
 
 ### Resources
 
-* [Motion Design Play Example](https://s3.amazonaws.com/vidvox/vvedu/M3-L1.zip)
+* [Motion Design Play Example](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M3-L1.zip)
 
 ### Related Tutorials and Case Studies
 
@@ -145,7 +145,7 @@ Finally, refine the timing of your final composition to music by syncing the mot
 
 ### Resources
 
-* [Motion Design Color Play](https://s3.amazonaws.com/vidvox/vvedu/M3-L2.zip)
+* [Motion Design Color Play](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M3-L2.zip)
 
 ### Related Tutorials and Case Studies
 

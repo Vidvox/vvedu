@@ -62,7 +62,7 @@ We should consider how effects and digital manipulation influences the interpret
 
 ### Resources
 
-* [Retro Logo Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L1.zip)
+* [Retro Logo Project](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M5-L1.zip)
 
 ### Related Tutorials and Case Studies
 
@@ -122,8 +122,8 @@ Next, storyboard the desired sequence for your music. In the animation industry,
 
 ### Resources
 
-* [Stargate Project](https://s3.amazonaws.com/vidvox/vvedu/M5-L2.zip)
-* [Space Mood Board](https://s3.amazonaws.com/vidvox/vvedu/M5-L2-SpaceMoodExample.zip)
+* [Stargate Project](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M5-L2.zip)
+* [Space Mood Board](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M5-L2-SpaceMoodExample.zip)
 
 ### Related Tutorials and Case Studies
 

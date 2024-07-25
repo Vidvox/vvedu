@@ -68,7 +68,7 @@ You will use this cornerstone of editing as your first VJ’ing exercise, elicit
 
 ### Resources
 
-* [Kuleshov Example Clips](https://s3.amazonaws.com/vidvox/vvedu/M2-L1.zip)
+* [Kuleshov Example Clips](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M2-L1.zip)
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 * [Freesound.org](Freesound.org)
 * [YouTube Royalty Free Library](https://www.youtube.com/audiolibrary/music)
@@ -157,7 +157,7 @@ You’re creating rhythm almost immediately after you begin performing -- it’s
 
 ### Resources
 
-* [Rhythmic Sequence VDMX Example](https://s3.amazonaws.com/vidvox/vvedu/M2-L2.zip)
+* [Rhythmic Sequence VDMX Example](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M2-L2.zip)
 * [Freesound.org](Freesound.org)
 * [YouTube Royalty Free Library](https://www.youtube.com/audiolibrary/music)
 Sample template for sequencing clips
@@ -245,7 +245,7 @@ For this exercise, you will experiment with the layering of indexical material t
 
 ### Resources
 
-* [Luma Key Mixer and Example Media](https://s3.amazonaws.com/vidvox/vvedu/M2-L3.zip)
+* [Luma Key Mixer and Example Media](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M2-L3.zip)
 
 ### Related Tutorials and Case Studies
 

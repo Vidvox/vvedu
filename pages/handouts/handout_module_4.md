@@ -57,7 +57,7 @@ This week, we will create a shape-based color organ, creating and performing for
 
 ### Resources
 
-* [Color Organ Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L1.zip)
+* [Color Organ Examples](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M4-L1.zip)
 * [SimpleSynth](http://notahat.com/simplesynth/) or comparable app
 * [MIDI Monitor](https://www.snoize.com/MIDIMonitor/) or comparable app
 
@@ -117,7 +117,7 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 
 ### Resources
 
-* [VU Meter + Booba/Kiki Example ISF](https://s3.amazonaws.com/vidvox/vvedu/M4-L2.zip)
+* [VU Meter + Booba/Kiki Example ISF](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M4-L2.zip)
 * [ProjectMilkSyphon](https://vdmx.vidvox.net/blog/projectmilksyphon)
 
 ### Related Tutorials and Case Studies
@@ -183,7 +183,7 @@ As discussed in Stills To Motion module, we are hardwired to find patterns in sh
 
 ### Resources
 
-* [ISF Pattern Examples](https://s3.amazonaws.com/vidvox/vvedu/M4-L3.zip)
+* [ISF Pattern Examples](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M4-L3.zip)
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 
 ### Related Tutorials and Case Studies

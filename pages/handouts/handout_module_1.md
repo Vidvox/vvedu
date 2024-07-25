@@ -91,7 +91,7 @@ Outputs
 
 ### Resources
 
-* [Sample Media files](https://s3.amazonaws.com/vidvox/vvedu/M1-L1.zip)
+* [Sample Media files](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M1-L1.zip)
 * [The AVF Batch Exporter](https://docs.vidvox.net/freebies_avf_batch_exporter.html)
 * [VDMX Sample Media files](https://docs.vidvox.net/vdmx_sample_media.html)
 * [Project Milk Syphon](https://docs.vidvox.net/freebies_project_milk_syphon.html)
@@ -171,7 +171,7 @@ This week, we will explore interactive concepts that extend the moving image bey
 
 ### Reference Links
 
-* [Sample project](https://s3.amazonaws.com/vidvox/vvedu/M1-L2.zip)
+* [Sample project](https://d3omao0uy1rjjh.cloudfront.net/vvedu/M1-L2.zip)
 * [Soundflower](https://github.com/mattingalls/Soundflower/releases)
 * [Facetracker](http://facetracker.net/) / [FaceOSC](https://github.com/kylemcdonald/ofxFaceTracker/releases)
 * [TouchOSC](https://hexler.net/software/touchosc)
